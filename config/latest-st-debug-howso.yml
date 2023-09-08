@@ -1,0 +1,12 @@
+Howso:
+  client: howso.engine.enterprise.client.HowsoEngineEnterpriseClient
+  client_extra_params:
+     debug: True
+     check_version: False
+     amalgam:
+        embedded: howso.engine.enterprise.lib.amlg
+        library_postfix: -st
+        trace: True
+        execution_trace_dir: ./traces/
+     core:
+        embedded: howso.engine.enterprise.lib.core

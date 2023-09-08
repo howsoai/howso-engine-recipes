@@ -1,0 +1,19 @@
+name: Reusable WF - Build
+
+on:
+  workflow_call:
+    inputs:
+      version:
+        required: true
+        type: string
+
+defaults:
+  run:
+    shell: bash
+
+jobs:
+
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo 'Done'
