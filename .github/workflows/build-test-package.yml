@@ -17,3 +17,31 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - run: echo 'Done'
+
+  test-3-8:
+    needs: ["build"]
+    uses: "./.github/workflows/pytest.yml"
+    secrets: inherit
+    with:
+      python-version: "3.8"
+
+  test-3-9:
+    needs: ["build"]
+    uses: "./.github/workflows/pytest.yml"
+    secrets: inherit
+    with:
+      python-version: "3.9"
+
+  test-3-10:
+    needs: ["build"]
+    uses: "./.github/workflows/pytest.yml"
+    secrets: inherit
+    with:
+      python-version: "3.10"
+
+  test-3-11:
+    needs: ["build"]
+    uses: "./.github/workflows/pytest.yml"
+    secrets: inherit
+    with:
+      python-version: "3.11"

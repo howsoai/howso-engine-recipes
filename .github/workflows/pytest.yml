@@ -1,0 +1,30 @@
+name: Reusable WF - Pytests
+
+on:
+  workflow_call:
+    inputs:
+      python-version:
+        required: true
+        type: string
+
+jobs:
+
+  test:
+    name: Pytest (${{ inputs.python-version }})
+    runs-on: ubuntu-latest
+    steps:
+
+      - uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: ${{ inputs.python-version }}
+
+      - name: Run unit tests
+        run: |
+          python --version
+          pip install -r requirements.in
+          pip install -r requirements-dev.in
+          loglevel=${1:-INFO}
+          python -m pytest -s --log-cli-level=${loglevel} -o junit_family=xunit2 --junitxml=junit/test-results.xml
