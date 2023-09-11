@@ -46,7 +46,7 @@ def test_KDE_prediction_interval(tb):
         from scipy.integrate import quad
 
         r_val = react["action"].loc[0, 'moid']
-        lower_bound = r_val - global_residual
+        lower_bound = r_val - global_residual 
         upper_bound = r_val + global_residual
 
         from scipy.stats import gaussian_kde

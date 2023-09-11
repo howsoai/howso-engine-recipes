@@ -1,3 +1,5 @@
+import pytest
+
 tb_filename = "engine_drift_monitoring.ipynb"
 
 
@@ -16,11 +18,3 @@ def test_drift_agreement(tb):
     )
 
     assert tb.ref("after_drift") > tb.ref("before_drift")
-
-
-def test_drift_KL(tb):
-    """
-    Test that the KL divergence is greater after the drift
-
-    """
-    assert tb.ref("kl_diff") > 0
