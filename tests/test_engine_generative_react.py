@@ -1,4 +1,4 @@
-tb_filename = "generative_react_and_synth.ipynb"
+tb_filename = "engine_generative_react.ipynb"
 
 
 def test_gen_highconv_acc(tb):
