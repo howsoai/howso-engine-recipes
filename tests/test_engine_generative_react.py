@@ -22,13 +22,13 @@ def test_compare_gen_conv_acc(tb):
         """
     )
 
-    assert tb.ref("accuracy_high") >= tb.ref("accuracy_low") 
+    assert tb.ref("accuracy_high") >= tb.ref("accuracy_low")
 
 
 def test_synth_length(tb):
     """Ensure synthetic dataset lenght equals the desired length"""
 
     desired_len = tb.ref('len(df)')
-    synth_len = tb.ref('len(synth_data)')
+    synth_len = tb.ref('len(synthetic_data)')
 
     assert desired_len == synth_len
