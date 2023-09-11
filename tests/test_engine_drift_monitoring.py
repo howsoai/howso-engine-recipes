@@ -9,6 +9,7 @@ def test_drift_agreement(tb):
     """
     tb.inject(
         """
+        mismatch_count_rolling_df = mismatch_count_df.rolling(5).mean()
         before_drift = mismatch_count_rolling_df.iloc[:50].mean().iloc[0]
         after_drift = mismatch_count_rolling_df.iloc[50:].mean().iloc[0]
         """
