@@ -8,6 +8,7 @@ def test_predicted_mean_interval(tb):
     """
     tb.inject(
         """
+        r_val = react["action"].loc[0, 'moid']
         upper_limit = (r_val + global_residual)
         lower_limit = (r_val - global_residual)
 
