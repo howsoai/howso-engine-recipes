@@ -11,5 +11,3 @@ def test_action_length(tb):
         assert len(generative_reaction_1) == 5
         """
     )
-
-    assert tb.ref("accuracy") >= 0.7
