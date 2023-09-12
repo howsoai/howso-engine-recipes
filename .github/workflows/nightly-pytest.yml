@@ -1,9 +1,16 @@
 name: Reusable WF - Nightly Pytest Run
 
-on: # Optional manual trigger + nightly run at 12am Raleigh time (EST)
-  workflow_dispatch:
+on:
+  workflow_dispatch:  # Optional manual trigger
   schedule:
-    - cron: 0 4 * * *
+    - cron: 0 4 * * *  # Run nightly at 12am Raleigh time (EST)
+  push:
+    branches:
+      - main  # Run on every push to main
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
 
@@ -12,7 +19,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        python-version: [3.8, 3.9, 3.10, 3.11]
+        python-version: ["3.8", "3.9", "3.10", "3.11"]
     steps:
 
       - uses: actions/checkout@v3
