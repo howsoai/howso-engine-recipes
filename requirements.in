@@ -1,5 +1,5 @@
 babel>=2.8.0,<3
-howso-engine>=1.1.4
+howso-engine>=7.3.0
 geopandas>=0.10.0,<0.11.0; python_version<'3.8'
 geopandas>=0.11.0; python_version>='3.8'
 ipykernel>=6.0.0,<7
