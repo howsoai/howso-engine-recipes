@@ -1,0 +1,80 @@
+name: Reusable WF - Pytests
+
+on:
+  workflow_call:
+    inputs:
+      python-version:
+        required: true
+        type: string
+      payload:
+        required: false
+        type: string
+
+jobs:
+
+  get-howso-engine-py-details:
+    uses: "./.github/workflows/get-dependency-details.yml"
+    secrets: inherit
+    with:
+      owner: "howsoai"
+      repo: "howso-engine-py"
+      payload: "${{ inputs.payload }}"
+      skip-version-json-check: true
+
+  get-amalgam-lang-py-details:
+    uses: "./.github/workflows/get-dependency-details.yml"
+    secrets: inherit
+    with:
+      owner: "howsoai"
+      repo: "amalgam-lang-py"
+      payload: "${{ inputs.payload }}"
+      skip-version-json-check: true
+
+  test:
+    name: Pytest (${{ inputs.python-version }})
+    needs: ["get-howso-engine-py-details", "get-amalgam-lang-py-details"]
+    runs-on: ubuntu-latest
+    steps:
+
+      - uses: actions/checkout@v3
+
+      - name: Download howso-engine-py
+        if: needs.get-howso-engine-py-details.outputs.run-type != ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh ${{ needs.get-howso-engine-py-details.outputs.run-type }} download -D hse -R "howsoai/howso-engine-py" -p "howso_engine-*-py3-none-any.whl" "${{ needs.get-howso-engine-py-details.outputs.run-id }}"
+          # Needed because release/non-release downloads are different structure
+          cd hse && if [ ! -f howso_engine-*.whl ]; then mv howso_engine-*.whl ./tmp && mv ./tmp/howso_engine-*.whl ./; fi
+
+      - name: Download amalgam-lang-py
+        if: needs.get-amalgam-lang-py-details.outputs.run-type != ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh ${{ needs.get-amalgam-lang-py-details.outputs.run-type }} download -D amlg -R "howsoai/amalgam-lang-py" -p "amalgam_lang-*-py3-none-any.whl" "${{ needs.get-amalgam-lang-py-details.outputs.run-id }}"
+          # Needed because release/non-release downloads are different structure
+          cd amlg && if [ ! -f amalgam_lang-*.whl ]; then mv amalgam_lang-*.whl ./tmp && mv ./tmp/amalgam_lang-*.whl ./; fi
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: ${{ inputs.python-version }}
+
+      - name: Run unit tests
+        run: |
+          python --version
+          pip install -r requirements.in
+          pip install -r requirements-dev.in
+          if [ -d "amlg" ]; then
+            echo "Found custom amalgam-lang version; installing..."
+            pip uninstall amalgam-lang -y
+            pip install amlg/*.whl
+          fi
+          if [ -d "hse" ]; then
+            echo "Found custom howso-engine version; installing..."
+            pip uninstall howso-engine -y
+            pip install hse/*.whl
+          fi
+          loglevel=${1:-INFO}
+          python -m pytest -s --log-cli-level=${loglevel} -o junit_family=xunit2 --junitxml=junit/test-results.xml

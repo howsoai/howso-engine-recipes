@@ -6,6 +6,9 @@ on:
       version:
         required: true
         type: string
+      payload:
+        required: false
+        type: string
 
 defaults:
   run:
@@ -13,7 +16,16 @@ defaults:
 
 jobs:
 
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - run: echo 'Done'
+  test-3-8:
+    uses: "./.github/workflows/pytest.yml"
+    secrets: inherit
+    with:
+      python-version: "3.8"
+      payload: "${{ inputs.payload }}"
+
+  test-3-11:
+    uses: "./.github/workflows/pytest.yml"
+    secrets: inherit
+    with:
+      python-version: "3.11"
+      payload: "${{ inputs.payload }}"
