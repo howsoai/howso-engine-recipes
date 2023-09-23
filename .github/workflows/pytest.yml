@@ -45,7 +45,7 @@ jobs:
         run: |
           gh ${{ needs.get-howso-engine-py-details.outputs.run-type }} download -D hse -R "howsoai/howso-engine-py" -p "howso_engine-*-py3-none-any" "${{ needs.get-howso-engine-py-details.outputs.run-id }}"
           # Needed because release/non-release downloads are different structure
-          cd hse && if [ ! -f howso_engine-*.whl ]; then mv howso_engine-*.whl ./tmp && mv ./tmp/howso_engine-*.whl ./; fi
+          cd hse && if [ ! -f *.whl ]; then mv */*.whl ./; fi
 
       - name: Download amalgam-lang-py
         if: needs.get-amalgam-lang-py-details.outputs.run-type != ''
@@ -54,7 +54,7 @@ jobs:
         run: |
           gh ${{ needs.get-amalgam-lang-py-details.outputs.run-type }} download -D amlg -R "howsoai/amalgam-lang-py" -p "amalgam_lang-*-py3-none-any" "${{ needs.get-amalgam-lang-py-details.outputs.run-id }}"
           # Needed because release/non-release downloads are different structure
-          cd amlg && if [ ! -f amalgam_lang-*.whl ]; then mv amalgam_lang-*.whl ./tmp && mv ./tmp/amalgam_lang-*.whl ./; fi
+          cd amlg && if [ ! -f *.whl ]; then mv */*.whl ./; fi
 
       - name: Set up Python
         uses: actions/setup-python@v4
