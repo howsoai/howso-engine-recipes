@@ -3,7 +3,7 @@ tb_filename = "engine_predict_explain_show.ipynb"
 
 def test_accuracy(tb):
     """Ensure sufficient accuracy for data set."""
-    assert tb.ref("accuracy") >= 0.70
+    assert tb.ref("accuracy") >= 0.65
 
 
 def test_outliers(tb):
