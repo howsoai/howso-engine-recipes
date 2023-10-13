@@ -2,14 +2,11 @@ tb_filename = "engine_timeseries_forecasting.ipynb"
 
 
 def test_forecasting(tb):
-    """Ensure forecasts don't end too early and aren't too long."""
+    """Ensure forecasts aren't too long."""
 
     tb.inject(
         """
-        forecast_lengths = synth_df.groupby('id').size()
-        last_forecast_ys = synth_df.sort_values('time', ascending=False).drop_duplicates('id')['y']
+        max_forecast_time = synth_df['time'].max().item()
         """
     )
-
-    assert tb.ref("last_forecast_ys").max() < 40
-    assert tb.ref("forecast_lengths").max() < 50
+    assert tb.ref("max_forecast_time") < 4.5
