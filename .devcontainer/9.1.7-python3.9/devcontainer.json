@@ -1,0 +1,8 @@
+{
+    "image": "ghcr.io/howsoai/howso:7.1.7-python3.9",
+    "customizations": {
+        "vscode": {
+          "extensions": ["ms-toolsai.jupyter"]
+        }
+    }
+}
