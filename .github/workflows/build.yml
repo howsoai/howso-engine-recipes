@@ -1,0 +1,50 @@
+name: Reusable WF - Build
+
+on:
+  workflow_call:
+    inputs:
+      version:
+        required: true
+        type: string
+      payload:
+        required: false
+        type: string
+      build-type:
+        required: false
+        type: string
+
+defaults:
+  run:
+    shell: bash
+
+jobs:
+
+  workflow-summary:
+    if: inputs.build-type != 'release'
+    uses: "./.github/workflows/workflow-summary.yml"
+    secrets: inherit
+    with:
+      payload: "${{ inputs.payload }}"
+
+  test:
+    if: inputs.build-type != 'release'
+    uses: "./.github/workflows/pytest.yml"
+    secrets: inherit
+    with:
+      payload: "${{ inputs.payload }}"
+
+  create-release:
+    if: inputs.build-type == 'release'
+    needs: ['test']
+    runs-on: ubuntu-latest
+    steps:
+
+    - name: Create Release
+      uses: ncipollo/release-action@v1
+      with:
+        tag: ${{ inputs.version }}
+        commit: ${{ github.sha }}
+        name: "Howso Engine Recipes ${{ inputs.version }}"
+        artifactErrorsFailBuild: true
+        generateReleaseNotes: true
+        makeLatest: legacy
