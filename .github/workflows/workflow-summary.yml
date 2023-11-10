@@ -66,7 +66,6 @@ jobs:
           GH_TOKEN: ${{ secrets.HOWSOAI_WORKFLOW_AUTOMATION_TOKEN }}
         run: |
           # Install requirements
-          export PIP_EXTRA_INDEX_URL=https://vsts-build@diveplane.com:${{ secrets.ARTIFACTORY_ACCESS_TOKEN }}@dpbuild.jfrog.io/artifactory/api/pypi/pypi-edge/simple
           pip install -r requirements.in --user
           # Reinstall howso-engine/amalgam-lang to get latest versions (TODO: fix this)
           site_packages=$(python -m site --user-site)
