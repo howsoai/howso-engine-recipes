@@ -77,4 +77,4 @@ jobs:
             pip install amlg/*.whl
           fi
           loglevel=${1:-INFO}
-          python -m pytest -n 4 -s --log-cli-level=${loglevel} -o junit_family=xunit2 --junitxml=junit/test-results.xml
+          python -m pytest -s --log-cli-level=${loglevel} -o junit_family=xunit2 --junitxml=junit/test-results.xml
