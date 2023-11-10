@@ -58,7 +58,7 @@ jobs:
       - name: Get dependency details
         id: dependency
         env:
-          GH_TOKEN: ${{ secrets.HOWSOAI_WORKFLOW_AUTOMATION_CLASSIC_TOKEN }}
+          GH_TOKEN: ${{ github.token }}
         run: |
           echo "Parsing JSON payload: '${{ inputs.payload }}'..."
           ID=""
