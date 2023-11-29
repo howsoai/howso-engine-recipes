@@ -19,7 +19,7 @@ There are two main methods for setting up to run the recipes:
 Running in a dev container is a quick method to get set up to run the recipes,
 assuming that you'd like to use Docker and VS Code. This method uses 
 [container images](https://github.com/howsoai/howso-devcontainers/pkgs/container/howso)
-built as part of the [Howso Developement Containers](https://github.com/howsoai/howso-devcontainers).
+built as part of the [Howso Development Containers](https://github.com/howsoai/howso-devcontainers).
 You can use the dev containers
 either by cloning this repo first and reopening VS Code, or using the "one click"
 method that does both steps for you.

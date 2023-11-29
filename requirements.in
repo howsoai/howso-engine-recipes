@@ -11,6 +11,7 @@ pandas
 plotly>=5.7.0
 pmlb>=1.0
 reverse_geocoder==1.5.1
+scikit-learn
 seaborn
 urllib3>=1.26.0,<2
 howso-visuals
