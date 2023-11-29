@@ -3,9 +3,6 @@ name: Reusable WF - Pytests
 on:
   workflow_call:
     inputs:
-      python-version:
-        required: true
-        type: string
       payload:
         required: false
         type: string
@@ -31,9 +28,12 @@ jobs:
       skip-version-json-check: true
 
   test:
-    name: Pytest (${{ inputs.python-version }})
+    name: Pytest (${{ matrix.python-version }})
     needs: ["get-howso-engine-py-details", "get-amalgam-lang-py-details"]
-    runs-on: ubuntu-latest
+    runs-on: howso-ubuntu-runner-latest
+    strategy:
+      matrix:
+        python-version: ["3.8", "3.11"]
     steps:
 
       - uses: actions/checkout@v3
@@ -59,22 +59,22 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: ${{ inputs.python-version }}
+          python-version: ${{ matrix.python-version }}
 
       - name: Run unit tests
         run: |
           python --version
           pip install -r requirements.in
           pip install -r requirements-dev.in
-          if [ -d "amlg" ]; then
-            echo "Found custom amalgam-lang version; installing..."
-            pip uninstall amalgam-lang -y
-            pip install amlg/*.whl
-          fi
           if [ -d "hse" ]; then
             echo "Found custom howso-engine version; installing..."
             pip uninstall howso-engine -y
             pip install hse/*.whl
+          fi
+          if [ -d "amlg" ]; then
+            echo "Found custom amalgam-lang version; installing..."
+            pip uninstall amalgam-lang -y
+            pip install amlg/*.whl
           fi
           loglevel=${1:-INFO}
           python -m pytest -s --log-cli-level=${loglevel} -o junit_family=xunit2 --junitxml=junit/test-results.xml
