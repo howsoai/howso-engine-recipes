@@ -35,7 +35,6 @@ jobs:
 
   create-release:
     if: inputs.build-type == 'release'
-    needs: ['test']
     runs-on: ubuntu-latest
     steps:
 
