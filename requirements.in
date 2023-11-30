@@ -13,7 +13,6 @@ pmlb>=1.0
 reverse_geocoder==1.5.1
 scikit-learn
 seaborn
-urllib3>=1.26.0,<2
 howso-visuals
 # This can be dropped when we stop supporting Python 3.8
 ipython<8.13; python_version=='3.8'
