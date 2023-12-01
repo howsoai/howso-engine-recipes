@@ -37,7 +37,7 @@ jobs:
     steps:
 
       - name: Collect Workflow Telemetry
-        uses: runforesight/workflow-telemetry-action@v1
+        uses: catchpoint/workflow-telemetry-action@v1
         with:
           comment_on_pr: off
           proc_trace_chart_show: off
