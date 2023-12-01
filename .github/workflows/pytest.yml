@@ -36,6 +36,13 @@ jobs:
         python-version: ["3.8", "3.11"]
     steps:
 
+      - name: Collect Workflow Telemetry
+        uses: catchpoint/workflow-telemetry-action@v1
+        with:
+          comment_on_pr: off
+          proc_trace_chart_show: off
+          proc_trace_table_show: off
+
       - uses: actions/checkout@v3
 
       - name: Download howso-engine-py
