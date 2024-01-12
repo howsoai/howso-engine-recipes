@@ -130,7 +130,7 @@ jobs:
     uses: howsoai/.github/.github/workflows/pytest.yml@main
     secrets: inherit
     with:
-      platform: 'macos-latest-xlarge'
+      platform: 'macos-latest-large'
       platform-pretty: 'MacOS'
       amalgam-plat-arch: 'darwin-arm64'
       python-version: '3.11'
