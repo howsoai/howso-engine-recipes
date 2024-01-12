@@ -1,15 +1,30 @@
-name: Reusable WF - Build
+name: Build
+run-name: "Branch Build (${{ github.run_attempt }}.${{ github.run_number }}) - ${{ github.ref_name }}"
 
 on:
-  workflow_call:
+  workflow_dispatch:
     inputs:
-      version:
-        required: true
-        type: string
-      payload:
+      amalgam-lang-py-build:
+        description: |
+          (Optional) amalgam-lang-py build or version number. Defaults to pinned release.
+          
+          Examples:
+            '6807310618',
+            'https://github.com/howsoai/amalgam-lang-py/actions/runs/6807310618',
+            '4.0.1'
         required: false
         type: string
+      howso-engine-py-build:
+        description: |
+          (Optional) howso-engine-py build or version number. Defaults to pinned release.
+        required: false
+        type: string
+  workflow_call:
+    inputs:
       build-type:
+        required: false
+        type: string
+      optional-release-tag:
         required: false
         type: string
 
@@ -19,31 +34,131 @@ defaults:
 
 jobs:
 
+  metadata:
+    uses: howsoai/.github/.github/workflows/set-metadata.yml@main
+    secrets: inherit
+    with:
+      # Remove unused parameters
+      build-type: ${{ inputs.build-type }}
+      optional-release-tag: ${{ inputs.optional-release-tag }}
+      amalgam-lang-py-build: ${{ inputs.amalgam-lang-py-build }}
+      howso-engine-py-build: ${{ inputs.howso-engine-py-build }}
+
   workflow-summary:
-    if: inputs.build-type != 'release'
-    uses: "./.github/workflows/workflow-summary.yml"
+    needs: ['metadata']
+    uses: "howsoai/.github/.github/workflows/workflow-summary.yml@main"
     secrets: inherit
     with:
-      payload: "${{ inputs.payload }}"
+      upstream-details: ${{ needs.metadata.outputs.upstream-details }}
 
-  test:
-    if: inputs.build-type != 'release'
-    uses: "./.github/workflows/pytest.yml"
+  pytest-linux-3-8-st:
+    if: inputs.build-type != 'PR'
+    needs: ['metadata']
+    uses: howsoai/.github/.github/workflows/pytest.yml@main
     secrets: inherit
     with:
-      payload: "${{ inputs.payload }}"
+      platform: 'howso-ubuntu-runner-latest'
+      platform-pretty: 'Linux'
+      amalgam-plat-arch: 'linux-amd64'
+      python-version: '3.8'
+      config-fp: './config/latest-st-debug-howso.yml'
+      config-pretty: 'ST'
+      workers: 'auto'
+      upstream-details: ${{ needs.metadata.outputs.upstream-details }}
 
-  create-release:
+  pytest-linux-3-9-st:
+    if: inputs.build-type != 'PR'
+    needs: ['metadata']
+    uses: howsoai/.github/.github/workflows/pytest.yml@main
+    secrets: inherit
+    with:
+      platform: 'howso-ubuntu-runner-latest'
+      platform-pretty: 'Linux'
+      amalgam-plat-arch: 'linux-amd64'
+      python-version: '3.9'
+      config-fp: './config/latest-st-debug-howso.yml'
+      config-pretty: 'ST'
+      workers: 'auto'
+      upstream-details: ${{ needs.metadata.outputs.upstream-details }}
+
+  pytest-linux-3-10-st:
+    if: inputs.build-type != 'PR'
+    needs: ['metadata']
+    uses: howsoai/.github/.github/workflows/pytest.yml@main
+    secrets: inherit
+    with:
+      platform: 'howso-ubuntu-runner-latest'
+      platform-pretty: 'Linux'
+      amalgam-plat-arch: 'linux-amd64'
+      python-version: '3.10'
+      config-fp: './config/latest-st-debug-howso.yml'
+      config-pretty: 'ST'
+      workers: 'auto'
+      upstream-details: ${{ needs.metadata.outputs.upstream-details }}
+
+  pytest-linux-3-11-mt:
+    if: inputs.build-type != 'PR'
+    needs: ['metadata']
+    uses: howsoai/.github/.github/workflows/pytest.yml@main
+    secrets: inherit
+    with:
+      platform: 'howso-ubuntu-runner-latest'
+      platform-pretty: 'Linux'
+      amalgam-plat-arch: 'linux-amd64'
+      python-version: '3.11'
+      config-fp: './config/latest-mt-debug-howso.yml'
+      config-pretty: 'MT'
+      upstream-details: ${{ needs.metadata.outputs.upstream-details }}
+
+  pytest-windows-3-11-mt:
+    if: inputs.build-type != 'PR'
+    needs: ['metadata']
+    uses: howsoai/.github/.github/workflows/pytest.yml@main
+    secrets: inherit
+    with:
+      platform: 'howso-windows-runner-latest'
+      platform-pretty: 'Windows'
+      amalgam-plat-arch: 'windows-amd64'
+      python-version: '3.11'
+      config-fp: './config/latest-mt-debug-howso.yml'
+      config-pretty: 'MT'
+      upstream-details: ${{ needs.metadata.outputs.upstream-details }}
+
+  pytest-macos-3-11-mt:
+    if: inputs.build-type != 'PR'
+    needs: ['metadata']
+    uses: howsoai/.github/.github/workflows/pytest.yml@main
+    secrets: inherit
+    with:
+      platform: 'macos-latest-xlarge'
+      platform-pretty: 'MacOS'
+      amalgam-plat-arch: 'darwin-arm64'
+      python-version: '3.11'
+      config-fp: './config/latest-mt-debug-howso.yml'
+      config-pretty: 'MT'
+      upstream-details: ${{ needs.metadata.outputs.upstream-details }}
+
+  release:
+    needs:
+      - metadata
+      - pytest-linux-3-8-st
+      - pytest-linux-3-9-st
+      - pytest-linux-3-10-st
+      - pytest-linux-3-11-mt
+      - pytest-windows-3-11-mt
+      - pytest-macos-3-11-mt
     if: inputs.build-type == 'release'
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     steps:
 
     - name: Create Release
       uses: ncipollo/release-action@v1
       with:
-        tag: ${{ inputs.version }}
+        tag: ${{ needs.metadata.outputs.version }}
         commit: ${{ github.sha }}
-        name: "Howso Engine Recipes ${{ inputs.version }}"
+        name: "${{ github.event.repository.name }} ${{ needs.metadata.outputs.version }}"
         artifactErrorsFailBuild: true
         generateReleaseNotes: true
         makeLatest: legacy
