@@ -2959,12 +2959,12 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 ipykernel
-6.28.0
+6.29.0
 BSD License
 IPython Development Team <ipython-dev@scipy.org>
 https://ipython.org
 IPython Kernel for Jupyter
-/opt/hostedtoolcache/Python/3.11.7/x64/lib/python3.11/site-packages/ipykernel-6.28.0.dist-info/licenses/LICENSE
+/opt/hostedtoolcache/Python/3.11.7/x64/lib/python3.11/site-packages/ipykernel-6.29.0.dist-info/licenses/LICENSE
 BSD 3-Clause License
 
 Copyright (c) 2015, IPython Development Team
@@ -3177,12 +3177,12 @@ THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 jsonschema
-4.20.0
+4.21.0
 MIT License
 Julian Berman
 https://github.com/python-jsonschema/jsonschema
 An implementation of JSON Schema validation for Python
-/opt/hostedtoolcache/Python/3.11.7/x64/lib/python3.11/site-packages/jsonschema-4.20.0.dist-info/licenses/COPYING
+/opt/hostedtoolcache/Python/3.11.7/x64/lib/python3.11/site-packages/jsonschema-4.21.0.dist-info/licenses/COPYING
 Copyright (c) 2013 Julian Berman
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -3413,12 +3413,12 @@ to indicate the copyright and license terms:
 
 
 jupyter_server
-2.12.4
+2.12.5
 BSD License
 Jupyter Development Team <jupyter@googlegroups.com>
 https://jupyter-server.readthedocs.io
 The backend—i.e. core services, APIs, and REST endpoints—to Jupyter web applications.
-/opt/hostedtoolcache/Python/3.11.7/x64/lib/python3.11/site-packages/jupyter_server-2.12.4.dist-info/licenses/LICENSE
+/opt/hostedtoolcache/Python/3.11.7/x64/lib/python3.11/site-packages/jupyter_server-2.12.5.dist-info/licenses/LICENSE
 BSD 3-Clause License
 
 - Copyright (c) 2001-2015, IPython Development Team
@@ -3967,12 +3967,12 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 nbconvert
-7.14.1
+7.14.2
 BSD License
 Jupyter Development Team <jupyter@googlegroups.com>
 https://jupyter.org
 Converting Jupyter Notebooks
-/opt/hostedtoolcache/Python/3.11.7/x64/lib/python3.11/site-packages/nbconvert-7.14.1.dist-info/licenses/LICENSE
+/opt/hostedtoolcache/Python/3.11.7/x64/lib/python3.11/site-packages/nbconvert-7.14.2.dist-info/licenses/LICENSE
 BSD 3-Clause License
 
 - Copyright (c) 2001-2015, IPython Development Team
@@ -4047,12 +4047,12 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 nest-asyncio
-1.5.8
+1.5.9
 BSD License
 Ewald R. de Wit
 https://github.com/erdewit/nest_asyncio
 Patch asyncio to allow nested event loops
-/opt/hostedtoolcache/Python/3.11.7/x64/lib/python3.11/site-packages/nest_asyncio-1.5.8.dist-info/LICENSE
+/opt/hostedtoolcache/Python/3.11.7/x64/lib/python3.11/site-packages/nest_asyncio-1.5.9.dist-info/LICENSE
 BSD 2-Clause License
 
 Copyright (c) 2018-2020, Ewald de Wit
