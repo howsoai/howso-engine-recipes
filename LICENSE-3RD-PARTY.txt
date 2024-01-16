@@ -2091,7 +2091,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 howso-openapi-client
-27.1.1
+28.0.0
 GNU Affero General Public License v3
 Howso Incorporated
 UNKNOWN
