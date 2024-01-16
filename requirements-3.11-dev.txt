@@ -454,12 +454,12 @@ geopandas==0.14.2 ; python_version >= "3.8" \
     --hash=sha256:0efa61235a68862c1c6be89fc3707cdeba67667d5676bb19e24f3c57a8c2f723 \
     --hash=sha256:6e71d57b8376f9fdc9f1c3aa3170e7e420e91778de854f51013ae66fd371ccdb
     # via -r requirements.in
-howso-engine==13.0.0 \
-    --hash=sha256:ac04151fe5af3ce1c743e788faa280d97e7eee8819d4e54800324eb2d6e50118 \
-    --hash=sha256:c06373b581179868e0adfa828771992e77bb296a4e46bd679edd57fe934ac034
+howso-engine==13.0.1 \
+    --hash=sha256:28fbaa493d5816509d04daebc828b4f1869cbdc251a06c014d645133ba61e4e5 \
+    --hash=sha256:66f834f77c5fd8e4c9e3fb1dd73a64b26935b230396394898280bbce33ef52ee
     # via -r requirements.in
-howso-openapi-client==27.1.1 \
-    --hash=sha256:a276c2b824e14a6a8810c4e79d16925af51cd5096e2e4d306abab354b1bbb158
+howso-openapi-client==28.0.0 \
+    --hash=sha256:03d2f2660b9e02bb8dbfa0149edd65e4e75a0def644178b8cc72381791ba0ec5
     # via howso-engine
 howso-visuals==1.0.0 \
     --hash=sha256:55e16c5c83a9e07de0447f7a69a512a90002852d379ef04c18ad099e5fcbfe2e \
