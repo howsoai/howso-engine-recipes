@@ -17,6 +17,10 @@ anyio==4.2.0 \
     --hash=sha256:745843b39e829e108e518c489b31dc757de7d2131d53fac32bd8df268227bfee \
     --hash=sha256:e1875bb4b4e2de1669f4bc7869b6d3f54231cdced71605e6e64c9be77e3be50f
     # via jupyter-server
+appnope==0.1.3 \
+    --hash=sha256:02bd91c4de869fbb1e1c50aafc4098827a7a54ab2f39d9dcba6c9547ed920e24 \
+    --hash=sha256:265a455292d0bd8a72453494fa24df5a11eb18373a60c7c0430889f22548605e
+    # via -r requirements-dev.in
 argon2-cffi==23.1.0 \
     --hash=sha256:879c3e79a2729ce768ebb7d36d4609e3a78a4ca2ec3a9f12286ca057e3d0db08 \
     --hash=sha256:c670642b78ba29641818ab2e68bd4e6a78ba53b7eff7b4c3815ae16abf91c7ea
@@ -472,12 +476,12 @@ geopandas==0.13.2 ; python_version >= "3.8" \
     --hash=sha256:101cfd0de54bcf9e287a55b5ea17ebe0db53a5e25a28bacf100143d0507cabd9 \
     --hash=sha256:e5b56d9c20800c77bcc0c914db3f27447a37b23b2cd892be543f5001a694a968
     # via -r requirements.in
-howso-engine==13.0.0 \
-    --hash=sha256:ac04151fe5af3ce1c743e788faa280d97e7eee8819d4e54800324eb2d6e50118 \
-    --hash=sha256:c06373b581179868e0adfa828771992e77bb296a4e46bd679edd57fe934ac034
+howso-engine==13.0.1 \
+    --hash=sha256:28fbaa493d5816509d04daebc828b4f1869cbdc251a06c014d645133ba61e4e5 \
+    --hash=sha256:66f834f77c5fd8e4c9e3fb1dd73a64b26935b230396394898280bbce33ef52ee
     # via -r requirements.in
-howso-openapi-client==27.1.1 \
-    --hash=sha256:a276c2b824e14a6a8810c4e79d16925af51cd5096e2e4d306abab354b1bbb158
+howso-openapi-client==28.0.0 \
+    --hash=sha256:03d2f2660b9e02bb8dbfa0149edd65e4e75a0def644178b8cc72381791ba0ec5
     # via howso-engine
 howso-visuals==1.0.0 \
     --hash=sha256:55e16c5c83a9e07de0447f7a69a512a90002852d379ef04c18ad099e5fcbfe2e \
