@@ -9,7 +9,6 @@ numpy
 pandas
 plotly>=5.7.0
 pmlb>=1.0
-reverse_geocoder==1.5.1
 scikit-learn
 seaborn
 howso-visuals
