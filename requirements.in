@@ -1,7 +1,6 @@
 babel>=2.8.0,<3
 howso-engine~=15.0
-geopandas>=0.10.0,<0.11.0; python_version<'3.8'
-geopandas>=0.11.0; python_version>='3.8'
+geopandas>=0.11.0
 ipykernel>=6.0.0,<7
 jupyter-core>=4.7.0,<5
 matplotlib>=3.4.0,<4
@@ -15,4 +14,4 @@ scikit-learn
 seaborn
 howso-visuals
 # This can be dropped when we stop supporting Python 3.8
-ipython<8.13; python_version=='3.8'
+ipython<8.13; python_version<'3.9'
