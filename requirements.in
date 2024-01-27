@@ -16,3 +16,4 @@ seaborn
 howso-visuals
 # This can be dropped when we stop supporting Python 3.8
 ipython<8.13; python_version=='3.8'
+ 
