@@ -1,0 +1,156 @@
+name: Re-run Recipes
+run-name: "Automated Recipes Re-Run"
+
+on:
+  workflow_dispatch:
+    inputs:
+      python-version:
+        description: "The Python version to use for the re-run."
+        default: '3.11'
+        required: false
+      create-pr:
+        description: "Create a PR against the default branch?"
+        required: true
+        type: boolean
+        default: true
+      ticket-number:
+        description: "A ticket number to use for the creation of the branch and PR."
+        required: false
+      generate-requirements:
+        description: "Regenerate requirements.txt files?"
+        required: true
+        type: boolean
+        default: false
+
+defaults:
+  run:
+    shell: bash
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+
+  gen-branch-name:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    outputs:
+      branch: ${{ steps.gen-branch-name.outputs.branch }}
+
+    steps:
+    
+    - name: Generate branch name
+      id: gen-branch-name
+      run: |
+        if [[ "${{ github.ref_name }}" != "${{ github.event.repository.default_branch }}" ]]; then
+          echo "Workflow appears to have been triggered from a non-default branch. Committing to ${{ github.ref_name }}." 
+          echo "branch=${{ github.ref_name }}" >> $GITHUB_OUTPUT
+          exit 0
+        fi
+        NOW=$(date +'%Y-%m-%dT%Hh%Mm%Ss')
+        if [[ -n "${{ inputs.ticket-number }}" ]]; then
+          BRANCH="${{ inputs.ticket-number }}-rerun-recipes-$NOW"
+        else
+          BRANCH="rerun-recipes-$NOW"
+        fi
+        echo "branch=$BRANCH" >> $GITHUB_OUTPUT
+
+  create-branch:
+    needs: ['gen-branch-name']
+    uses: "howsoai/.github/.github/workflows/create-branch.yml@main"
+    secrets: inherit
+    with:
+      branch: ${{ needs.gen-branch-name.outputs.branch }}
+
+  gen-requirements:
+    if: inputs.generate-requirements == true
+    needs: ['gen-branch-name', 'create-branch']
+    uses: "howsoai/.github/.github/workflows/compile-requirements.yml@main"
+    secrets: inherit
+    with:
+      branch: ${{ needs.gen-branch-name.outputs.branch }}
+      force-rebuild: true
+
+  rerun-recipes:
+    if: always()
+    needs: ['gen-branch-name', 'gen-requirements']
+    runs-on: howso-ubuntu-runner-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    env:
+        GH_TOKEN: ${{ github.token }}
+    steps:
+
+    - uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.HOWSOAI_WORKFLOW_AUTOMATION_TOKEN }}
+        ref: ${{ needs.gen-branch-name.outputs.branch }}
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: ${{ inputs.python-version }}
+
+    - name: Re-run recipes
+      run: |
+        if [[ -n "${{ secrets.ARTIFACTORY_ACCESS_TOKEN }}" ]]; then
+          export PIP_EXTRA_INDEX_URL=https://vsts-build@diveplane.com:${{ secrets.ARTIFACTORY_ACCESS_TOKEN }}@dpbuild.jfrog.io/artifactory/api/pypi/pypi-edge/simple
+        fi
+        ./bin/build.sh install_deps ${{ inputs.python-version }}
+        find . -type f -name "*.ipynb" | while read -r notebook; do
+          dir=$(dirname "$notebook")
+          filename=$(basename "$notebook" .ipynb)
+          if [[ "$dir" != "." ]]; then
+            echo "Temporarily moving $dir/$filename.ipynb to ./$filename.ipynb"
+            mv $dir/$filename.ipynb ./$filename.ipynb
+            jupyter nbconvert --to notebook --inplace --execute "./$filename.ipynb"
+            mv ./$filename.ipynb $dir/$filename.ipynb
+          else
+            jupyter nbconvert --to notebook --inplace --execute "$dir/$filename.ipynb"
+          fi
+        done
+
+    - name: Commit changes to branch
+      run: |
+        git config user.name "howso-automation"
+        git config user.email "support@howso.com"
+        git pull
+        git add *.ipynb
+        git status
+        git commit -m "Automated recipe re-run"
+        git push
+
+  gen-pr-title:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    outputs:
+      title: ${{ steps.gen-pr-title.outputs.title }}
+    env:
+        GH_TOKEN: ${{ github.token }}
+    steps:
+
+    - name: Generate PR title
+      id: gen-pr-title
+      run: |
+        if [[ -n "${{ inputs.ticket-number }}" ]]; then
+          TITLE="${{ inputs.ticket-number }}: Automated recipe re-run"
+        else
+          TITLE="Automated recipe re-run"
+        fi
+        echo "title=$TITLE" >> $GITHUB_OUTPUT
+  
+  create-pr:
+    # Always run this (or it will be skipped), but pass the input conditional to the reusable WF
+    if: always()
+    needs: ['gen-branch-name', 'create-branch', 'rerun-recipes', 'gen-pr-title']
+    uses: "howsoai/.github/.github/workflows/create-pr.yml@main"
+    with:
+      dry-run: ${{ ! inputs.create-pr }}
+      branch: ${{ needs.gen-branch-name.outputs.branch }}
+      title: ${{ needs.gen-pr-title.outputs.title }}
+      body: "Automated PR with generated requirements.txt files."
