@@ -103,14 +103,7 @@ jobs:
         find . -type f -name "*.ipynb" | while read -r notebook; do
           dir=$(dirname "$notebook")
           filename=$(basename "$notebook" .ipynb)
-          if [[ "$dir" != "." ]]; then
-            echo "Temporarily moving $dir/$filename.ipynb to ./$filename.ipynb"
-            mv $dir/$filename.ipynb ./$filename.ipynb
-            jupyter nbconvert --to notebook --inplace --execute "./$filename.ipynb"
-            mv ./$filename.ipynb $dir/$filename.ipynb
-          else
-            jupyter nbconvert --to notebook --inplace --execute "$dir/$filename.ipynb"
-          fi
+          jupyter nbconvert --to notebook --inplace --execute "$dir/$filename.ipynb"
         done
 
     - name: Commit changes to branch
@@ -118,7 +111,7 @@ jobs:
         git config user.name "howso-automation"
         git config user.email "support@howso.com"
         git pull
-        git add *.ipynb
+        git add \*.ipynb
         git status
         git commit -m "Automated recipe re-run"
         git push
@@ -149,6 +142,7 @@ jobs:
     if: always()
     needs: ['gen-branch-name', 'create-branch', 'rerun-recipes', 'gen-pr-title']
     uses: "howsoai/.github/.github/workflows/create-pr.yml@main"
+    secrets: inherit
     with:
       dry-run: ${{ ! inputs.create-pr }}
       branch: ${{ needs.gen-branch-name.outputs.branch }}
