@@ -100,7 +100,7 @@ jobs:
           export PIP_EXTRA_INDEX_URL=https://vsts-build@diveplane.com:${{ secrets.ARTIFACTORY_ACCESS_TOKEN }}@dpbuild.jfrog.io/artifactory/api/pypi/pypi-edge/simple
         fi
         ./bin/build.sh install_deps ${{ inputs.python-version }}
-        find . -type f -name "*.ipynb" | while read -r notebook; do
+        find . -type f -name "*.ipynb" ! -name "engine-db-connector-snowflake.ipynb" | while read -r notebook; do
           dir=$(dirname "$notebook")
           filename=$(basename "$notebook" .ipynb)
           jupyter nbconvert --to notebook --inplace --execute "$dir/$filename.ipynb"
