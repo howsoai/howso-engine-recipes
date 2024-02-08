@@ -1587,12 +1587,12 @@ UNKNOWN
 UNKNOWN
 
 debugpy
-1.8.0
+1.8.1
 MIT License
 Microsoft Corporation
 https://aka.ms/debugpy
 An implementation of the Debug Adapter Protocol for Python
-/home/runner/.local/lib/python3.10/site-packages/debugpy-1.8.0.dist-info/LICENSE
+/home/runner/.local/lib/python3.10/site-packages/debugpy-1.8.1.dist-info/LICENSE
     debugpy
 
     Copyright (c) Microsoft Corporation
