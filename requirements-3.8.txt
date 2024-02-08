@@ -4,14 +4,14 @@
 #
 #    pip-compile --allow-unsafe --generate-hashes --no-emit-index-url --output-file=requirements-3.8.txt requirements.in
 #
-amalgam-lang==6.1.4 \
-    --hash=sha256:024fb9a1d05b792d158871a60d25ef7e8a809d9689069bdd6afec1fd0328f387 \
-    --hash=sha256:1120108a41805cc1a12df8240a2e62fd1725733f52b68bcc11a76534b9d9d844 \
-    --hash=sha256:22b7d86d7a25a08d03d11a1c657ab16f0d7e7c2ef6a538fb1aa9719caaff6fa4 \
-    --hash=sha256:33f2e5c97bacbad950b5f4f9c118e8ca37185e3ba0b686f393dc651171c09f3c \
-    --hash=sha256:45bd6c63bb78d0ac2a345b64c363c9957f62036a6c38b4a800428c7ee907a93a \
-    --hash=sha256:e3a76eb82263099a072ce02e3b2b40410bf84d719ab86e67a2ef81a488dcd24d \
-    --hash=sha256:fd44376712bedbdffe75a17051c803be9a777f0a94ce8abc91e4adeae341964d
+amalgam-lang==6.1.5 \
+    --hash=sha256:28bca52a1bc2fae7581b5c36c00c05b04a8727ee0cbe37d7fec9a0d524602524 \
+    --hash=sha256:292b650d9a36abf54c13f16888c2f947225d3e2411798acb445f56795875b2fa \
+    --hash=sha256:475cf8476af1a840c7972dbe49b88647fccbeaee0068c57ac7029d1d5a04dfc0 \
+    --hash=sha256:5903a6b32f33a82678b0a80c9de37d100ab80ca4d09e2f52c45461a82097f7d4 \
+    --hash=sha256:706d544958c2bd307668a89fb62fa9ae742c6261e52a9e0e52e7ae22bd2be80b \
+    --hash=sha256:c41ac051a98d564e9af8294647e265811ef7798fb69e496836f38e2b70e67293 \
+    --hash=sha256:e647b59d7b716139c0422a62e9e60276a11e9817b627d1c3d7390585423384b7
     # via howso-engine
 anyio==4.2.0 \
     --hash=sha256:745843b39e829e108e518c489b31dc757de7d2131d53fac32bd8df268227bfee \
@@ -475,12 +475,12 @@ geopandas==0.13.2 \
     --hash=sha256:101cfd0de54bcf9e287a55b5ea17ebe0db53a5e25a28bacf100143d0507cabd9 \
     --hash=sha256:e5b56d9c20800c77bcc0c914db3f27447a37b23b2cd892be543f5001a694a968
     # via -r requirements.in
-howso-engine==15.0.7 \
-    --hash=sha256:b9ac03f51f72afceab8697c8d3f096df71ab00b945f694bcabd8ffe8d28aef20 \
-    --hash=sha256:db6e5cce527d269451b187c75058fb046f0a20016c32c26654a2b79f820bb1c6
+howso-engine==15.0.8 \
+    --hash=sha256:034886a4c17c467adc2fdfc4c74143f73485d41dc2af0f386a6a2794e43fbe4f \
+    --hash=sha256:26e9064f3b8baee1c2992724c5791fd268a0b1eb868af220db87d3f8cc6c03d5
     # via -r requirements.in
-howso-openapi-client==30.0.1 \
-    --hash=sha256:7d5114fa86fb5cad85a844182549efd69b791fe2c6efcd645244f89832e0f836
+howso-openapi-client==30.1.2 \
+    --hash=sha256:5134634d6a71efe69695527ba7b6e609c06f864fe4befac8ea1b29a837895063
     # via howso-engine
 howso-visuals==1.1.0 \
     --hash=sha256:0d2fab641b57937a37e936dd4bee498a8d71773108a1f552c8574715ec8fed88 \
