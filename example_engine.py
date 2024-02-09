@@ -82,7 +82,7 @@ def main():
 
     # Print a detailed result from audit details.
     print("Printing details for most similar cases from the first prediction:")
-    pprint(result['explanation']['most_similar_cases'][0])
+    pprint(result['details']['most_similar_cases'][0])
 
     return accuracy
 

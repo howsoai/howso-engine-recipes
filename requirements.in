@@ -6,7 +6,7 @@ jupyter-core>=4.7.0,<5
 matplotlib>=3.4.0,<4
 notebook>6.0.0,<7
 numpy
-pandas
+pandas[parquet]~=2.0
 plotly>=5.7.0
 pmlb>=1.0
 scikit-learn
