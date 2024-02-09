@@ -486,9 +486,9 @@ howso-engine==15.0.9 \
 howso-openapi-client==30.1.2 \
     --hash=sha256:5134634d6a71efe69695527ba7b6e609c06f864fe4befac8ea1b29a837895063
     # via howso-engine
-howso-visuals==1.1.0 \
-    --hash=sha256:0d2fab641b57937a37e936dd4bee498a8d71773108a1f552c8574715ec8fed88 \
-    --hash=sha256:93c07adcd23cf114e98f2583a737aac0b899a21c905436aeacb9abccc3957b1d
+howso-visuals==1.1.1 \
+    --hash=sha256:5829ed69f22a72b36d797ef140d5f3d4c5eb99d6283bfc09ca083197058eb537 \
+    --hash=sha256:9cdd6f0ad61c7c50f6f5f50a2e6edaecb4cbed87a57c4c0ea8a6bc0006c0e019
     # via -r requirements.in
 humanize==4.9.0 \
     --hash=sha256:582a265c931c683a7e9b8ed9559089dea7edcf6cc95be39a3cbc2c5d5ac2bcfa \
