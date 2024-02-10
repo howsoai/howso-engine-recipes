@@ -64,7 +64,7 @@ def main():
     # Detailed prediction results
     print("Getting details for most similar cases from the first prediction:")
     results = dp.describe_prediction(X_test)
-    pprint(results['explanation']['most_similar_cases'][0])
+    pprint(results['details']['most_similar_cases'][0])
 
     print("Getting class probabilities and classes for the model:")
     probas = dp.predict_proba(X_test)

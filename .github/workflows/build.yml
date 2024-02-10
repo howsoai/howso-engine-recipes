@@ -130,11 +130,11 @@ jobs:
     uses: howsoai/.github/.github/workflows/pytest.yml@main
     secrets: inherit
     with:
-      platform: 'macos-latest-xlarge'
+      platform: 'macos-latest-large'
       platform-pretty: 'MacOS'
-      amalgam-plat-arch: 'darwin-arm64'
+      amalgam-plat-arch: 'darwin-amd64'
       python-version: '3.11'
-      config-fp: './config/latest-mt-debug-howso.yml'
+      config-fp: './config/latest-mt-noavx-debug-howso.yml'
       config-pretty: 'MT'
       upstream-details: ${{ needs.metadata.outputs.upstream-details }}
 
