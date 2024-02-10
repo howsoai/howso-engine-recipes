@@ -136,6 +136,7 @@ jobs:
       python-version: '3.11'
       config-fp: './config/latest-st-debug-howso.yml'
       config-pretty: 'ST'
+      workers: 'auto'
       upstream-details: ${{ needs.metadata.outputs.upstream-details }}
 
   release:
