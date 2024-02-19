@@ -8,6 +8,7 @@ notebook>6.0.0,<7
 numpy
 pandas[parquet]~=2.0
 plotly>=5.7.0
+kaleido==0.1.0.post1
 pmlb>=1.0
 scikit-learn
 seaborn
