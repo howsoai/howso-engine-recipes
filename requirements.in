@@ -1,10 +1,10 @@
-babel>=2.8.0,<3
+babel~=2.0
 howso-engine~=15.0
 geopandas>=0.11.0
-ipykernel>=6.0.0,<7
-jupyter-core>=4.7.0,<5
-matplotlib>=3.4.0,<4
-notebook>6.0.0,<7
+ipykernel~=6.0
+jupyter-core~=4.0
+matplotlib~=3.0
+notebook~=6.0
 numpy
 pandas[parquet]~=2.0
 plotly>=5.7.0
