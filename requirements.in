@@ -11,7 +11,6 @@ plotly>=5.7.0
 kaleido==0.1.0.post1
 pmlb>=1.0
 scikit-learn
-seaborn
 howso-visuals
 # This can be dropped when we stop supporting Python 3.8
 ipython<8.13; python_version<'3.9'
