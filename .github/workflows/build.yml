@@ -124,7 +124,7 @@ jobs:
       config-pretty: 'MT'
       upstream-details: ${{ needs.metadata.outputs.upstream-details }}
 
-  pytest-macos-3-11-st:
+  pytest-macos-3-11-mt:
     if: inputs.build-type != 'PR'
     needs: ['metadata']
     uses: howsoai/.github/.github/workflows/pytest.yml@main
@@ -134,9 +134,8 @@ jobs:
       platform-pretty: 'MacOS'
       amalgam-plat-arch: 'darwin-amd64'
       python-version: '3.11'
-      config-fp: './config/latest-st-debug-howso.yml'
-      config-pretty: 'ST'
-      workers: 'auto'
+      config-fp: './config/latest-mt-noavx-debug-howso.yml'
+      config-pretty: 'MT'
       upstream-details: ${{ needs.metadata.outputs.upstream-details }}
 
   release:
@@ -147,7 +146,7 @@ jobs:
       - pytest-linux-3-10-st
       - pytest-linux-3-11-mt
       - pytest-windows-3-11-mt
-      - pytest-macos-3-11-st
+      - pytest-macos-3-11-mt
     if: inputs.build-type == 'release'
     permissions:
       contents: write
