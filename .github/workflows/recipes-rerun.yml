@@ -74,6 +74,8 @@ jobs:
       force-rebuild: true
 
   rerun-recipes:
+    env:
+      HOWSO_RECIPE_RENDERER: svg
     if: always()
     needs: ['gen-branch-name', 'gen-requirements']
     runs-on: howso-ubuntu-runner-latest
