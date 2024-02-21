@@ -73,9 +73,7 @@ jobs:
       branch: ${{ needs.gen-branch-name.outputs.branch }}
       force-rebuild: true
 
-  rerun-recipes:
-    env:
-      HOWSO_RECIPE_RENDERER: svg
+  rerun-recipes:      
     if: always()
     needs: ['gen-branch-name', 'gen-requirements']
     runs-on: howso-ubuntu-runner-latest
@@ -84,6 +82,7 @@ jobs:
       pull-requests: write
     env:
         GH_TOKEN: ${{ github.token }}
+        HOWSO_RECIPE_RENDERER: svg
     steps:
 
     - uses: actions/checkout@v4
