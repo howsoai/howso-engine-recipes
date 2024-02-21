@@ -1,16 +1,17 @@
-babel>=2.8.0,<3
-howso-engine~=15.0
+babel~=2.0
 geopandas>=0.11.0
-ipykernel>=6.0.0,<7
-jupyter-core>=4.7.0,<5
-matplotlib>=3.4.0,<4
-notebook>6.0.0,<7
+howso-engine~=15.0
+howso-visuals~=1.0
+ipykernel~=6.0
+jupyter-core~=4.0
+kaleido==0.1.0.post1; sys_platform == "win32"
+kaleido==0.2.0.post1; sys_platform != "win32"
+matplotlib~=3.4
+notebook~=6.0
 numpy
 pandas[parquet]~=2.0
 plotly>=5.7.0
-kaleido==0.1.0.post1
 pmlb>=1.0
 scikit-learn
-howso-visuals
 # This can be dropped when we stop supporting Python 3.8
 ipython<8.13; python_version<'3.9'
