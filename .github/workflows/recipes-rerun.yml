@@ -82,7 +82,7 @@ jobs:
       pull-requests: write
     env:
         GH_TOKEN: ${{ github.token }}
-        HOWSO_RECIPE_RENDERER: svg
+        HOWSO_RECIPE_RENDERER: png
     steps:
 
     - uses: actions/checkout@v4
