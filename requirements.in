@@ -4,7 +4,8 @@ howso-engine~=15.0
 howso-visuals~=1.0
 ipykernel~=6.0
 jupyter-core~=4.0
-kaleido==0.1.0.post1
+kaleido==0.1.0.post1; sys_platform == "win32"
+kaleido==0.1.0; sys_platform != "win32"
 matplotlib~=3.4
 notebook~=6.0
 numpy
