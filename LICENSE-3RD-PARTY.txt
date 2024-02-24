@@ -1531,12 +1531,12 @@ UNKNOWN
 UNKNOWN
 
 cryptography
-42.0.4
+42.0.5
 Apache Software License; BSD License
 The Python Cryptographic Authority and individual contributors <cryptography-dev@python.org>
 https://github.com/pyca/cryptography
 cryptography is a package which provides cryptographic recipes and primitives to Python developers.
-/home/runner/.local/lib/python3.10/site-packages/cryptography-42.0.4.dist-info/LICENSE
+/home/runner/.local/lib/python3.10/site-packages/cryptography-42.0.5.dist-info/LICENSE
 This software is made available under the terms of *either* of the licenses
 found in LICENSE.APACHE or LICENSE.BSD. Contributions to cryptography are made
 under the terms of *both* these licenses.
