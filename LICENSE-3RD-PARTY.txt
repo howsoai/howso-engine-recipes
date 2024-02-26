@@ -1531,12 +1531,12 @@ UNKNOWN
 UNKNOWN
 
 cryptography
-42.0.3
+42.0.5
 Apache Software License; BSD License
 The Python Cryptographic Authority and individual contributors <cryptography-dev@python.org>
 https://github.com/pyca/cryptography
 cryptography is a package which provides cryptographic recipes and primitives to Python developers.
-/home/runner/.local/lib/python3.10/site-packages/cryptography-42.0.3.dist-info/LICENSE
+/home/runner/.local/lib/python3.10/site-packages/cryptography-42.0.5.dist-info/LICENSE
 This software is made available under the terms of *either* of the licenses
 found in LICENSE.APACHE or LICENSE.BSD. Contributions to cryptography are made
 under the terms of *both* these licenses.
@@ -2673,12 +2673,12 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 ipython
-8.21.0
+8.22.1
 BSD License
 The IPython Development Team
 https://ipython.org
 IPython: Productive Interactive Computing
-/home/runner/.local/lib/python3.10/site-packages/ipython-8.21.0.dist-info/LICENSE
+/home/runner/.local/lib/python3.10/site-packages/ipython-8.22.1.dist-info/LICENSE
 BSD 3-Clause License
 
 - Copyright (c) 2008-Present, IPython Development Team
@@ -3236,6 +3236,76 @@ SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
 CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
 OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+
+kaleido
+0.1.0
+MIT
+Jon Mease
+UNKNOWN
+Static image export for web-based visualization libraries with zero dependencies
+/home/runner/.local/lib/python3.10/site-packages/kaleido-0.1.0.dist-info/LICENSE.txt
+All code developed in this repository is released under the MIT license (1).
+
+The Kaleido executable includes Chromium, which is released under the 3-clause BSD license (2).
+
+Chromium includes a wide range of third-party dependencies with varying licenses.
+See the CREDITS.html file distributed with this package for license details 
+of these dependencies.
+
+The CREDITS.html is also available at https://github.com/plotly/Kaleido/blob/master/repos/CREDITS.html
+
+(1) ----
+The MIT License (MIT)
+
+Copyright (c) 2020 Plotly, Inc
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
+(2) ----
+// Copyright 2015 The Chromium Authors. All rights reserved.
+//
+// Redistribution and use in source and binary forms, with or without
+// modification, are permitted provided that the following conditions are
+// met:
+//
+//    * Redistributions of source code must retain the above copyright
+// notice, this list of conditions and the following disclaimer.
+//    * Redistributions in binary form must reproduce the above
+// copyright notice, this list of conditions and the following disclaimer
+// in the documentation and/or other materials provided with the
+// distribution.
+//    * Neither the name of Google Inc. nor the names of its
+// contributors may be used to endorse or promote products derived from
+// this software without specific prior written permission.
+//
+// THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+// "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+// LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
+// A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
+// OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+// SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+// LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+// DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+// THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+// (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+// OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 keyring
@@ -5172,12 +5242,12 @@ under the terms of *both* these licenses.
 
 
 pandas
-2.2.0
+2.2.1
 BSD License
 The Pandas Development Team <pandas-dev@python.org>
 https://pandas.pydata.org
 Powerful data structures for data analysis, time series, and statistics
-/home/runner/.local/lib/python3.10/site-packages/pandas-2.2.0.dist-info/LICENSE
+/home/runner/.local/lib/python3.10/site-packages/pandas-2.2.1.dist-info/LICENSE
 BSD 3-Clause License
 
 Copyright (c) 2008-2011, AQR Capital Management, LLC, Lambda Foundry, Inc. and PyData Development Team
@@ -9593,7 +9663,7 @@ UNKNOWN
 UNKNOWN
 
 python-apt
-2.4.0+ubuntu2
+2.4.0+ubuntu3
 GNU GPL
 APT Development Team
 UNKNOWN
@@ -11220,12 +11290,12 @@ UNKNOWN
 UNKNOWN
 
 sniffio
-1.3.0
+1.3.1
 Apache Software License; MIT License
-Nathaniel J. Smith
+"Nathaniel J. Smith" <njs@pobox.com>
 https://github.com/python-trio/sniffio
 Sniff out which async library your code is running under
-/home/runner/.local/lib/python3.10/site-packages/sniffio-1.3.0.dist-info/LICENSE
+/home/runner/.local/lib/python3.10/site-packages/sniffio-1.3.1.dist-info/LICENSE
 This software is made available under the terms of *either* of the
 licenses found in LICENSE.APACHE2 or LICENSE.MIT. Contributions to are
 made under the terms of *both* these licenses.
@@ -11924,12 +11994,12 @@ UNKNOWN
 UNKNOWN
 
 typing_extensions
-4.9.0
+4.10.0
 Python Software Foundation License
 "Guido van Rossum, Jukka Lehtosalo, Łukasz Langa, Michael Lee" <levkivskyi@gmail.com>
 https://github.com/python/typing_extensions
 Backported and Experimental Type Hints for Python 3.8+
-/home/runner/.local/lib/python3.10/site-packages/typing_extensions-4.9.0.dist-info/LICENSE
+/home/runner/.local/lib/python3.10/site-packages/typing_extensions-4.10.0.dist-info/LICENSE
 A. HISTORY OF THE SOFTWARE
 ==========================
 
