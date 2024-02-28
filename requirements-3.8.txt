@@ -393,9 +393,9 @@ executing==2.0.1 \
     --hash=sha256:35afe2ce3affba8ee97f2d69927fa823b08b472b7b994e36a52a964b93d16147 \
     --hash=sha256:eac49ca94516ccc753f9fb5ce82603156e590b27525a8bc32cce8ae302eb61bc
     # via stack-data
-faker==23.2.1 \
-    --hash=sha256:0520a6b97e07c658b2798d7140971c1d5bc4bcd5013e7937fe075fd054aa320c \
-    --hash=sha256:f07b64d27f67b62c7f0536a72f47813015b3b51cd4664918454011094321e464
+faker==23.3.0 \
+    --hash=sha256:117ce1a2805c1bc5ca753b3dc6f9d567732893b2294b827d3164261ee8f20267 \
+    --hash=sha256:458d93580de34403a8dec1e8d5e6be2fee96c4deca63b95d71df7a6a80a690de
     # via howso-engine
 fastjsonschema==2.19.1 \
     --hash=sha256:3672b47bc94178c9f23dbb654bf47440155d4db9df5f7bc47643315f9c405cd0 \
@@ -514,9 +514,9 @@ importlib-resources==6.1.2 \
     #   jsonschema
     #   jsonschema-specifications
     #   matplotlib
-ipykernel==6.29.2 \
-    --hash=sha256:3bade28004e3ff624ed57974948116670604ac5f676d12339693f3142176d3f0 \
-    --hash=sha256:50384f5c577a260a1d53f1f59a828c7266d321c9b7d00d345693783f66616055
+ipykernel==6.29.3 \
+    --hash=sha256:5aa086a4175b0229d4eca211e181fb473ea78ffd9869af36ba7694c947302a21 \
+    --hash=sha256:e14c250d1f9ea3989490225cc1a542781b095a18a19447fcf2b5eaf7d0ac5bd2
     # via
     #   -r requirements.in
     #   nbclassic
@@ -607,12 +607,13 @@ jupyterlab-pygments==0.3.0 \
     --hash=sha256:721aca4d9029252b11cfa9d185e5b5af4d54772bb8072f9b7036f4170054d35d \
     --hash=sha256:841a89020971da1d8693f1a99997aefc5dc424bb1b251fd6322462a1b8842780
     # via nbconvert
-kaleido==0.1.0 ; sys_platform != "win32" \
-    --hash=sha256:6a73cd4a69609490f7e13e43e77724d254aef28b062babad120b32e6f32968c2 \
-    --hash=sha256:8d0403b1eb21080e09d6d728c1ea7170fd4763c415fe89dfea6edf35ec36f8e7 \
-    --hash=sha256:949e3fc01c56cdca0226e866277cfb5e1b4bf66b5d4045ca43a3211f61bc8446 \
-    --hash=sha256:c583ed02b2c50a17e11ee3faec76f7d5f9898f8915f8877b583c5f83d0094e91 \
-    --hash=sha256:f3de8e08764115f529351208d689ff80523aa1e9fc0018d342af857f94e3b44e
+kaleido==0.2.1 ; sys_platform != "win32" \
+    --hash=sha256:4670985f28913c2d063c5734d125ecc28e40810141bdb0a46f15b76c1d45f23c \
+    --hash=sha256:845819844c8082c9469d9c17e42621fbf85c2b237ef8a86ec8a8527f98b6512a \
+    --hash=sha256:aa21cf1bf1c78f8fa50a9f7d45e1003c387bd3d6fe0a767cfbbf344b95bdc3a8 \
+    --hash=sha256:bb9a5d1f710357d5d432ee240ef6658a6d124c3e610935817b4b42da9c787c05 \
+    --hash=sha256:ca6f73e7ff00aaebf2843f73f1d3bacde1930ef5041093fe76b83a15785049a7 \
+    --hash=sha256:ecc72635860be616c6b7161807a65c0dbd9b90c6437ac96965831e2e24066552
     # via -r requirements.in
 kiwisolver==1.4.5 \
     --hash=sha256:00bd361b903dc4bbf4eb165f24d1acbee754fce22ded24c3d56eec268658a5cf \
