@@ -4048,12 +4048,12 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 nbformat
-5.10.2
+5.10.3
 BSD License
 Jupyter Development Team <jupyter@googlegroups.com>
 https://jupyter.org
 The Jupyter Notebook format
-/home/runner/.local/lib/python3.10/site-packages/nbformat-5.10.2.dist-info/licenses/LICENSE
+/home/runner/.local/lib/python3.10/site-packages/nbformat-5.10.3.dist-info/licenses/LICENSE
 BSD 3-Clause License
 
 - Copyright (c) 2001-2015, IPython Development Team
@@ -12191,7 +12191,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 types-python-dateutil
-2.8.19.20240311
+2.9.0.20240315
 Apache Software License
 UNKNOWN
 https://github.com/python/typeshed

@@ -951,9 +951,9 @@ nbconvert==7.16.2 \
     #   jupyter-server
     #   nbclassic
     #   notebook
-nbformat==5.10.2 \
-    --hash=sha256:7381189a0d537586b3f18bae5dbad347d7dd0a7cf0276b09cdcd5c24d38edd99 \
-    --hash=sha256:c535b20a0d4310167bf4d12ad31eccfb0dc61e6392d6f8c570ab5b45a06a49a3
+nbformat==5.10.3 \
+    --hash=sha256:60ed5e910ef7c6264b87d644f276b1b49e24011930deef54605188ddeb211685 \
+    --hash=sha256:d9476ca28676799af85385f409b49d95e199951477a159a576ef2a675151e5e8
     # via
     #   jupyter-server
     #   nbclassic
@@ -1772,9 +1772,9 @@ traitlets==5.14.2 \
     #   nbconvert
     #   nbformat
     #   notebook
-types-python-dateutil==2.8.19.20240311 \
-    --hash=sha256:51178227bbd4cbec35dc9adffbf59d832f20e09842d7dcb8c73b169b8780b7cb \
-    --hash=sha256:ef813da0809aca76472ca88807addbeea98b19339aebe56159ae2f4b4f70857a
+types-python-dateutil==2.9.0.20240315 \
+    --hash=sha256:78aa9124f360df90bb6e85eb1a4d06e75425445bf5ecb13774cb0adef7ff3956 \
+    --hash=sha256:c1f6310088eb9585da1b9f811765b989ed2e2cdd4203c1a367e944b666507e4e
     # via arrow
 typing-extensions==4.10.0 \
     --hash=sha256:69b1a937c3a517342112fb4c6df7e72fc39a38e7891a5730ed4985b5214b5475 \
@@ -1818,9 +1818,9 @@ websocket-client==1.7.0 \
     --hash=sha256:10e511ea3a8c744631d3bd77e61eb17ed09304c413ad42cf6ddfa4c7787e8fe6 \
     --hash=sha256:f4c3d22fec12a2461427a29957ff07d35098ee2d976d3ba244e688b8b4057588
     # via jupyter-server
-zipp==3.18.0 \
-    --hash=sha256:c1bb803ed69d2cce2373152797064f7e79bc43f0a3748eb494096a867e0ebf79 \
-    --hash=sha256:df8d042b02765029a09b157efd8e820451045890acc30f8e37dd2f94a060221f
+zipp==3.18.1 \
+    --hash=sha256:206f5a15f2af3dbaee80769fb7dc6f249695e940acca08dfb2a4769fe61e538b \
+    --hash=sha256:2884ed22e7d8961de1c9a05142eb69a247f120291bc0206a00a7642f09b5b715
     # via
     #   importlib-metadata
     #   importlib-resources
