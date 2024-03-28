@@ -4,14 +4,14 @@
 #
 #    pip-compile --allow-unsafe --generate-hashes --no-emit-index-url --output-file=requirements-3.11-dev.txt requirements-dev.in requirements.in
 #
-amalgam-lang==7.2.0 \
-    --hash=sha256:2c5a69493b5f1336907e4e2aaab0a2f47d835868f7e05953a5410777ff624084 \
-    --hash=sha256:2df9b77caa21074ac1a8608fc08ab9c18915c47b84446f8a197949456bc3a75d \
-    --hash=sha256:34243b754b675274094dec2dbb75112c325b4f72054bd79ddd5a3fcd0e145b9a \
-    --hash=sha256:5209ca5a5cf26ac0eb5cfb3ff3a8ff1445e09e7c576273e3708efb894a8a46ea \
-    --hash=sha256:8ae9f1043b69aff743e86c59f1f463217571cfb2e30f222ec70f0a64e1a55346 \
-    --hash=sha256:ae03be235b9c603e1eb36bee4ad1ce7bfc7867512df3dbaa1557a35e9162838e \
-    --hash=sha256:dba3e70938e4094bbc6a3891ae624b9f4a68b969a5b3f25acd161cef0220599b
+amalgam-lang==8.1.0 \
+    --hash=sha256:27506216bf373b580599fb2ba1a99ae315662463a200ac88f1eb1632611f9630 \
+    --hash=sha256:5b2463903af582724499827f0187dcc65e095b5eb536ebc5c6aaed840070dd28 \
+    --hash=sha256:86b26986887b7f33cbbdc18af6e592bde7ce026eb1801980e9aabb962357d444 \
+    --hash=sha256:cd68808a0df7aef0a8d2505ea5f377419c36142b9cc56beef00aa98fded2db99 \
+    --hash=sha256:de2f0676f4c951d6f54883809dac163744d4a5e8beef137b9c9c7b312dd97c5c \
+    --hash=sha256:e0cb951d5915a24214e2d59e25254ba8f5d2ca396ee343ef4379216c988ae7c3 \
+    --hash=sha256:e907ff43c6ee4c54460f93e053a7bef2d167b8238fa5809a108b5055ce359312
     # via howso-engine
 anyio==4.3.0 \
     --hash=sha256:048e05d0f6caeed70d731f3db756d35dcc1f35747c8c403364a8332c630441b8 \
@@ -471,9 +471,9 @@ geopandas==0.14.3 \
     --hash=sha256:41b31ad39e21bc9e8c4254f78f8dc4ce3d33d144e22e630a00bb336c83160204 \
     --hash=sha256:748af035d4a068a4ae00cab384acb61d387685c833b0022e0729aa45216b23ac
     # via -r requirements.in
-howso-engine==16.1.0 \
-    --hash=sha256:3ac1e077ea7c817122b4a22d7ca366ca1f2029d1d1e83d15f09560ad9031fe39 \
-    --hash=sha256:f98f447b8b79d07fe7ded433fee3c6c7ee9a6709def34a04983a3fbf15b5d15c
+howso-engine==17.0.0 \
+    --hash=sha256:121cdc58ee0d63f6806f8332c0226a7b58396d237705b7a0e351c2a6205bdc52 \
+    --hash=sha256:6541da05474c64a3d106a042935566b3df1f1eb36da7da998eeb158503f68423
     # via -r requirements.in
 howso-openapi-client==30.3.0 \
     --hash=sha256:e6db106b4b31f478f8f5c205396b678db80c7cb5d65f4f4c99327700664d4766
