@@ -53,12 +53,12 @@ UNKNOWN
 UNKNOWN
 
 Faker
-24.2.0
+24.4.0
 MIT License
 joke2k
 https://github.com/joke2k/faker
 Faker is a Python package that generates fake data for you.
-/home/runner/.local/lib/python3.10/site-packages/Faker-24.2.0.dist-info/LICENSE.txt
+/home/runner/.local/lib/python3.10/site-packages/Faker-24.4.0.dist-info/LICENSE.txt
 Copyright (c) 2012 Daniele Faraglia
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -2074,12 +2074,12 @@ POSSIBILITY OF SUCH DAMAGE.
 
 
 fonttools
-4.49.0
+4.50.0
 MIT License
 Just van Rossum
 http://github.com/fonttools/fonttools
 Tools to manipulate font files
-/home/runner/.local/lib/python3.10/site-packages/fonttools-4.49.0.dist-info/LICENSE
+/home/runner/.local/lib/python3.10/site-packages/fonttools-4.50.0.dist-info/LICENSE
 MIT License
 
 Copyright (c) 2017 Just van Rossum
@@ -2634,12 +2634,12 @@ UNKNOWN
 UNKNOWN
 
 ipykernel
-6.29.3
+6.29.4
 BSD License
 IPython Development Team <ipython-dev@scipy.org>
 https://ipython.org
 IPython Kernel for Jupyter
-/home/runner/.local/lib/python3.10/site-packages/ipykernel-6.29.3.dist-info/licenses/LICENSE
+/home/runner/.local/lib/python3.10/site-packages/ipykernel-6.29.4.dist-info/licenses/LICENSE
 BSD 3-Clause License
 
 Copyright (c) 2015, IPython Development Team
@@ -2944,12 +2944,12 @@ THE SOFTWARE.
 
 
 jupyter-events
-0.9.1
+0.10.0
 BSD License
 Jupyter Development Team <jupyter@googlegroups.com>
 http://jupyter.org
 Jupyter Event System library
-/home/runner/.local/lib/python3.10/site-packages/jupyter_events-0.9.1.dist-info/licenses/LICENSE
+/home/runner/.local/lib/python3.10/site-packages/jupyter_events-0.10.0.dist-info/licenses/LICENSE
 BSD 3-Clause License
 
 Copyright (c) 2022-, Jupyter Development Team
@@ -4008,12 +4008,12 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 nbconvert
-7.16.2
+7.16.3
 BSD License
 Jupyter Development Team <jupyter@googlegroups.com>
 https://jupyter.org
 Converting Jupyter Notebooks (.ipynb files) to other formats.  Output formats include asciidoc, html, latex, markdown, pdf, py, rst, script.  nbconvert can be used both as a Python library (`import nbconvert`) or as a command line tool (invoked as `jupyter nbconvert ...`).
-/home/runner/.local/lib/python3.10/site-packages/nbconvert-7.16.2.dist-info/licenses/LICENSE
+/home/runner/.local/lib/python3.10/site-packages/nbconvert-7.16.3.dist-info/licenses/LICENSE
 BSD 3-Clause License
 
 - Copyright (c) 2001-2015, IPython Development Team
@@ -7461,12 +7461,12 @@ UNKNOWN
 UNKNOWN
 
 pyarrow
-15.0.1
+15.0.2
 Apache Software License
 UNKNOWN
 https://arrow.apache.org/
 Python library for Apache Arrow
-/home/runner/.local/lib/python3.10/site-packages/pyarrow-15.0.1.dist-info/LICENSE.txt
+/home/runner/.local/lib/python3.10/site-packages/pyarrow-15.0.2.dist-info/LICENSE.txt
 
                                  Apache License
                            Version 2.0, January 2004
@@ -10054,12 +10054,12 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 referencing
-0.33.0
+0.34.0
 MIT License
-Julian Berman
+Julian Berman <Julian+referencing@GrayVines.com>
 https://github.com/python-jsonschema/referencing
 JSON Referencing + Python
-/home/runner/.local/lib/python3.10/site-packages/referencing-0.33.0.dist-info/licenses/COPYING
+/home/runner/.local/lib/python3.10/site-packages/referencing-0.34.0.dist-info/licenses/COPYING
 Copyright (c) 2022 Julian Berman
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -11841,12 +11841,12 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 threadpoolctl
-3.3.0
+3.4.0
 BSD License
 Thomas Moreau
 https://github.com/joblib/threadpoolctl
 threadpoolctl
-/home/runner/.local/lib/python3.10/site-packages/threadpoolctl-3.3.0.dist-info/LICENSE
+/home/runner/.local/lib/python3.10/site-packages/threadpoolctl-3.4.0.dist-info/LICENSE
 Copyright (c) 2019, threadpoolctl contributors
 
 Redistribution and use in source and binary forms, with or without
@@ -12191,7 +12191,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 types-python-dateutil
-2.9.0.20240315
+2.9.0.20240316
 Apache Software License
 UNKNOWN
 https://github.com/python/typeshed
@@ -12511,7 +12511,7 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 
-ubuntu-advantage-tools
+ubuntu-pro-client
 8001
 GPLv3
 Ubuntu Server Team
