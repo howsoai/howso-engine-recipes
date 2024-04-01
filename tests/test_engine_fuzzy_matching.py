@@ -1,6 +1,6 @@
 import numpy as np
 
-tb_filename = "engine_fuzzy_matching.ipynb"
+tb_filename = "clustering/engine_fuzzy_matching.ipynb"
 
 
 def test_accuracy(tb):

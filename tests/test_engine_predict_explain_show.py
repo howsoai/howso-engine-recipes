@@ -1,4 +1,4 @@
-tb_filename = "engine_predict_explain_show.ipynb"
+tb_filename = "interpretability/engine_predict_explain_show.ipynb"
 
 
 def test_accuracy(tb):

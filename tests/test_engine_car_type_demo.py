@@ -1,4 +1,4 @@
-tb_filename = "engine_car_type_demo.ipynb"
+tb_filename = "interpretability/engine_car_type_demo.ipynb"
 
 
 def test_1_engine_accuracy(tb):

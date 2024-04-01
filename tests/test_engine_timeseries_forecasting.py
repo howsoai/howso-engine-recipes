@@ -1,4 +1,4 @@
-tb_filename = "engine_timeseries_forecasting.ipynb"
+tb_filename = "time_series/engine_timeseries_forecasting.ipynb"
 
 
 def test_forecasting(tb):

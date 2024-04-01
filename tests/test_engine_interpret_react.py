@@ -1,4 +1,4 @@
-tb_filename = "engine_interpret_react.ipynb"
+tb_filename = "interpretability/engine_interpret_react.ipynb"
 
 
 def test_predicted_mean_interval(tb):
@@ -46,7 +46,7 @@ def test_KDE_prediction_interval(tb):
         from scipy.integrate import quad
 
         r_val = react["action"].loc[0, 'moid']
-        lower_bound = r_val - global_residual 
+        lower_bound = r_val - global_residual
         upper_bound = r_val + global_residual
 
         from scipy.stats import gaussian_kde

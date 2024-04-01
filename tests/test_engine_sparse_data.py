@@ -1,4 +1,4 @@
-tb_filename = "engine_sparse_data.ipynb"
+tb_filename = "advanced_features/engine_sparse_data.ipynb"
 
 
 def test_accuracy_above_random(tb):
