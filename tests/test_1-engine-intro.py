@@ -10,7 +10,7 @@ def test_accuracy(tb):
         """
     )
 
-    assert tb.ref("accuracy") >= 0.7
+    assert float(tb.ref("accuracy")) >= 0.7
 
 
 def test_conditional_accuracies(tb):

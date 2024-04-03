@@ -6,7 +6,7 @@ def test_accuracy_above_random(tb):
 
     tb.inject(
         """
-        acc_random_cmp = prediction_stats_df.accuracy > random_value
+        acc_random_cmp = prediction_stats_df.accuracy > majority_class_accuracy
         assert acc_random_cmp.mean() >= 0.75
         """
     )
