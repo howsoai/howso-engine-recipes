@@ -8,6 +8,7 @@ def test_predicted_mean_interval(tb):
     """
     tb.inject(
         """
+        global_residual = trainee.get_prediction_stats()['moid']['mae']
         r_val = react["action"].loc[0, 'moid']
         upper_limit = (r_val + global_residual)
         lower_limit = (r_val - global_residual)
@@ -26,6 +27,7 @@ def test_predicted_value_interval(tb):
     """
     tb.inject(
         """
+        global_residual = trainee.get_prediction_stats()['moid']['mae']
         r_val = react["action"].loc[0, 'moid']
         upper_limit = (r_val + global_residual)
         lower_limit = (r_val - global_residual)
@@ -46,7 +48,8 @@ def test_KDE_prediction_interval(tb):
         from scipy.integrate import quad
 
         r_val = react["action"].loc[0, 'moid']
-        lower_bound = r_val - global_residual 
+        global_residual = trainee.get_prediction_stats()['moid']['mae']
+        lower_bound = r_val - global_residual
         upper_bound = r_val + global_residual
 
         from scipy.stats import gaussian_kde
