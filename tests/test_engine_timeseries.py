@@ -1,4 +1,5 @@
 tb_filename = "engine_timeseries.ipynb"
+tb_dir = "time_series"
 
 
 def test_r2(tb):

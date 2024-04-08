@@ -1,4 +1,5 @@
 tb_filename = "4-audit_edit.ipynb"
+tb_dir = "getting_started"
 
 
 def test_accuracy_comparison(tb):

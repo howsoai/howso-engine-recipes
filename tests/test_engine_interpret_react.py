@@ -1,4 +1,5 @@
 tb_filename = "engine_interpret_react.ipynb"
+tb_dir = "inference"
 
 
 def test_predicted_mean_interval(tb):

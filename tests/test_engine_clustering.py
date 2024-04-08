@@ -1,4 +1,5 @@
 tb_filename = "engine_clustering.ipynb"
+tb_dir = "clustering"
 
 
 def test_clustering_accuracy(tb):

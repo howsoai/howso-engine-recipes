@@ -1,4 +1,5 @@
 tb_filename = "engine_generative_react.ipynb"
+tb_dir = "getting_started"
 
 
 def test_gen_highconv_acc(tb):

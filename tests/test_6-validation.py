@@ -1,4 +1,5 @@
 tb_filename = "6-validation.ipynb"
+tb_dir = "getting_started"
 
 
 def test_final_output(tb):
