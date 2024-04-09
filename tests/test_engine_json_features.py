@@ -1,4 +1,4 @@
-tb_filename = "engine_json_features.ipynb"
+tb_filename = "json_features.ipynb"
 
 
 def test_action_length(tb):

@@ -1,5 +1,4 @@
-tb_filename = "6-validation.ipynb"
-tb_dir = "getting_started"
+tb_filename = "residuals_validation.ipynb"
 
 
 def test_final_output(tb):

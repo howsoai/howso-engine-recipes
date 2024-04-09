@@ -1,5 +1,4 @@
 tb_filename = "3-anomaly_detection.ipynb"
-tb_dir = "getting_started"
 
 
 def test_outliers(tb):

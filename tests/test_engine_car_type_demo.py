@@ -1,5 +1,4 @@
-tb_filename = "engine_car_type_demo.ipynb"
-tb_dir = "inference"
+tb_filename = "car_type_demo.ipynb"
 
 
 def test_car_type_accuracy(tb):

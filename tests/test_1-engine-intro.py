@@ -1,5 +1,4 @@
 tb_filename = "1-engine-intro.ipynb"
-tb_dir = "getting_started"
 
 
 def test_accuracy(tb):

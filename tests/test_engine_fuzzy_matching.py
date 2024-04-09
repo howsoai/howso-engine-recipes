@@ -1,7 +1,6 @@
 import numpy as np
 
-tb_filename = "engine_fuzzy_matching.ipynb"
-tb_dir = "time_series"
+tb_filename = "fuzzy_matching.ipynb"
 
 
 def test_accuracy(tb):

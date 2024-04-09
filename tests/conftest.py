@@ -1,15 +1,31 @@
 import os
+from pathlib import Path
 import pytest
-
 from testbook import testbook
 
 
 @pytest.fixture(scope="module")
-def tb(request):
-
+def tb(request):  # noqa: C901
     cwd = os.getcwd()
+
+    # Search the directory for the notebook filepath
+    filename_to_find = request.module.tb_filename
+
+    def find_file(filename, search_path):
+        for root, _, files in os.walk(search_path):
+            if filename in files:
+                return os.path.relpath(os.path.join(root, filename), start=search_path)
+        return None
+
+    file_path = find_file(filename_to_find, cwd)
+    if file_path:
+        notebook_directory = Path(find_file(filename_to_find, ".")).parent
+    else:
+        raise ValueError(f"File {filename_to_find} does not exist.")
+
     try:
-        os.chdir(request.module.tb_dir)
+        os.chdir(notebook_directory)
+        # os.chdir(request.module.tb_dir)
     except AttributeError:
         pass
     except Exception as exc:

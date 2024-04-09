@@ -1,6 +1,4 @@
-import pytest
-
-tb_filename = "engine_drift_monitoring.ipynb"
+tb_filename = "drift_monitoring.ipynb"
 
 
 def test_drift_agreement(tb):

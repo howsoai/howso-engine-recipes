@@ -1,5 +1,4 @@
-tb_filename = "engine_predict_explain_show.ipynb"
-tb_dir = "inference"
+tb_filename = "predict_explain_show.ipynb"
 
 
 def test_accuracy(tb):
