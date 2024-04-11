@@ -19,7 +19,7 @@ def tb(request):  # noqa: C901
 
     file_path = find_file(filename_to_find, cwd)
     if file_path:
-        notebook_directory = Path(find_file(filename_to_find, ".")).parent
+        notebook_directory = Path(find_file(filename_to_find, cwd)).parent
     else:
         notebook_directory = None
         print(f"WARNING: File {filename_to_find} does not exist.")
