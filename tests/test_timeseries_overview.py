@@ -11,3 +11,18 @@ def test_r2(tb):
     )
 
     assert tb.ref("r2") >= 0.9
+
+
+def test_check_synth(tb):
+    """Ensure enough data is synthesized."""
+    tb.inject(
+        """
+        passing = True
+        for series_id in result_gen["ID"].unique():
+            series_df = result_gen.loc[result_gen['ID'] == series_id]
+            if len(series_df) < 100:
+                passing = False
+        """
+    )
+
+    assert tb.ref("passing")
