@@ -1,4 +1,4 @@
-tb_filename = "1-engine-intro.ipynb"
+tb_filename = "engine-intro.ipynb"
 
 
 def test_accuracy(tb):

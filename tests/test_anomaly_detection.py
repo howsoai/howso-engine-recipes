@@ -1,4 +1,4 @@
-tb_filename = "3-anomaly_detection.ipynb"
+tb_filename = "anomaly_detection.ipynb"
 
 
 def test_outliers(tb):

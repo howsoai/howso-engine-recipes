@@ -1,4 +1,4 @@
-tb_filename = "5-bias_mitigation.ipynb"
+tb_filename = "bias_mitigation.ipynb"
 
 
 def test_accuracy(tb):

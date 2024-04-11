@@ -21,16 +21,16 @@ def tb(request):  # noqa: C901
     if file_path:
         notebook_directory = Path(find_file(filename_to_find, ".")).parent
     else:
-        raise ValueError(f"File {filename_to_find} does not exist.")
+        notebook_directory = None
+        print(f"WARNING: File {filename_to_find} does not exist.")
 
-    try:
-        os.chdir(notebook_directory)
-        # os.chdir(request.module.tb_dir)
-    except AttributeError:
-        pass
-    except Exception as exc:
-        print(f'WARNING: There was an issue changing the working '
-              f'directory to "{request.module.tb_dir}". ({exc})')
+    if notebook_directory:
+        try:
+            os.chdir(notebook_directory)
+        except Exception as exc:
+            print(
+                f'WARNING: There was an issue changing the working '
+                f'directory to "{notebook_directory}". ({exc})')
 
     execute = True
     try:

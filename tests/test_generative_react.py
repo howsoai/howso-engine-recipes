@@ -14,7 +14,9 @@ def test_gen_highconv_acc(tb):
 
 
 def test_compare_gen_conv_acc(tb):
-    """Ensure that higher conviction generative react has a higher accuracy than the lower conviction generative react."""
+    """
+    Ensure that higher conviction generative react has a higher accuracy than the lower conviction generative react.
+    """
 
     tb.inject(
         """
