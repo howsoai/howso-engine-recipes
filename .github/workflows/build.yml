@@ -51,21 +51,6 @@ jobs:
     with:
       upstream-details: ${{ needs.metadata.outputs.upstream-details }}
 
-  pytest-linux-3-8-st:
-    if: inputs.build-type != 'PR'
-    needs: ['metadata']
-    uses: howsoai/.github/.github/workflows/pytest.yml@main
-    secrets: inherit
-    with:
-      platform: 'ubuntu-latest'
-      platform-pretty: 'Linux'
-      amalgam-plat-arch: 'linux-amd64'
-      python-version: '3.8'
-      config-fp: './config/latest-st-debug-howso.yml'
-      config-pretty: 'ST'
-      workers: 'auto'
-      upstream-details: ${{ needs.metadata.outputs.upstream-details }}
-
   pytest-linux-3-9-st:
     if: inputs.build-type != 'PR'
     needs: ['metadata']
@@ -96,7 +81,7 @@ jobs:
       workers: 'auto'
       upstream-details: ${{ needs.metadata.outputs.upstream-details }}
 
-  pytest-linux-3-11-mt:
+  pytest-linux-3-11-st:
     if: inputs.build-type != 'PR'
     needs: ['metadata']
     uses: howsoai/.github/.github/workflows/pytest.yml@main
@@ -106,11 +91,26 @@ jobs:
       platform-pretty: 'Linux'
       amalgam-plat-arch: 'linux-amd64'
       python-version: '3.11'
+      config-fp: './config/latest-st-debug-howso.yml'
+      config-pretty: 'ST'
+      workers: 'auto'
+      upstream-details: ${{ needs.metadata.outputs.upstream-details }}
+
+  pytest-linux-3-12-mt:
+    if: inputs.build-type != 'PR'
+    needs: ['metadata']
+    uses: howsoai/.github/.github/workflows/pytest.yml@main
+    secrets: inherit
+    with:
+      platform: 'ubuntu-latest'
+      platform-pretty: 'Linux'
+      amalgam-plat-arch: 'linux-amd64'
+      python-version: '3.12'
       config-fp: './config/latest-mt-debug-howso.yml'
       config-pretty: 'MT'
       upstream-details: ${{ needs.metadata.outputs.upstream-details }}
 
-  pytest-windows-3-11-mt:
+  pytest-windows-3-12-mt:
     if: inputs.build-type != 'PR'
     needs: ['metadata']
     uses: howsoai/.github/.github/workflows/pytest.yml@main
@@ -119,12 +119,12 @@ jobs:
       platform: 'windows-latest'
       platform-pretty: 'Windows'
       amalgam-plat-arch: 'windows-amd64'
-      python-version: '3.11'
+      python-version: '3.12'
       config-fp: './config/latest-mt-debug-howso.yml'
       config-pretty: 'MT'
       upstream-details: ${{ needs.metadata.outputs.upstream-details }}
 
-  pytest-macos-3-11-mt-amd64:
+  pytest-macos-3-12-mt-amd64:
     if: inputs.build-type != 'PR'
     needs: ['metadata']
     uses: howsoai/.github/.github/workflows/pytest.yml@main
@@ -133,12 +133,12 @@ jobs:
       platform: 'macos-latest'
       platform-pretty: 'MacOS'
       amalgam-plat-arch: 'darwin-amd64'
-      python-version: '3.11'
+      python-version: '3.12'
       config-fp: './config/latest-mt-noavx-debug-howso.yml'
       config-pretty: 'MT'
       upstream-details: ${{ needs.metadata.outputs.upstream-details }}
 
-  pytest-macos-3-10-mt-arm64:
+  pytest-macos-3-12-mt-arm64:
     if: inputs.build-type != 'PR'
     needs: ['metadata']
     uses: howsoai/.github/.github/workflows/pytest.yml@main
@@ -147,7 +147,7 @@ jobs:
       platform: 'macos-latest-xlarge'
       platform-pretty: 'MacOS'
       amalgam-plat-arch: 'darwin-arm64'
-      python-version: '3.10'
+      python-version: '3.12'
       config-fp: './config/latest-mt-debug-howso.yml'
       config-pretty: 'MT'
       upstream-details: ${{ needs.metadata.outputs.upstream-details }}
@@ -155,13 +155,13 @@ jobs:
   release:
     needs:
       - metadata
-      - pytest-linux-3-8-st
       - pytest-linux-3-9-st
       - pytest-linux-3-10-st
-      - pytest-linux-3-11-mt
-      - pytest-windows-3-11-mt
-      - pytest-macos-3-11-mt-amd64
-      - pytest-macos-3-10-mt-arm64
+      - pytest-linux-3-11-st
+      - pytest-linux-3-12-mt
+      - pytest-windows-3-12-mt
+      - pytest-macos-3-12-mt-amd64
+      - pytest-macos-3-12-mt-arm64
     if: inputs.build-type == 'release'
     permissions:
       contents: write
