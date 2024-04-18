@@ -13,5 +13,3 @@ pandas[parquet]~=2.0
 plotly>=5.7.0
 pmlb>=1.0
 scikit-learn
-# This can be dropped when we stop supporting Python 3.8
-ipython<8.13; python_version<'3.9'
