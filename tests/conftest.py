@@ -4,9 +4,15 @@ import pytest
 from testbook import testbook
 
 
+@pytest.fixture(scope="session", name="cwd")
+def current_directory():
+    return os.getcwd()
+
+
 @pytest.fixture(scope="module")
-def tb(request):  # noqa: C901
-    cwd = os.getcwd()
+def tb(request, cwd):  # noqa: C901
+
+    os.chdir(cwd)
 
     # Search the directory for the notebook filepath
     filename_to_find = request.module.tb_filename
