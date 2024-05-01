@@ -35,12 +35,12 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 Faker
-24.11.0
+25.0.0
 MIT License
 joke2k
 https://github.com/joke2k/faker
 Faker is a Python package that generates fake data for you.
-/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/Faker-24.11.0.dist-info/LICENSE.txt
+/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/Faker-25.0.0.dist-info/LICENSE.txt
 Copyright (c) 2012 Daniele Faraglia
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -2088,12 +2088,12 @@ Exhibit B - "Incompatible With Secondary Licenses" Notice
 
 
 geopandas
-0.14.3
+0.14.4
 BSD License
 Kelsey Jordahl <kjordahl@alum.mit.edu>
 https://github.com/geopandas/geopandas
 Geographic pandas extensions
-/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/geopandas-0.14.3.dist-info/LICENSE.txt
+/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/geopandas-0.14.4.dist-info/LICENSE.txt
 Copyright (c) 2013-2022, GeoPandas developers.
 All rights reserved.
 
@@ -2318,12 +2318,12 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 ipython
-8.23.0
+8.24.0
 BSD License
 The IPython Development Team
 https://ipython.org
 IPython: Productive Interactive Computing
-/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/ipython-8.23.0.dist-info/LICENSE
+/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/ipython-8.24.0.dist-info/LICENSE
 BSD 3-Clause License
 
 - Copyright (c) 2008-Present, IPython Development Team
@@ -2778,12 +2778,12 @@ THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 jsonschema
-4.21.1
+4.22.0
 MIT License
-Julian Berman
+Julian Berman <Julian+jsonschema@GrayVines.com>
 https://github.com/python-jsonschema/jsonschema
 An implementation of JSON Schema validation for Python
-/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/jsonschema-4.21.1.dist-info/licenses/COPYING
+/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/jsonschema-4.22.0.dist-info/licenses/COPYING
 Copyright (c) 2013 Julian Berman
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -3069,12 +3069,12 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 jupyterlab
-4.1.6
+4.1.8
 BSD License
 Jupyter Development Team <jupyter@googlegroups.com>
 https://jupyter.org
 JupyterLab computational environment
-/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/jupyterlab-4.1.6.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/jupyterlab-4.1.8.dist-info/licenses/LICENSE
 Copyright (c) 2015-2022 Project Jupyter Contributors
 All rights reserved.
 
@@ -3147,12 +3147,12 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 jupyterlab_server
-2.26.0
+2.27.1
 BSD License
 Jupyter Development Team <jupyter@googlegroups.com>
 https://jupyterlab-server.readthedocs.io
 A set of server components for JupyterLab and JupyterLab like applications.
-/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/jupyterlab_server-2.26.0.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/jupyterlab_server-2.27.1.dist-info/licenses/LICENSE
 Copyright (c) 2015-2017, Project Jupyter Contributors
 All rights reserved.
 
@@ -3860,12 +3860,12 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 nbconvert
-7.16.3
+7.16.4
 BSD License
 Jupyter Development Team <jupyter@googlegroups.com>
 https://jupyter.org
 Converting Jupyter Notebooks (.ipynb files) to other formats.  Output formats include asciidoc, html, latex, markdown, pdf, py, rst, script.  nbconvert can be used both as a Python library (`import nbconvert`) or as a command line tool (invoked as `jupyter nbconvert ...`).
-/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/nbconvert-7.16.3.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/nbconvert-7.16.4.dist-info/licenses/LICENSE
 BSD 3-Clause License
 
 - Copyright (c) 2001-2015, IPython Development Team
@@ -6844,12 +6844,12 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 platformdirs
-4.2.0
+4.2.1
 MIT License
 UNKNOWN
 https://github.com/platformdirs/platformdirs
-A small Python package for determining appropriate platform-specific dirs, e.g. a "user data dir".
-/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/platformdirs-4.2.0.dist-info/licenses/LICENSE
+A small Python package for determining appropriate platform-specific dirs, e.g. a `user data dir`.
+/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/platformdirs-4.2.1.dist-info/licenses/LICENSE
 MIT License
 
 Copyright (c) 2010-202x The platformdirs developers
@@ -7273,12 +7273,12 @@ SOFTWARE.
 
 
 pyarrow
-15.0.2
+16.0.0
 Apache Software License
 UNKNOWN
 https://arrow.apache.org/
 Python library for Apache Arrow
-/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/pyarrow-15.0.2.dist-info/LICENSE.txt
+/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/pyarrow-16.0.0.dist-info/LICENSE.txt
 
                                  Apache License
                            Version 2.0, January 2004
@@ -9534,6 +9534,13 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+--------------------------------------------------------------------------------
+java/vector/src/main/java/org/apache/arrow/vector/util/IntObjectHashMap.java
+java/vector/src/main/java/org/apache/arrow/vector/util/IntObjectMap.java
+
+These file are derived from code from Netty, which is made available under the
+Apache License 2.0.
+
 
 pycparser
 2.22
@@ -9627,34 +9634,13 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
 pyproject_hooks
-1.0.0
+1.1.0
 MIT License
 Thomas Kluyver <thomas@kluyver.me.uk>
 https://github.com/pypa/pyproject-hooks
 Wrappers to call pyproject.toml-based build backend hooks.
-/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/pyproject_hooks-1.0.0.dist-info/LICENSE
-The MIT License (MIT)
-
-Copyright (c) 2017 Thomas Kluyver
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
-
+UNKNOWN
+UNKNOWN
 
 python-dateutil
 2.9.0.post0
@@ -9765,12 +9751,12 @@ DEALINGS IN THE SOFTWARE.
 
 
 pyzmq
-26.0.0
+26.0.2
 BSD License
 Brian E. Granger, Min Ragan-Kelley
 https://pyzmq.readthedocs.org
 Python bindings for 0MQ
-/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/pyzmq-26.0.0.dist-info/licenses/LICENSE.md
+/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/pyzmq-26.0.2.dist-info/licenses/LICENSE.md
 BSD 3-Clause License
 
 Copyright (c) 2009-2012, Brian Granger, Min Ragan-Kelley
@@ -9804,12 +9790,12 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 referencing
-0.34.0
+0.35.0
 MIT License
 Julian Berman <Julian+referencing@GrayVines.com>
 https://github.com/python-jsonschema/referencing
 JSON Referencing + Python
-/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/referencing-0.34.0.dist-info/licenses/COPYING
+/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/referencing-0.35.0.dist-info/licenses/COPYING
 Copyright (c) 2022 Julian Berman
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -11564,12 +11550,12 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 threadpoolctl
-3.4.0
+3.5.0
 BSD License
 Thomas Moreau
 https://github.com/joblib/threadpoolctl
 threadpoolctl
-/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/threadpoolctl-3.4.0.dist-info/LICENSE
+/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/threadpoolctl-3.5.0.dist-info/LICENSE
 Copyright (c) 2019, threadpoolctl contributors
 
 Redistribution and use in source and binary forms, with or without
@@ -11596,12 +11582,12 @@ OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 tinycss2
-1.2.1
+1.3.0
 BSD License
 Simon Sapin <simon.sapin@exyr.org>
 https://www.courtbouillon.org/tinycss2
 A tiny CSS parser
-/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/tinycss2-1.2.1.dist-info/LICENSE
+/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/tinycss2-1.3.0.dist-info/LICENSE
 BSD 3-Clause License
 
 Copyright (c) 2013-2020, Simon Sapin and contributors.
@@ -11845,12 +11831,12 @@ Tornado is a Python web framework and asynchronous networking library, originall
 
 
 traitlets
-5.14.2
+5.14.3
 BSD License
 IPython Development Team <ipython-dev@python.org>
 https://github.com/ipython/traitlets
 Traitlets Python configuration system
-/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/traitlets-5.14.2.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/traitlets-5.14.3.dist-info/licenses/LICENSE
 BSD 3-Clause License
 
 - Copyright (c) 2001-, IPython Development Team
@@ -12311,12 +12297,12 @@ UNKNOWN
 UNKNOWN
 
 websocket-client
-1.7.0
+1.8.0
 Apache Software License
 liris
 https://github.com/websocket-client/websocket-client.git
 WebSocket client for Python with low level API options
-/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/websocket_client-1.7.0.dist-info/LICENSE
+/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/websocket_client-1.8.0.dist-info/LICENSE
 
                                  Apache License
                            Version 2.0, January 2004
@@ -12506,7 +12492,7 @@ WebSocket client for Python with low level API options
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
 
-   Copyright 2023 engn33r
+   Copyright 2024 engn33r
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
