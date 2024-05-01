@@ -1,4 +1,4 @@
-tb_filename = "audit_edit.ipynb"
+tb_filename = "auditing_and_editing.ipynb"
 
 
 def test_accuracy_comparison(tb):
