@@ -1,1 +1,1 @@
-# Industry Example Coming Soon!
+# Industry Examples Coming Soon!
