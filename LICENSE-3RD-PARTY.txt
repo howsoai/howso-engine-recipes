@@ -36,12 +36,20 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 Faker
+<<<<<<< HEAD
 25.0.0
+=======
+25.0.1
+>>>>>>> main
 MIT License
 joke2k
 https://github.com/joke2k/faker
 Faker is a Python package that generates fake data for you.
+<<<<<<< HEAD
 /home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/Faker-25.0.0.dist-info/LICENSE.txt
+=======
+/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/Faker-25.0.1.dist-info/LICENSE.txt
+>>>>>>> main
 Copyright (c) 2012 Daniele Faraglia
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -2448,12 +2456,12 @@ THE SOFTWARE.
 
 
 joblib
-1.4.0
+1.4.2
 BSD License
 Gael Varoquaux <gael.varoquaux@normalesup.org>
 https://joblib.readthedocs.io
 Lightweight pipelining with Python functions
-/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/joblib-1.4.0.dist-info/LICENSE.txt
+/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/joblib-1.4.2.dist-info/LICENSE.txt
 BSD 3-Clause License
 
 Copyright (c) 2008-2021, The joblib developers.
@@ -3110,12 +3118,12 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 jupyterlab
-4.1.6
+4.1.8
 BSD License
 Jupyter Development Team <jupyter@googlegroups.com>
 https://jupyter.org
 JupyterLab computational environment
-/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/jupyterlab-4.1.6.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/jupyterlab-4.1.8.dist-info/licenses/LICENSE
 Copyright (c) 2015-2022 Project Jupyter Contributors
 All rights reserved.
 
@@ -3188,12 +3196,12 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 jupyterlab_server
-2.26.0
+2.27.1
 BSD License
 Jupyter Development Team <jupyter@googlegroups.com>
 https://jupyterlab-server.readthedocs.io
 A set of server components for JupyterLab and JupyterLab like applications.
-/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/jupyterlab_server-2.26.0.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/jupyterlab_server-2.27.1.dist-info/licenses/LICENSE
 Copyright (c) 2015-2017, Project Jupyter Contributors
 All rights reserved.
 
@@ -6925,12 +6933,12 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 platformdirs
-4.2.0
+4.2.1
 MIT License
 UNKNOWN
 https://github.com/platformdirs/platformdirs
-A small Python package for determining appropriate platform-specific dirs, e.g. a "user data dir".
-/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/platformdirs-4.2.0.dist-info/licenses/LICENSE
+A small Python package for determining appropriate platform-specific dirs, e.g. a `user data dir`.
+/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/platformdirs-4.2.1.dist-info/licenses/LICENSE
 MIT License
 
 Copyright (c) 2010-202x The platformdirs developers
