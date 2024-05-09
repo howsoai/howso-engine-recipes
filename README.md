@@ -5,6 +5,19 @@ Notebook form. They help demonstrate not only the capabilities of
 [Howso Engine](https://github.com/howsoai/howso-engine) but also 
 important concepts and usage instructions.
 
+## Contents
+
+The recipes are divided into 5 sections along with an introduction recipe.
+
+### Sections
+- 1-Insights: Explores the different types of insights that can be accessed using Howso
+- 2-Workflows: Example workflows and use cases using a combination of different Howso insights and capabilities
+- 3-Integration: Details how to connect and use Howso with a variety of outside platforms
+- 4-Examples: Includes industry examples as well as extra examples of previously covered concepts
+- 5-Technical_Validation: Demonstrations of certain Howso technical capabilities
+
+## Set up
+
 There are two main methods for setting up to run the recipes:
 - Use a prebuilt VS Code dev container (requires VS Code and Docker)
   - Quicker startup method to try out Howso Engine or if dev containers are already part of your work environment

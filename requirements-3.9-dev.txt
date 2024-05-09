@@ -380,13 +380,6 @@ deprecation==2.1.0 \
     --hash=sha256:72b3bde64e5d778694b0cf68178aed03d15e15477116add3fb773e581f9518ff \
     --hash=sha256:a10811591210e1fb0e768a8c25517cabeabcba6f0bf96564f8ff45189f90b14a
     # via howso-engine
-<<<<<<< HEAD
-entrypoints==0.4 \
-    --hash=sha256:b706eddaa9218a19ebcd67b56818f05bb27589b1ca9e8d797b74affad4ccacd4 \
-    --hash=sha256:f174b5ff827504fd3cd97cc3f8649f3693f51538c7e4bdf3ef002c8429d42f9f
-    # via jupyter-client
-=======
->>>>>>> main
 exceptiongroup==1.2.1 \
     --hash=sha256:5258b9ed329c5bbdd31a309f53cbfb0b155341807f6ff7606a1e801a891b29ad \
     --hash=sha256:a4785e48b045528f5bfe627b6ad554ff32def154f42372786903b7abcfe1aa16
@@ -402,15 +395,9 @@ executing==2.0.1 \
     --hash=sha256:35afe2ce3affba8ee97f2d69927fa823b08b472b7b994e36a52a964b93d16147 \
     --hash=sha256:eac49ca94516ccc753f9fb5ce82603156e590b27525a8bc32cce8ae302eb61bc
     # via stack-data
-<<<<<<< HEAD
-faker==25.0.0 \
-    --hash=sha256:87ef41e24b39a5be66ecd874af86f77eebd26782a2681200e86c5326340a95d3 \
-    --hash=sha256:e23a2b74888885c3d23a9237bacb823041291c03d609a39acb9ebe6c123f3986
-=======
 faker==25.0.1 \
     --hash=sha256:6737cc6d591cd83421fdc5e494f6e2c1a6e32266214f158b745aa9fa15687c98 \
     --hash=sha256:c153505618801f1704807b258a6010ea8cabf91f66f4788939bfdba83b887e76
->>>>>>> main
     # via howso-engine
 fastjsonschema==2.19.1 \
     --hash=sha256:3672b47bc94178c9f23dbb654bf47440155d4db9df5f7bc47643315f9c405cd0 \
@@ -494,15 +481,6 @@ geopandas==0.14.4 \
     --hash=sha256:3bb6473cb59d51e1a7fe2dbc24a1a063fb0ebdeddf3ce08ddbf8c7ddc99689aa \
     --hash=sha256:56765be9d58e2c743078085db3bd07dc6be7719f0dbe1dfdc1d705cb80be7c25
     # via -r requirements.in
-<<<<<<< HEAD
-howso-engine==18.1.4 \
-    --hash=sha256:1bcc0fd0f5ed70a469a096fada8e7c2aaab8918b61d2f810b7b1fb9fd16b3dc8 \
-    --hash=sha256:45d18a020c2efb8cde5789ba0bc99f3006114bb5c214a986dba7416f715b384f
-    # via -r requirements.in
-howso-openapi-client==31.0.1 \
-    --hash=sha256:62745c5ed231458755fe48aa9d784238c8c084954a7ebdd11dea4c04eddea2ea \
-    --hash=sha256:7f329e09b44b1df9a8f70942796c0cc8b5cdcd2c5965b6f1725b352bd18aec89
-=======
 h11==0.14.0 \
     --hash=sha256:8f19fbbe99e72420ff35c00b27a34cb9937e902a8b810e2c88300c6f0a3b699d \
     --hash=sha256:e3fe4ac4b851c468cc8363d500db52c2ead036020723024a109d37346efaa761
@@ -514,7 +492,6 @@ howso-engine==19.0.4 \
 howso-openapi-client==33.0.0 \
     --hash=sha256:98fa8b591ce81ff9a53104b1cbff2bbe135da963ab28ef7af86c95098e8edbed \
     --hash=sha256:e439062ba6ace6cadf4333eda04396691da8bbb540e3c91800cb65009271f2f0
->>>>>>> main
     # via howso-engine
 howso-visuals==1.2.2 \
     --hash=sha256:1b1dd841f53e86eb8fbf4d0f43c7868ec0dbb8c20927fd31b0a854563a7279bc \
@@ -977,14 +954,7 @@ nbclient==0.10.0 \
 nbconvert==7.16.4 \
     --hash=sha256:05873c620fe520b6322bf8a5ad562692343fe3452abda5765c7a34b7d1aa3eb3 \
     --hash=sha256:86ca91ba266b0a448dc96fa6c5b9d98affabde2867b363258703536807f9f7f4
-<<<<<<< HEAD
-    # via
-    #   jupyter-server
-    #   nbclassic
-    #   notebook
-=======
     # via jupyter-server
->>>>>>> main
 nbformat==5.10.4 \
     --hash=sha256:322168b14f937a5d11362988ecac2a4952d3d8e3a2cbeb2319584631226d5b3a \
     --hash=sha256:3b48d6c8fbca4b299bf3982ea7db1af21580e4fec269ad087b9e81588891200b
@@ -1198,13 +1168,10 @@ pillow==10.3.0 \
     --hash=sha256:fdcbb4068117dfd9ce0138d068ac512843c52295ed996ae6dd1faf537b6dbc27 \
     --hash=sha256:ff61bfd9253c3915e6d41c651d5f962da23eda633cf02262990094a18a55371a
     # via matplotlib
-<<<<<<< HEAD
-=======
 platformdirs==4.2.1 \
     --hash=sha256:031cd18d4ec63ec53e82dceaac0417d218a6863f7745dfcc9efe7793b7039bdf \
     --hash=sha256:17d5a1161b3fd67b390023cb2d3b026bbd40abde6fdb052dfbd3a29c3ba22ee1
     # via jupyter-core
->>>>>>> main
 plotly==5.22.0 \
     --hash=sha256:68fc1901f098daeb233cc3dd44ec9dc31fb3ca4f4e53189344199c43496ed006 \
     --hash=sha256:859fdadbd86b5770ae2466e542b761b247d1c6b49daed765b95bb8c7063e7469
@@ -1528,11 +1495,6 @@ pyzmq==26.0.3 \
     #   ipykernel
     #   jupyter-client
     #   jupyter-server
-<<<<<<< HEAD
-    #   nbclassic
-    #   notebook
-=======
->>>>>>> main
 referencing==0.35.1 \
     --hash=sha256:25b42124a6c8b632a425174f24087783efb348a6f1e0008e63cd4466fedf703c \
     --hash=sha256:eda6d3234d62814d1c64e305c1331c9a3a6132da475ab6382eaa997b21ee75de
