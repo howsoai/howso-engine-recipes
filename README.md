@@ -10,8 +10,8 @@ important concepts and usage instructions.
 The recipes are divided into 5 sections along with an introduction recipe.
 
 ### Sections
-- 1-Insights: Explores the different types of insights that can be accessed using Howso
-- 2-Workflows: Example workflows and use cases using a combination of different Howso insights and capabilities
+- 1-Insights: Explores the different types of insights that can be attained using Howso
+- 2-Workflows: Example use cases that combine different Howso insights and capabilities into practical workflows
 - 3-Integration: Details how to connect and use Howso with a variety of outside platforms
 - 4-Examples: Includes industry examples as well as extra examples of previously covered concepts
 - 5-Technical_Validation: Demonstrations of certain Howso technical capabilities
