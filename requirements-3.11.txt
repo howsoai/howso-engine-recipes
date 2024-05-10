@@ -933,10 +933,14 @@ nbformat==5.10.4 \
 nest-asyncio==1.6.0 \
     --hash=sha256:6f172d5449aca15afd6c646851f4e31e02c598d553a667e38cafa997cfec55fe \
     --hash=sha256:87af6efd6b5e897c81050477ef65c62e2b2f35d51703cae01aff2905b1852e1c
-    # via ipykernel
-notebook==7.1.3 \
-    --hash=sha256:41fcebff44cf7bb9377180808bcbae066629b55d8c7722f1ebbe75ca44f9cfc1 \
-    --hash=sha256:919b911e59f41f6e3857ce93c9d93535ba66bb090059712770e5968c07e1004d
+    # via
+    #   ipykernel
+    #   jupyter-client
+    #   nbclassic
+    #   notebook
+notebook==6.5.7 \
+    --hash=sha256:04eb9011dfac634fbd4442adaf0a8c27cd26beef831fe1d19faf930c327768e4 \
+    --hash=sha256:a6afa9a4ff4d149a0771ff8b8c881a7a73b3835f9add0606696d6e9d98ac1cd0
     # via -r requirements.in
 notebook-shim==0.2.4 \
     --hash=sha256:411a5be4e9dc882a074ccbcae671eda64cceb068767e9a3419096986560e1cef \
@@ -1627,7 +1631,10 @@ semantic-version==2.10.0 \
 send2trash==1.8.3 \
     --hash=sha256:0c31227e0bd08961c7665474a3d1ef7193929fedda4233843689baa056be46c9 \
     --hash=sha256:b18e7a3966d99871aefeb00cfbcfdced55ce4871194810fc71f4aa484b953abf
-    # via jupyter-server
+    # via
+    #   jupyter-server
+    #   nbclassic
+    #   notebook
 shapely==2.0.4 \
     --hash=sha256:011b77153906030b795791f2fdfa2d68f1a8d7e40bce78b029782ade3afe4f2f \
     --hash=sha256:03152442d311a5e85ac73b39680dd64a9892fa42bb08fd83b3bab4fe6999bfa0 \
