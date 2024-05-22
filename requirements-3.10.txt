@@ -476,9 +476,15 @@ h11==0.14.0 \
     --hash=sha256:8f19fbbe99e72420ff35c00b27a34cb9937e902a8b810e2c88300c6f0a3b699d \
     --hash=sha256:e3fe4ac4b851c468cc8363d500db52c2ead036020723024a109d37346efaa761
     # via httpcore
+<<<<<<< HEAD
 howso-engine==20.0.2 \
     --hash=sha256:0a86f6b488d8f9a0f3d7ccafce03d39fe03d54978e6461588a5e19f990bea141 \
     --hash=sha256:4a33398a3e7786cf75dd520eea4029450479e81b5e234f320597185ff35fba1f
+=======
+howso-engine==22.0.0 \
+    --hash=sha256:12d6b23069055e51b0ab5394da792afc3391a3e894a7420d877c985851d6a6d7 \
+    --hash=sha256:2fd17b6f149f95a505d382023b3f54acea1ef507e596232f45bcf46a51109a48
+>>>>>>> 53048ed (20349: Bumps engine-py requirements (#114))
     # via -r requirements.in
 howso-openapi-client==33.0.12 \
     --hash=sha256:2281172c9fd277cdb12703f28fd84e9aa47f8665ed73407f3e3a90e2b21d7d2a \
@@ -605,9 +611,9 @@ jupyterlab-pygments==0.3.0 \
     --hash=sha256:721aca4d9029252b11cfa9d185e5b5af4d54772bb8072f9b7036f4170054d35d \
     --hash=sha256:841a89020971da1d8693f1a99997aefc5dc424bb1b251fd6322462a1b8842780
     # via nbconvert
-jupyterlab-server==2.27.1 \
-    --hash=sha256:097b5ac709b676c7284ac9c5e373f11930a561f52cd5a86e4fc7e5a9c8a8631d \
-    --hash=sha256:f5e26156e5258b24d532c84e7c74cc212e203bff93eb856f81c24c16daeecc75
+jupyterlab-server==2.27.2 \
+    --hash=sha256:15cbb349dc45e954e09bacf81b9f9bcb10815ff660fb2034ecd7417db3a7ea27 \
+    --hash=sha256:54aa2d64fd86383b5438d9f0c032f043c4d8c0264b8af9f60bd061157466ea43
     # via
     #   jupyterlab
     #   notebook
