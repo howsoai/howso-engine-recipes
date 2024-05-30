@@ -19,11 +19,13 @@ The recipes are divided into 5 sections along with an introduction recipe.
 ## Set up
 
 There are two main methods for setting up to run the recipes:
-- Use a prebuilt VS Code dev container (requires VS Code and Docker)
+
+1. [Use a prebuilt VS Code dev container](#run-in-a-dev-container)
   - Quicker startup method to try out Howso Engine or if dev containers are already part of your work environment
   - VS Code and Docker are required, but a Python environment isn't 
   - Run notebooks in VS Code only
-- Install Howso Engine locally
+
+2. [Install Howso Engine locally](#local-installation)
   - Typical setup for those familiar with Python development
   - Howso Engine and dependencies are installed into your local Python environment
   - Run notebooks using whatever application you prefer (e.g. Jupyter servers, IDEs)
@@ -80,21 +82,26 @@ virtual environment. How this is done depends on your work-flow.
 
 For example, if you use `venv`:
 
-    python3 -m venv env
-    source env/bin/activate
+```bash
+python3 -m venv env
+source env/bin/activate
+```
 
 Or, if you use Anaconda, you might do (assuming Python 3.10):
 
-    conda create --name howso-recipes-engine python=3.10
-    conda activate howso-recipes-engine
-
+```bash
+conda create --name howso-recipes-engine python=3.10
+conda activate howso-recipes-engine
+```
 
 ### Installing Dependencies
 
 Once a virtual environment is created with the desired version of Python,
 activate the venv and install requirements with:
 
-    pip install -r requirements.in
+```bash
+pip install -r requirements.in
+```
 
 If successful, Howso Engine and all dependencies needed to run the recipes are
 installed. It should be possible to run any of the recipes using your preferred
