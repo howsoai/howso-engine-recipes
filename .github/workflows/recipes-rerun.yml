@@ -6,7 +6,7 @@ on:
     inputs:
       python-version:
         description: "The Python version to use for the re-run."
-        default: '3.11'
+        default: '3.9'
         required: false
       create-pr:
         description: "Create a PR against the default branch?"
@@ -21,6 +21,8 @@ on:
         required: true
         type: boolean
         default: false
+  schedule:
+    - cron: '0 12 */14 * 2'
 
 defaults:
   run:
@@ -65,7 +67,7 @@ jobs:
       branch: ${{ needs.gen-branch-name.outputs.branch }}
 
   gen-requirements:
-    if: inputs.generate-requirements == true
+    if: inputs.generate-requirements == true || github.event_name == 'schedule'
     needs: ['gen-branch-name', 'create-branch']
     uses: "howsoai/.github/.github/workflows/compile-requirements.yml@main"
     secrets: inherit
@@ -145,7 +147,8 @@ jobs:
     uses: "howsoai/.github/.github/workflows/create-pr.yml@main"
     secrets: inherit
     with:
-      dry-run: ${{ ! inputs.create-pr }}
+      dry-run: ${{ ! inputs.create-pr && ! github.event_name == 'schedule' }}
       branch: ${{ needs.gen-branch-name.outputs.branch }}
       title: ${{ needs.gen-pr-title.outputs.title }}
       body: "Automated PR with generated requirements.txt files."
+      recipe-reviewers: ${{ github.event_name == 'schedule' }}
