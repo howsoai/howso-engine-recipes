@@ -35,12 +35,12 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 Faker
-25.3.0
+25.8.0
 MIT License
 joke2k
 https://github.com/joke2k/faker
 Faker is a Python package that generates fake data for you.
-/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/Faker-25.3.0.dist-info/LICENSE.txt
+/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/Faker-25.8.0.dist-info/LICENSE.txt
 Copyright (c) 2012 Daniele Faraglia
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -911,12 +911,12 @@ DEALINGS IN THE SOFTWARE.
 
 
 certifi
-2024.2.2
+2024.6.2
 Mozilla Public License 2.0 (MPL 2.0)
 Kenneth Reitz
 https://github.com/certifi/python-certifi
 Python package for providing Mozilla's CA Bundle.
-/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/certifi-2024.2.2.dist-info/LICENSE
+/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/certifi-2024.6.2.dist-info/LICENSE
 This package contains a modified version of ca-bundle.crt:
 
 ca-bundle.crt -- Bundle of CA Root Certificates
@@ -1190,12 +1190,12 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 cryptography
-42.0.7
+42.0.8
 Apache Software License; BSD License
 The Python Cryptographic Authority and individual contributors <cryptography-dev@python.org>
 https://github.com/pyca/cryptography
 cryptography is a package which provides cryptographic recipes and primitives to Python developers.
-/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/cryptography-42.0.7.dist-info/LICENSE
+/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/cryptography-42.0.8.dist-info/LICENSE
 This software is made available under the terms of *either* of the licenses
 found in LICENSE.APACHE or LICENSE.BSD. Contributions to cryptography are made
 under the terms of *both* these licenses.
@@ -1676,12 +1676,12 @@ POSSIBILITY OF SUCH DAMAGE.
 
 
 fonttools
-4.52.4
+4.53.0
 MIT License
 Just van Rossum
 http://github.com/fonttools/fonttools
 Tools to manipulate font files
-/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/fonttools-4.52.4.dist-info/LICENSE
+/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/fonttools-4.53.0.dist-info/LICENSE
 MIT License
 
 Copyright (c) 2017 Just van Rossum
@@ -2318,12 +2318,12 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 ipython
-8.24.0
+8.25.0
 BSD License
 The IPython Development Team
 https://ipython.org
 IPython: Productive Interactive Computing
-/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/ipython-8.24.0.dist-info/LICENSE
+/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/ipython-8.25.0.dist-info/LICENSE
 BSD 3-Clause License
 
 - Copyright (c) 2008-Present, IPython Development Team
@@ -2743,12 +2743,12 @@ SOFTWARE.
 
 
 jsonpointer
-2.4
+3.0.0
 BSD License
 Stefan Kögl
 https://github.com/stefankoegl/python-json-pointer
 Identify specific nodes in a JSON document (RFC 6901) 
-/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/jsonpointer-2.4.dist-info/LICENSE.txt
+/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/jsonpointer-3.0.0.dist-info/LICENSE.txt
 Copyright (c) 2011 Stefan Kögl <stefan@skoegl.net>
 All rights reserved.
 
@@ -2990,12 +2990,12 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 jupyter_server
-2.14.0
+2.14.1
 BSD License
 Jupyter Development Team <jupyter@googlegroups.com>
 https://jupyter-server.readthedocs.io
 The backend—i.e. core services, APIs, and REST endpoints—to Jupyter web applications.
-/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/jupyter_server-2.14.0.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/jupyter_server-2.14.1.dist-info/licenses/LICENSE
 BSD 3-Clause License
 
 - Copyright (c) 2001-2015, IPython Development Team
@@ -3069,12 +3069,12 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 jupyterlab
-4.2.1
+4.2.2
 BSD License
 Jupyter Development Team <jupyter@googlegroups.com>
 https://jupyter.org
 JupyterLab computational environment
-/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/jupyterlab-4.2.1.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/jupyterlab-4.2.2.dist-info/licenses/LICENSE
 Copyright (c) 2015-2022 Project Jupyter Contributors
 All rights reserved.
 
@@ -3974,12 +3974,12 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 notebook
-7.2.0
+7.2.1
 BSD License
 Jupyter Development Team <jupyter@googlegroups.com>
 https://github.com/jupyter/notebook
 Jupyter Notebook - A web-based notebook environment for interactive computing
-/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/notebook-7.2.0.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/notebook-7.2.1.dist-info/licenses/LICENSE
 BSD 3-Clause License
 
 - Copyright (c) 2001-2015, IPython Development Team
@@ -5243,12 +5243,12 @@ A decorator to automatically detect mismatch when overriding a method.
 
 
 packaging
-24.0
+24.1
 Apache Software License; BSD License
 Donald Stufft <donald@stufft.io>
 https://github.com/pypa/packaging
 Core utilities for Python packages
-/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/packaging-24.0.dist-info/LICENSE
+/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/packaging-24.1.dist-info/LICENSE
 This software is made available under the terms of *either* of the licenses
 found in LICENSE.APACHE or LICENSE.BSD. Contributions to this software is made
 under the terms of *both* these licenses.
@@ -7144,12 +7144,12 @@ Python client for the Prometheus monitoring system.
 
 
 prompt_toolkit
-3.0.45
+3.0.47
 BSD License
 Jonathan Slenders
 https://github.com/prompt-toolkit/python-prompt-toolkit
 Library for building powerful interactive command lines in Python
-/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/prompt_toolkit-3.0.45.dist-info/LICENSE
+/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/prompt_toolkit-3.0.47.dist-info/LICENSE
 Copyright (c) 2014, Jonathan Slenders
 All rights reserved.
 
@@ -11591,12 +11591,12 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 tornado
-6.4
+6.4.1
 Apache Software License
 Facebook
 http://www.tornadoweb.org/
 Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed.
-/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/tornado-6.4.dist-info/LICENSE
+/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/tornado-6.4.1.dist-info/LICENSE
 
                                  Apache License
                            Version 2.0, January 2004
@@ -11850,12 +11850,12 @@ UNKNOWN
 UNKNOWN
 
 typing_extensions
-4.12.0
+4.12.2
 Python Software Foundation License
 "Guido van Rossum, Jukka Lehtosalo, Łukasz Langa, Michael Lee" <levkivskyi@gmail.com>
 https://github.com/python/typing_extensions
 Backported and Experimental Type Hints for Python 3.8+
-/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/typing_extensions-4.12.0.dist-info/LICENSE
+/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/typing_extensions-4.12.2.dist-info/LICENSE
 A. HISTORY OF THE SOFTWARE
 ==========================
 
@@ -12222,13 +12222,13 @@ SOFTWARE.
 
 
 webcolors
-1.13
+24.6.0
 BSD License
 James Bennett <james@b-list.org>
 https://github.com/ubernostrum/webcolors
 A library for working with the color formats defined by HTML and CSS.
-/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/webcolors-1.13.dist-info/LICENSE
-Copyright (c) 2008, James Bennett
+/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/webcolors-24.6.0.dist-info/LICENSE
+Copyright (c) James Bennett, and contributors.
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
