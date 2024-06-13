@@ -1,6 +1,6 @@
 babel~=2.0
 geopandas>=0.11.0
-howso-engine~=22.1
+howso-engine~=23.0
 howso-visuals~=1.2
 ipykernel>=6.0.0
 jupyter-core>=4.7.0
