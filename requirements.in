@@ -4,6 +4,7 @@ howso-engine~=23.0
 howso-visuals~=1.2
 ipykernel>=6.0.0
 jupyter-core>=4.7.0
+ipyreact
 kaleido; sys_platform != "win32"
 kaleido==0.1.0.post1; sys_platform == "win32"
 matplotlib~=3.4
