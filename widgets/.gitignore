@@ -1,0 +1,9 @@
+# NPM
+node_modules/*
+
+# Howso compiled widget code
+!node_modules/@howso
+node_modules/@howso/*
+!node_modules/@howso/jupyter-notebook-react-components
+node_modules/@howso/jupyter-notebook-react-components/node_modules
+!node_modules/@howso/jupyter-notebook-react-components/lib
