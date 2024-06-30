@@ -428,13 +428,13 @@ h11==0.14.0 \
     --hash=sha256:8f19fbbe99e72420ff35c00b27a34cb9937e902a8b810e2c88300c6f0a3b699d \
     --hash=sha256:e3fe4ac4b851c468cc8363d500db52c2ead036020723024a109d37346efaa761
     # via httpcore
-howso-engine==25.0.0 \
-    --hash=sha256:1d37c54ca160afafb1384dedf6beb539ce787cd5699ddbbf1d8a17310b783ae6 \
-    --hash=sha256:abe4e742265472512701c8ce73037d26d58704fd189a321aeddc69ee5aeb2a6c
+howso-engine==25.0.1 \
+    --hash=sha256:b5ed7577e8241f5436c88289469bd5b6caaeaab8c2e22a1afc218a1fd3efee97 \
+    --hash=sha256:c618e7e9efb19534c5f5d38e3c62569074789b70ed5baf4c9a70e8e5f7a857ee
     # via -r requirements.in
-howso-openapi-client==36.1.1 \
-    --hash=sha256:592248ff982ac5a35f1f148a197aa8bb0af720906199694f29cd46f4b76a888d \
-    --hash=sha256:f1d64688abbdb8ea4c58fe1eb074ba1aa3a22438b8f6869c57f500d08fceab1d
+howso-openapi-client==37.0.0 \
+    --hash=sha256:7ba03820e187df44dfe157a6f36cec5dde95f2be9b1550816517ce8fc25c0bc2 \
+    --hash=sha256:c22a62454740147a59fab17fd5a79f9e2e1f1f5a549f5609ba8aad4cf88753a0
     # via howso-engine
 howso-visuals==1.2.3 \
     --hash=sha256:16be4e7f5d61b11ba87c52552739a0e52810083dc84b9be523936c788faef854 \
