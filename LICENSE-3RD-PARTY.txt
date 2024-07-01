@@ -5340,12 +5340,12 @@ ISC LICENSE
 
 
 pillow
-10.3.0
+10.4.0
 Historical Permission Notice and Disclaimer (HPND)
 "Jeffrey A. Clark" <aclark@aclark.net>
 https://python-pillow.org
 Python Imaging Library (Fork)
-/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/pillow-10.3.0.dist-info/LICENSE
+/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/pillow-10.4.0.dist-info/LICENSE
 The Python Imaging Library (PIL) is
 
     Copyright © 1997-2011 by Secret Labs AB
