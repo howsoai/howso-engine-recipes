@@ -443,13 +443,13 @@ h11==0.14.0 \
     --hash=sha256:8f19fbbe99e72420ff35c00b27a34cb9937e902a8b810e2c88300c6f0a3b699d \
     --hash=sha256:e3fe4ac4b851c468cc8363d500db52c2ead036020723024a109d37346efaa761
     # via httpcore
-howso-engine==25.0.1 \
-    --hash=sha256:b5ed7577e8241f5436c88289469bd5b6caaeaab8c2e22a1afc218a1fd3efee97 \
-    --hash=sha256:c618e7e9efb19534c5f5d38e3c62569074789b70ed5baf4c9a70e8e5f7a857ee
+howso-engine==25.0.2 \
+    --hash=sha256:57d0d3fd0e487338e46f2b75b5ec3d7dac7e7a4efe627eb2db71c9708df51469 \
+    --hash=sha256:b924923ea91d395e93fc94979c440ef60cf6f9aa450b58943b47e4d53b5e245f
     # via -r requirements.in
-howso-openapi-client==37.0.0 \
-    --hash=sha256:7ba03820e187df44dfe157a6f36cec5dde95f2be9b1550816517ce8fc25c0bc2 \
-    --hash=sha256:c22a62454740147a59fab17fd5a79f9e2e1f1f5a549f5609ba8aad4cf88753a0
+howso-openapi-client==37.0.1 \
+    --hash=sha256:2f03b30f07431d538573eaa3352f02f543d3ba660e40a8a64a1c9d63aea75332 \
+    --hash=sha256:d9fec8e1611978f2a0e4a8db04080b9f22f5b9671cd01d7e8c954a51bd33f8a2
     # via howso-engine
 howso-visuals==1.2.3 \
     --hash=sha256:16be4e7f5d61b11ba87c52552739a0e52810083dc84b9be523936c788faef854 \
@@ -479,9 +479,9 @@ iniconfig==2.0.0 \
     --hash=sha256:2d91e135bf72d31a410b17c16da610a82cb55f6b0477d1a902134b24a455b8b3 \
     --hash=sha256:b6a85871a79d2e3b22d2d1b94ac2824226a63c6b741c88f7ae975f18b6778374
     # via pytest
-ipykernel==6.29.4 \
-    --hash=sha256:1181e653d95c6808039c509ef8e67c4126b3b3af7781496c7cbfb5ed938a27da \
-    --hash=sha256:3d44070060f9475ac2092b760123fadf105d2e2493c24848b6691a7c4f42af5c
+ipykernel==6.29.5 \
+    --hash=sha256:afdb66ba5aa354b09b91379bac28ae4afebbb30e8b39510c9690afb7a10421b5 \
+    --hash=sha256:f093a22c4a40f8828f8e330a9c297cb93dcab13bd9678ded6de8e5cf81c56215
     # via
     #   -r requirements.in
     #   jupyterlab
@@ -1861,9 +1861,9 @@ websocket-client==1.8.0 \
     # via jupyter-server
 
 # The following packages are considered to be unsafe in a requirements file:
-setuptools==70.1.1 \
-    --hash=sha256:937a48c7cdb7a21eb53cd7f9b59e525503aa8abaf3584c730dc5f7a5bec3a650 \
-    --hash=sha256:a58a8fde0541dab0419750bcc521fbdf8585f6e5cb41909df3a472ef7b81ca95
+setuptools==70.2.0 \
+    --hash=sha256:b8b8060bb426838fbe942479c90296ce976249451118ef566a5a0b7d8b78fb05 \
+    --hash=sha256:bd63e505105011b25c3c11f753f7e3b8465ea739efddaccef8f0efac2137bac1
     # via
     #   howso-openapi-client
     #   jupyterlab

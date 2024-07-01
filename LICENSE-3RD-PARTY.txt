@@ -2169,12 +2169,12 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 ipykernel
-6.29.4
+6.29.5
 BSD License
 IPython Development Team <ipython-dev@scipy.org>
 https://ipython.org
 IPython Kernel for Jupyter
-/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/ipykernel-6.29.4.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/ipykernel-6.29.5.dist-info/licenses/LICENSE
 BSD 3-Clause License
 
 Copyright (c) 2015, IPython Development Team
