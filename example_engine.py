@@ -57,12 +57,12 @@ def main():
 
         # React to the trainee with the context feature values.
         print("Reacting to 20% reserve test data.")
-        details = {'feature_mda': True,
-                   'feature_residuals': True,
+        details = {'feature_mda_robust': True,
+                   'feature_residuals_robust': True,
                    'influential_cases': True,
                    'num_most_similar_cases': 3,
                    'num_boundary_cases': 3,
-                   'case_feature_residuals': True}
+                   'case_feature_residuals_robust': True}
         result = t.react(
             data_test_no_target,
             action_features=action_features,
