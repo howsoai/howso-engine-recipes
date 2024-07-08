@@ -2100,12 +2100,12 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
 
 
 humanize
-4.9.0
+4.10.0
 MIT License
 Jason Moiron <jmoiron@jmoiron.net>
 https://github.com/python-humanize/humanize
 Python humanize utilities
-/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/humanize-4.9.0.dist-info/licenses/LICENCE
+/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/humanize-4.10.0.dist-info/licenses/LICENCE
 Copyright (c) 2010-2020 Jason Moiron and Contributors
 
 Permission is hereby granted, free of charge, to any person obtaining
@@ -10007,12 +10007,12 @@ SOFTWARE.
 
 
 rpds-py
-0.18.1
+0.19.0
 MIT License
 Julian Berman <Julian+rpds@GrayVines.com>
 https://github.com/crate-py/rpds
 Python bindings to Rust's persistent data structures (rpds)
-/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/rpds_py-0.18.1.dist-info/license_files/LICENSE
+/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/rpds_py-0.19.0.dist-info/license_files/LICENSE
 Copyright (c) 2023 Julian Berman
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
