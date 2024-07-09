@@ -1,0 +1,9 @@
+{
+  "name": "@howso/widgets",
+  "description": "A local package to help manage updates of the @howso/jupyter-notebook-react-components package",
+  "main": "index.js",
+  "license": "ISC",
+  "dependencies": {
+    "@howso/jupyter-notebook-react-components": "^2.0.0"
+  }
+}
