@@ -2770,12 +2770,12 @@ THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 jsonschema
-4.22.0
+4.23.0
 MIT License
 Julian Berman <Julian+jsonschema@GrayVines.com>
 https://github.com/python-jsonschema/jsonschema
 An implementation of JSON Schema validation for Python
-/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/jsonschema-4.22.0.dist-info/licenses/COPYING
+/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/jsonschema-4.23.0.dist-info/licenses/COPYING
 Copyright (c) 2013 Julian Berman
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
