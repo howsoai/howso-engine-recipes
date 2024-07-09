@@ -57,12 +57,12 @@ def main():
 
         # React to the trainee with the context feature values.
         print("Reacting to 20% reserve test data.")
-        details = {'feature_mda': True,
-                   'feature_residuals': True,
+        details = {'feature_mda_robust': True,
+                   'feature_residuals_robust': True,
                    'influential_cases': True,
                    'num_most_similar_cases': 3,
                    'num_boundary_cases': 3,
-                   'case_feature_residuals': True}
+                   'case_feature_residuals_robust': True}
         result = t.react(
             data_test_no_target,
             action_features=action_features,
@@ -70,8 +70,13 @@ def main():
             details=details)
 
         # Retrieve the prediction stats from the trainee
-        t.react_into_trainee(residuals=True)
-        stats = t.get_prediction_stats(stats=['accuracy', 'mae'])
+        stats = t.react_aggregate(
+            action_feature=action_features[0],
+            details={
+                "prediction_stats": True,
+                "selected_prediction_stats": ['accuracy', 'mae']
+            }
+        )
         accuracy = stats[action_features[0]]['accuracy']
         mae = stats[action_features[0]]['mae']
 

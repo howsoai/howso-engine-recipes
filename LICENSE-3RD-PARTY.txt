@@ -941,12 +941,12 @@ DEALINGS IN THE SOFTWARE.
 
 
 certifi
-2024.6.2
+2024.7.4
 Mozilla Public License 2.0 (MPL 2.0)
 Kenneth Reitz
 https://github.com/certifi/python-certifi
 Python package for providing Mozilla's CA Bundle.
-/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/certifi-2024.6.2.dist-info/LICENSE
+/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/certifi-2024.7.4.dist-info/LICENSE
 This package contains a modified version of ca-bundle.crt:
 
 ca-bundle.crt -- Bundle of CA Root Certificates
@@ -1596,12 +1596,12 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 fonttools
-4.53.0
+4.53.1
 MIT License
 Just van Rossum
 http://github.com/fonttools/fonttools
 Tools to manipulate font files
-/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/fonttools-4.53.0.dist-info/LICENSE
+/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/fonttools-4.53.1.dist-info/LICENSE
 MIT License
 
 Copyright (c) 2017 Just van Rossum
@@ -2008,12 +2008,12 @@ Exhibit B - "Incompatible With Secondary Licenses" Notice
 
 
 geopandas
-1.0.0
+1.0.1
 BSD License
 Kelsey Jordahl <kjordahl@alum.mit.edu>
 https://github.com/geopandas/geopandas
 Geographic pandas extensions
-/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/geopandas-1.0.0.dist-info/LICENSE.txt
+/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/geopandas-1.0.1.dist-info/LICENSE.txt
 Copyright (c) 2013-2022, GeoPandas developers.
 All rights reserved.
 
@@ -2130,12 +2130,12 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
 
 
 humanize
-4.9.0
+4.10.0
 MIT License
 Jason Moiron <jmoiron@jmoiron.net>
 https://github.com/python-humanize/humanize
 Python humanize utilities
-/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/humanize-4.9.0.dist-info/licenses/LICENCE
+/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/humanize-4.10.0.dist-info/licenses/LICENCE
 Copyright (c) 2010-2020 Jason Moiron and Contributors
 
 Permission is hereby granted, free of charge, to any person obtaining
@@ -3862,12 +3862,12 @@ SOFTWARE.
 
 
 matplotlib
-3.9.0
+3.9.1
 Python Software Foundation License
 John D. Hunter, Michael Droettboom
 https://matplotlib.org
 Python plotting package
-/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/matplotlib-3.9.0.dist-info/LICENSE
+/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/matplotlib-3.9.1.dist-info/LICENSE
 License agreement for matplotlib versions 1.3.0 and later
 =========================================================
 
@@ -10445,12 +10445,12 @@ SOFTWARE.
 
 
 rpds-py
-0.18.1
+0.19.0
 MIT License
 Julian Berman <Julian+rpds@GrayVines.com>
 https://github.com/crate-py/rpds
 Python bindings to Rust's persistent data structures (rpds)
-/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/rpds_py-0.18.1.dist-info/license_files/LICENSE
+/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/rpds_py-0.19.0.dist-info/license_files/LICENSE
 Copyright (c) 2023 Julian Berman
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -10473,7 +10473,7 @@ THE SOFTWARE.
 
 
 scikit-learn
-1.5.0
+1.5.1
 BSD License
 UNKNOWN
 https://scikit-learn.org
@@ -11628,12 +11628,12 @@ SOFTWARE.
 
 
 tenacity
-8.4.2
+8.5.0
 Apache Software License
 Julien Danjou
 https://github.com/jd/tenacity
 Retry code until it succeeds
-/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/tenacity-8.4.2.dist-info/LICENSE
+/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/tenacity-8.5.0.dist-info/LICENSE
 
                                  Apache License
                            Version 2.0, January 2004
