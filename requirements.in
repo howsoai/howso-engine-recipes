@@ -14,4 +14,3 @@ pandas[parquet]~=2.0
 plotly>=5.7.0
 pmlb>=1.0
 scikit-learn
-umap-learn[plot]~=0.5
