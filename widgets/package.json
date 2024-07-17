@@ -4,6 +4,6 @@
   "main": "index.js",
   "license": "ISC",
   "dependencies": {
-    "@howso/jupyter-notebook-react-components": "^2.0.0"
+    "@howso/jupyter-notebook-react-components": "^2.0.1"
   }
 }
