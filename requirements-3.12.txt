@@ -447,10 +447,12 @@ h11==0.14.0 \
 howso-engine==27.0.0 \
     --hash=sha256:484b9f64c91d8fb0db9a40f20514d0037d9ee37398aff1741266f8501a417208 \
     --hash=sha256:711ccda1c0fb76c217329e03ab1db4bf7fbf035210ce1d919cb71c1496aaf67f
-    # via -r requirements.in
-howso-visuals==1.2.3 \
-    --hash=sha256:16be4e7f5d61b11ba87c52552739a0e52810083dc84b9be523936c788faef854 \
-    --hash=sha256:f7320af85f715b792d238b3dd504ca65f074b46a87355f4e520ea6446d5a8fcc
+    # via
+    #   -r requirements.in
+    #   howso-visuals
+howso-visuals==1.4.1 \
+    --hash=sha256:2733068a6237863eee237ec73de40dfb1fcddf02a926227065cc74bca47b8995 \
+    --hash=sha256:756402cb618a0a5df903735831f8b37e55275a00f5298e1554e4415624f98088
     # via -r requirements.in
 httpcore==1.0.5 \
     --hash=sha256:34a38e2f9291467ee3b44e89dd52615370e152954ba21721378a87b2960f7a61 \
@@ -513,7 +515,9 @@ jinja2==3.1.4 \
 joblib==1.4.2 \
     --hash=sha256:06d478d5674cbc267e7496a410ee875abd68e4340feff4490bcb7afb88060ae6 \
     --hash=sha256:2382c5816b2636fbd20a09e0f4e9dad4736765fdfb7dca582943b9c1366b3f0e
-    # via scikit-learn
+    # via
+    #   pynndescent
+    #   scikit-learn
 json5==0.9.25 \
     --hash=sha256:34ed7d834b1341a86987ed52f3f76cd8ee184394906b6e22a1e0deb9ab294e8f \
     --hash=sha256:548e41b9be043f9426776f05df8635a00fe06104ea51ed24b67f908856e151ae
@@ -705,6 +709,31 @@ kiwisolver==1.4.5 \
     --hash=sha256:fd32ea360bcbb92d28933fc05ed09bffcb1704ba3fc7942e81db0fd4f81a7892 \
     --hash=sha256:fdb7adb641a0d13bdcd4ef48e062363d8a9ad4a182ac7647ec88f695e719ae9f
     # via matplotlib
+llvmlite==0.43.0 \
+    --hash=sha256:14f0e4bf2fd2d9a75a3534111e8ebeb08eda2f33e9bdd6dfa13282afacdde0ed \
+    --hash=sha256:18e9953c748b105668487b7c81a3e97b046d8abf95c4ddc0cd3c94f4e4651ae8 \
+    --hash=sha256:35d80d61d0cda2d767f72de99450766250560399edc309da16937b93d3b676e7 \
+    --hash=sha256:3e8d0618cb9bfe40ac38a9633f2493d4d4e9fcc2f438d39a4e854f39cc0f5f98 \
+    --hash=sha256:47e147cdda9037f94b399bf03bfd8a6b6b1f2f90be94a454e3386f006455a9b4 \
+    --hash=sha256:6912a87782acdff6eb8bf01675ed01d60ca1f2551f8176a300a886f09e836a6a \
+    --hash=sha256:6d4fd101f571a31acb1559ae1af30f30b1dc4b3186669f92ad780e17c81e91bc \
+    --hash=sha256:74937acd22dc11b33946b67dca7680e6d103d6e90eeaaaf932603bec6fe7b03a \
+    --hash=sha256:7a2872ee80dcf6b5dbdc838763d26554c2a18aa833d31a2635bff16aafefb9c9 \
+    --hash=sha256:7d434ec7e2ce3cc8f452d1cd9a28591745de022f931d67be688a737320dfcead \
+    --hash=sha256:977525a1e5f4059316b183fb4fd34fa858c9eade31f165427a3977c95e3ee749 \
+    --hash=sha256:9cd2a7376f7b3367019b664c21f0c61766219faa3b03731113ead75107f3b66c \
+    --hash=sha256:a289af9a1687c6cf463478f0fa8e8aa3b6fb813317b0d70bf1ed0759eab6f761 \
+    --hash=sha256:ae2b5b5c3ef67354824fb75517c8db5fbe93bc02cd9671f3c62271626bc041d5 \
+    --hash=sha256:bc9efc739cc6ed760f795806f67889923f7274276f0eb45092a1473e40d9b867 \
+    --hash=sha256:c1da416ab53e4f7f3bc8d4eeba36d801cc1894b9fbfbf2022b29b6bad34a7df2 \
+    --hash=sha256:d5bd550001d26450bd90777736c69d68c487d17bf371438f975229b2b8241a91 \
+    --hash=sha256:df6509e1507ca0760787a199d19439cc887bfd82226f5af746d6977bd9f66844 \
+    --hash=sha256:e0a9a1a39d4bf3517f2af9d23d479b4175ead205c592ceeb8b89af48a327ea57 \
+    --hash=sha256:eccce86bba940bae0d8d48ed925f21dbb813519169246e2ab292b5092aba121f \
+    --hash=sha256:f99b600aa7f65235a5a05d0b9a9f31150c390f31261f2a0ba678e26823ec38f7
+    # via
+    #   numba
+    #   pynndescent
 markdown-it-py==3.0.0 \
     --hash=sha256:355216845c60bd96232cd8d8c40e8f9765cc86f46880e43a8fd22dc1a1a8cab1 \
     --hash=sha256:e3f60a94fa066dc52ec76661e37c851cb232d92f9886b15cb560aaada2df8feb
@@ -931,6 +960,31 @@ notebook-shim==0.2.4 \
     # via
     #   jupyterlab
     #   notebook
+numba==0.60.0 \
+    --hash=sha256:01ef4cd7d83abe087d644eaa3d95831b777aa21d441a23703d649e06b8e06b74 \
+    --hash=sha256:0b983bd6ad82fe868493012487f34eae8bf7dd94654951404114f23c3466d34b \
+    --hash=sha256:0ebaa91538e996f708f1ab30ef4d3ddc344b64b5227b67a57aa74f401bb68b9d \
+    --hash=sha256:1527dc578b95c7c4ff248792ec33d097ba6bef9eda466c948b68dfc995c25781 \
+    --hash=sha256:159e618ef213fba758837f9837fb402bbe65326e60ba0633dbe6c7f274d42c1b \
+    --hash=sha256:19407ced081d7e2e4b8d8c36aa57b7452e0283871c296e12d798852bc7d7f198 \
+    --hash=sha256:3031547a015710140e8c87226b4cfe927cac199835e5bf7d4fe5cb64e814e3ab \
+    --hash=sha256:38d6ea4c1f56417076ecf8fc327c831ae793282e0ff51080c5094cb726507b1c \
+    --hash=sha256:3fb02b344a2a80efa6f677aa5c40cd5dd452e1b35f8d1c2af0dfd9ada9978e4b \
+    --hash=sha256:4142d7ac0210cc86432b818338a2bc368dc773a2f5cf1e32ff7c5b378bd63ee8 \
+    --hash=sha256:5d761de835cd38fb400d2c26bb103a2726f548dc30368853121d66201672e651 \
+    --hash=sha256:5df6158e5584eece5fc83294b949fd30b9f1125df7708862205217e068aabf16 \
+    --hash=sha256:5f4fde652ea604ea3c86508a3fb31556a6157b2c76c8b51b1d45eb40c8598703 \
+    --hash=sha256:62908d29fb6a3229c242e981ca27e32a6e606cc253fc9e8faeb0e48760de241e \
+    --hash=sha256:819a3dfd4630d95fd574036f99e47212a1af41cbcb019bf8afac63ff56834449 \
+    --hash=sha256:a17b70fc9e380ee29c42717e8cc0bfaa5556c416d94f9aa96ba13acb41bdece8 \
+    --hash=sha256:c151748cd269ddeab66334bd754817ffc0cabd9433acb0f551697e5151917d25 \
+    --hash=sha256:cac02c041e9b5bc8cf8f2034ff6f0dbafccd1ae9590dc146b3a02a45e53af4e2 \
+    --hash=sha256:d7da4098db31182fc5ffe4bc42c6f24cd7d1cb8a14b59fd755bfee32e34b8404 \
+    --hash=sha256:f75262e8fe7fa96db1dca93d53a194a38c46da28b112b8a4aca168f0df860347 \
+    --hash=sha256:fe0b28abb8d70f8160798f4de9d486143200f34458d34c4a214114e445d7124e
+    # via
+    #   pynndescent
+    #   umap-learn
 numpy==2.0.1 \
     --hash=sha256:08458fbf403bff5e2b45f08eda195d4b0c9b35682311da5a5a0a0925b11b9bd8 \
     --hash=sha256:0fbb536eac80e27a2793ffd787895242b7f18ef792563d742c2d673bfcb75134 \
@@ -983,6 +1037,7 @@ numpy==2.0.1 \
     #   geopandas
     #   howso-engine
     #   matplotlib
+    #   numba
     #   pandas
     #   pyarrow
     #   pyogrio
@@ -990,6 +1045,7 @@ numpy==2.0.1 \
     #   scipy
     #   seaborn
     #   shapely
+    #   umap-learn
 overrides==7.7.0 \
     --hash=sha256:55158fa3d93b98cc75299b1e67078ad9003ca27945c76162c1c0766d6f91820a \
     --hash=sha256:c7ed9d062f78b8e4c1a7b70bd8796b35ead4d9f510227ef9c5dc7626c60d7e49
@@ -1266,6 +1322,10 @@ pyjwt==2.9.0 \
     --hash=sha256:3b02fb0f44517787776cf48f2ae25d8e14f300e6d7545a4315cee571a415e850 \
     --hash=sha256:7e1e5b56cc735432a7369cbfa0efe50fa113ebecdc04ae6922deba8b84582d0c
     # via howso-engine
+pynndescent==0.5.13 \
+    --hash=sha256:69aabb8f394bc631b6ac475a1c7f3994c54adf3f51cd63b2730fefba5771b949 \
+    --hash=sha256:d74254c0ee0a1eeec84597d5fe89fedcf778593eeabe32c2f97412934a9800fb
+    # via umap-learn
 pyogrio==0.9.0 \
     --hash=sha256:019731a856a9abfe909e86f50eb13f8362f6742337caf757c54b7c8acfe75b89 \
     --hash=sha256:083351b258b3e08b6c6085dac560bd321b68de5cb4a66229095da68d5f3d696b \
@@ -1675,7 +1735,10 @@ scikit-learn==1.5.1 \
     --hash=sha256:b5e865e9bd59396220de49cb4a57b17016256637c61b4c5cc81aaf16bc123bbe \
     --hash=sha256:da3f404e9e284d2b0a157e1b56b6566a34eb2798205cba35a211df3296ab7a74 \
     --hash=sha256:f5b213bc29cc30a89a3130393b0e39c847a15d769d6e59539cd86b75d276b1a7
-    # via -r requirements.in
+    # via
+    #   -r requirements.in
+    #   pynndescent
+    #   umap-learn
 scipy==1.14.0 \
     --hash=sha256:076c27284c768b84a45dcf2e914d4000aac537da74236a0d45d82c6fa4b7b3c0 \
     --hash=sha256:07e179dc0205a50721022344fb85074f772eadbda1e1b3eecdc483f8033709b7 \
@@ -1704,7 +1767,9 @@ scipy==1.14.0 \
     --hash=sha256:f0a50da861a7ec4573b7c716b2ebdcdf142b66b756a0d392c236ae568b3a93fb
     # via
     #   howso-visuals
+    #   pynndescent
     #   scikit-learn
+    #   umap-learn
 seaborn==0.12.2 \
     --hash=sha256:374645f36509d0dcab895cba5b47daf0586f77bfe3b36c97c607db7da5be0139 \
     --hash=sha256:ebf15355a4dba46037dfd65b7350f014ceb1f13c05e814eda2c9f5fd731afc08
@@ -1814,6 +1879,10 @@ tornado==6.4.1 \
     #   jupyterlab
     #   notebook
     #   terminado
+tqdm==4.66.5 \
+    --hash=sha256:90279a3770753eafc9194a0364852159802111925aa30eb3f9d85b0e805ac7cd \
+    --hash=sha256:e1020aef2e5096702d8a025ac7d16b1577279c9d63f8375b63083e9a5f0fcbad
+    # via umap-learn
 traitlets==5.14.3 \
     --hash=sha256:9ed0579d3502c94b4b3732ac120375cda96f923114522847de4b3bb98b96b6b7 \
     --hash=sha256:b74e89e397b1ed28cc831db7aea759ba6640cb3de13090ca145426688ff1ac4f
@@ -1845,6 +1914,10 @@ tzdata==2024.1 \
     --hash=sha256:2674120f8d891909751c38abcdfd386ac0a5a1127954fbc332af6b5ceae07efd \
     --hash=sha256:9068bc196136463f5245e51efda838afa15aaeca9903f49050dfa2679db4d252
     # via pandas
+umap-learn==0.5.6 \
+    --hash=sha256:5b3917a862c23ba0fc83bfcd67a7b719dec85b3d9c01fdc7d894cce455df4e03 \
+    --hash=sha256:881cc0c2ee845b790bf0455aa1664f9f68b838d9d0fe12a1291b85c5a559c913
+    # via howso-visuals
 uri-template==1.3.0 \
     --hash=sha256:0e00f8eb65e18c7de20d595a14336e9f337ead580c70934141624b6d1ffdacc7 \
     --hash=sha256:a44a133ea12d44a0c0f06d7d42a52d71282e77e2f937d8abd5655b8d56fc1363
