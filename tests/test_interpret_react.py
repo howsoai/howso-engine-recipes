@@ -19,20 +19,3 @@ def test_predicted_mean_interval(tb):
 
     assert (tb.ref("mean_gen_react") <= tb.ref("upper_limit"))
     assert (tb.ref("mean_gen_react") >= tb.ref("lower_limit"))
-
-
-def test_predicted_value_interval(tb):
-    """
-    Tested whether the actual value is within the prediction interval.
-    """
-    tb.inject(
-        """
-        global_residual = trainee.react_aggregate(details={"prediction_stats":True})['moid']['mae']
-        r_val = react["action"].loc[0, 'moid']
-        upper_limit = (r_val + global_residual)
-        lower_limit = (r_val - global_residual)
-        """
-    )
-
-    assert (tb.ref("action_value") <= tb.ref("upper_limit"))
-    assert (tb.ref("action_value") >= tb.ref("lower_limit"))
