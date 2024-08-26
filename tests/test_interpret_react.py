@@ -8,7 +8,7 @@ def test_predicted_mean_interval(tb):
     """
     tb.inject(
         """
-        global_residual = trainee.react_aggregate(details={"prediction_stats":True})['moid']['mae']
+        global_residual = trainee.react_aggregate(details={"feature_residuals_robust": True})["moid"].iloc[0]
         r_val = react["action"].loc[0, 'moid']
         upper_limit = (r_val + global_residual)
         lower_limit = (r_val - global_residual)
@@ -27,7 +27,7 @@ def test_predicted_value_interval(tb):
     """
     tb.inject(
         """
-        global_residual = trainee.react_aggregate(details={"prediction_stats":True})['moid']['mae']
+        global_residual = trainee.react_aggregate(details={"feature_residuals_robust": True})["moid"].iloc[0]
         r_val = react["action"].loc[0, 'moid']
         upper_limit = (r_val + global_residual)
         lower_limit = (r_val - global_residual)
