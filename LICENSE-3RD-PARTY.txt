@@ -2109,12 +2109,12 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 httpx
-0.27.0
+0.27.2
 BSD License
 Tom Christie <tom@tomchristie.com>
 https://github.com/encode/httpx
 The next generation HTTP client.
-/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/httpx-0.27.0.dist-info/licenses/LICENSE.md
+/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/httpx-0.27.2.dist-info/licenses/LICENSE.md
 Copyright © 2019, [Encode OSS Ltd](https://www.encode.io/).
 All rights reserved.
 
