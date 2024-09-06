@@ -4,14 +4,14 @@
 #
 #    pip-compile --allow-unsafe --generate-hashes --no-emit-index-url --output-file=requirements-3.10.txt requirements.in
 #
-amalgam-lang==12.3.12 \
-    --hash=sha256:1503d77df718502fe00cfbd36bb7af219e7cb4d57a009c25ef302fb77ade29cc \
-    --hash=sha256:1d7069216860deeab914215e34bb80773b234c8bd30e173a20a728e9b25e12ba \
-    --hash=sha256:28d23a94cb4a76843eb6144d7b0c8abecd0c18dcb0f8379841fae0408d930659 \
-    --hash=sha256:490aaf6e17aa3fa70086d0b64bdf3b76ddb94e45b10825fcf873fa969238380e \
-    --hash=sha256:86bfa8798d44be447241e2bcf1fd804683652cb3b38baddcc4ae5e460527b7e2 \
-    --hash=sha256:91319e72b84512533c2e14a48a84ee2c805e5a6e3ea7f13b97a107005047c98f \
-    --hash=sha256:cba47db20e35b6c4383c18d91491597dd6f3131c900968c38a9c7892f39d8ca8
+amalgam-lang==12.3.13 \
+    --hash=sha256:0d0f23e0a39115ed32cf77db4e303a797e260350eebd5bb7e47725e0bc5c4b66 \
+    --hash=sha256:26e5b49373ac29f41cb134b940cace9597e17f56c1967860c1914404c1a99f80 \
+    --hash=sha256:3d55b6ccc02ae2ca7dc86844660ad22c75339a3066403608b6bbfc53e47ea827 \
+    --hash=sha256:45df24be8aa1384acae9ab36603175a24196b88cc2ba998cde1c8436ecb82a7c \
+    --hash=sha256:5cebc632cadb72b0cb0f9448bd5cf1f284410fd0c108f85b861743f47ebd22d0 \
+    --hash=sha256:9fd20b08c717d823a5f522b83d29c297d1eeec4eeaa100de5f633227385f48c2 \
+    --hash=sha256:d3040ca4ede6fd1ec5ff36477c62fbfec3e5be70b717bd9d6551679659eac999
     # via howso-engine
 anyio==4.4.0 \
     --hash=sha256:5aadc6a1bbb7cdb0bede386cac5e2940f5e2ff3aa20277e991cf028e0585ce94 \
@@ -471,15 +471,15 @@ h11==0.14.0 \
     --hash=sha256:8f19fbbe99e72420ff35c00b27a34cb9937e902a8b810e2c88300c6f0a3b699d \
     --hash=sha256:e3fe4ac4b851c468cc8363d500db52c2ead036020723024a109d37346efaa761
     # via httpcore
-howso-engine==29.0.6 \
-    --hash=sha256:893c4d7d6091266f04963cb7ae8c2c2358cb48a52301fba1a59d8047e8e791b5 \
-    --hash=sha256:f29d9c12a6d66c66c114afa627d6fdd5852772bd95e2b5efd1dad9c1564a8425
+howso-engine==30.0.0 \
+    --hash=sha256:1871d2762d62daa8994b2c1fb75fc2387198009aef4317b0cfc692d892c15094 \
+    --hash=sha256:d93684c8d09ec4d8fd18948791778e72c94d5eb82035c4df0adeda9cb1fa28d5
     # via
     #   -r requirements.in
     #   howso-visuals
-howso-visuals==1.4.3 \
-    --hash=sha256:6415bae9506ad139d3c08ad97ddafb69b37944baf34eb1fce87f60562c5f4dd0 \
-    --hash=sha256:ea0d2b415b894a7d50f7372597e0f713f59ce49d0e654e4be2d901d383171437
+howso-visuals==1.4.7 \
+    --hash=sha256:634b5276c674df80160e24ccf6f86174f6e9bf257752f636f0f2ddf2b5bc9be4 \
+    --hash=sha256:d0f1eb76992aca9f8e65f3e616316cd76f314b1ae251a90130840841f4868bf9
     # via -r requirements.in
 httpcore==1.0.5 \
     --hash=sha256:34a38e2f9291467ee3b44e89dd52615370e152954ba21721378a87b2960f7a61 \
@@ -1826,9 +1826,9 @@ scipy==1.14.1 \
     #   pynndescent
     #   scikit-learn
     #   umap-learn
-seaborn==0.12.2 \
-    --hash=sha256:374645f36509d0dcab895cba5b47daf0586f77bfe3b36c97c607db7da5be0139 \
-    --hash=sha256:ebf15355a4dba46037dfd65b7350f014ceb1f13c05e814eda2c9f5fd731afc08
+seaborn==0.13.2 \
+    --hash=sha256:636f8336facf092165e27924f223d3c62ca560b1f2bb5dff7ab7fad265361987 \
+    --hash=sha256:93e60a40988f4d65e9f4885df477e2fdaff6b73a9ded434c1ab356dd57eefff7
     # via howso-visuals
 semantic-version==2.10.0 \
     --hash=sha256:bdabb6d336998cbb378d4b9db3a4b56a1e3235701dc05ea2690d9a997ed5041c \
@@ -2019,7 +2019,7 @@ widgetsnbextension==4.0.13 \
     # via ipywidgets
 
 # The following packages are considered to be unsafe in a requirements file:
-setuptools==74.1.1 \
-    --hash=sha256:2353af060c06388be1cecbf5953dcdb1f38362f87a2356c480b6b4d5fcfc8847 \
-    --hash=sha256:fc91b5f89e392ef5b77fe143b17e32f65d3024744fba66dc3afe07201684d766
+setuptools==74.1.2 \
+    --hash=sha256:5f4c08aa4d3ebcb57a50c33b1b07e94315d7fc7230f7115e47fc99776c8ce308 \
+    --hash=sha256:95b40ed940a1c67eb70fc099094bd6e99c6ee7c23aa2306f4d2697ba7916f9c6
     # via jupyterlab
