@@ -1,1 +1,0 @@
-# Integration Recipes Coming Soon!
