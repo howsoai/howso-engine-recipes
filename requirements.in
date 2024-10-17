@@ -1,6 +1,6 @@
 babel~=2.0
 geopandas>=0.11.0
-howso-engine~=30.0
+howso-engine~=31.0
 howso-visuals~=1.4
 ipykernel>=6.0.0
 ipyreact
