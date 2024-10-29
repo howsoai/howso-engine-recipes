@@ -1,10 +1,10 @@
 Faker
-30.8.0
+30.8.1
 MIT License
 joke2k
 https://github.com/joke2k/faker
 Faker is a Python package that generates fake data for you.
-/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/Faker-30.8.0.dist-info/LICENSE.txt
+/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/Faker-30.8.1.dist-info/LICENSE.txt
 Copyright (c) 2012 Daniele Faraglia
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -2274,12 +2274,12 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 ipython
-8.28.0
+8.29.0
 BSD License
 The IPython Development Team
 https://ipython.org
 IPython: Productive Interactive Computing
-/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/ipython-8.28.0.dist-info/LICENSE
+/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/ipython-8.29.0.dist-info/LICENSE
 BSD 3-Clause License
 
 - Copyright (c) 2008-Present, IPython Development Team
@@ -8880,12 +8880,12 @@ SOFTWARE.
 
 
 pyarrow
-17.0.0
+18.0.0
 Apache Software License
 UNKNOWN
 https://arrow.apache.org/
 Python library for Apache Arrow
-/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/pyarrow-17.0.0.dist-info/LICENSE.txt
+/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/pyarrow-18.0.0.dist-info/LICENSE.txt
 
                                  Apache License
                            Version 2.0, January 2004
@@ -13274,12 +13274,12 @@ OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 tinycss2
-1.3.0
+1.4.0
 BSD License
 Simon Sapin <simon.sapin@exyr.org>
 https://www.courtbouillon.org/tinycss2
 A tiny CSS parser
-/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/tinycss2-1.3.0.dist-info/LICENSE
+/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/tinycss2-1.4.0.dist-info/LICENSE
 BSD 3-Clause License
 
 Copyright (c) 2013-2020, Simon Sapin and contributors.
@@ -13523,12 +13523,12 @@ Tornado is a Python web framework and asynchronous networking library, originall
 
 
 tqdm
-4.66.5
+4.66.6
 MIT License; Mozilla Public License 2.0 (MPL 2.0)
 UNKNOWN
 https://tqdm.github.io
 Fast, Extensible Progress Meter
-/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/tqdm-4.66.5.dist-info/LICENCE
+/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/tqdm-4.66.6.dist-info/LICENCE
 `tqdm` is a product of collaborative work.
 Unless otherwise stated, all authors (see commit logs) retain copyright
 for their respective work, and release the work under the MIT licence
@@ -13941,12 +13941,12 @@ limitations under the License.
 
 
 umap-learn
-0.5.6
+0.5.7
 BSD
 UNKNOWN
 http://github.com/lmcinnes/umap
 Uniform Manifold Approximation and Projection
-/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/umap_learn-0.5.6.dist-info/LICENSE.txt
+/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/umap_learn-0.5.7.dist-info/LICENSE.txt
 BSD 3-Clause License
 
 Copyright (c) 2017, Leland McInnes
