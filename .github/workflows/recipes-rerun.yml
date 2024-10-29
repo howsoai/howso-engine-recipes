@@ -102,7 +102,12 @@ jobs:
         if [[ -n "${{ secrets.ARTIFACTORY_ACCESS_TOKEN }}" ]]; then
           export PIP_EXTRA_INDEX_URL=https://vsts-build@diveplane.com:${{ secrets.ARTIFACTORY_ACCESS_TOKEN }}@dpbuild.jfrog.io/artifactory/api/pypi/pypi-edge/simple
         fi
-        ./bin/build.sh install_deps ${{ inputs.python-version }}
+        if [[ -n "${{ inputs.python-version }}" ]]; then
+          ./bin/build.sh install_deps ${{ inputs.python-version }}
+        else
+          # Cron jobs do not take inputs; default to 3.9
+          ./bin/build.sh install_deps 3.9
+        fi
         find . -type f -name "*.ipynb" ! -name "engine-db-connector-snowflake.ipynb" | while read -r notebook; do
           dir=$(dirname "$notebook")
           filename=$(basename "$notebook" .ipynb)
