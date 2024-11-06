@@ -70,7 +70,7 @@ def main():
             details=details)
 
         # Retrieve the prediction stats from the trainee
-        stats = t.react_aggregate(
+        stats = t.get_prediction_stats(
             action_feature=action_features[0],
             details={
                 "prediction_stats": True,
