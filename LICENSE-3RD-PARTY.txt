@@ -1,10 +1,10 @@
 Faker
-30.8.1
+30.8.2
 MIT License
 joke2k
 https://github.com/joke2k/faker
 Faker is a Python package that generates fake data for you.
-/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/Faker-30.8.1.dist-info/LICENSE.txt
+/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/Faker-30.8.2.dist-info/LICENSE.txt
 Copyright (c) 2012 Daniele Faraglia
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -890,12 +890,12 @@ Isaac Muse
 
 
 bleach
-6.1.0
+6.2.0
 Apache Software License
 UNKNOWN
 https://github.com/mozilla/bleach
 An easy safelist-based HTML-sanitizing tool.
-/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/bleach-6.1.0.dist-info/LICENSE
+/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/bleach-6.2.0.dist-info/LICENSE
 Copyright (c) 2014-2017, Mozilla Foundation
 
 Licensed under the Apache License, Version 2.0 (the "License");
@@ -11756,12 +11756,12 @@ SOFTWARE.
 
 
 rich
-13.9.3
+13.9.4
 MIT License
 Will McGugan
 https://github.com/Textualize/rich
 Render rich text, tables, progress bars, syntax highlighting, markdown and more to the terminal
-/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/rich-13.9.3.dist-info/LICENSE
+/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/rich-13.9.4.dist-info/LICENSE
 Copyright (c) 2020 Will McGugan
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -11784,12 +11784,12 @@ SOFTWARE.
 
 
 rpds-py
-0.20.0
+0.21.0
 MIT License
 Julian Berman <Julian+rpds@GrayVines.com>
 https://github.com/crate-py/rpds
 Python bindings to Rust's persistent data structures (rpds)
-/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/rpds_py-0.20.0.dist-info/license_files/LICENSE
+/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/rpds_py-0.21.0.dist-info/licenses/LICENSE
 Copyright (c) 2023 Julian Berman
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -13523,12 +13523,12 @@ Tornado is a Python web framework and asynchronous networking library, originall
 
 
 tqdm
-4.66.6
+4.67.0
 MIT License; Mozilla Public License 2.0 (MPL 2.0)
 UNKNOWN
 https://tqdm.github.io
 Fast, Extensible Progress Meter
-/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/tqdm-4.66.6.dist-info/LICENCE
+/home/runner/.pyenv/versions/3.12.1/lib/python3.12/site-packages/tqdm-4.67.0.dist-info/LICENCE
 `tqdm` is a product of collaborative work.
 Unless otherwise stated, all authors (see commit logs) retain copyright
 for their respective work, and release the work under the MIT licence
