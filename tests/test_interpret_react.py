@@ -1,9 +1,11 @@
+import numpy as np
+
 tb_filename = "interpret_react.ipynb"
 
 
 def test_predicted_mean_interval(tb):
     """
-    Tested whether the mean of the generated values is within the
+    Test whether the mean of the generated values is within the
     prediction interval.
     """
     tb.inject(
@@ -19,3 +21,16 @@ def test_predicted_mean_interval(tb):
 
     assert (tb.ref("mean_gen_react") <= tb.ref("upper_limit"))
     assert (tb.ref("mean_gen_react") >= tb.ref("lower_limit"))
+
+
+def test_boundary_values(tb):
+    """
+    Test if the boundary values were computed correctly.
+    """
+    boundary_values = tb.ref("boundary_values")
+
+    assert boundary_values['e'][0] is None  # no boundary below the value for e
+    np.testing.assert_almost_equal(boundary_values['e'][1], 0.22, 2)
+
+    np.testing.assert_approx_equal(boundary_values['q'][0], 1.73, 3)
+    assert boundary_values['q'][1] is None  # no boundary above the value for q
