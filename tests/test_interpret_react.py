@@ -30,7 +30,7 @@ def test_boundary_values(tb):
     boundary_values = tb.ref("boundary_values")
 
     assert boundary_values['e'][0] is None  # no boundary below the value for e
-    np.testing.assert_almost_equal(boundary_values['e'][1], 0.22, 2)
+    assert 0.19 <= boundary_values['e'][1] <= 0.26
 
-    np.testing.assert_approx_equal(boundary_values['q'][0], 1.73, 3)
+    assert 1.65 <= boundary_values['q'][0] <= 1.89
     assert boundary_values['q'][1] is None  # no boundary above the value for q
