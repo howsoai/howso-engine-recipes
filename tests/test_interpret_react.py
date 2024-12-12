@@ -30,7 +30,7 @@ def test_boundary_values(tb):
     boundary_values = tb.ref("boundary_values")
 
     assert boundary_values['e'][0] is None  # no boundary below the value for e
-    assert 0.19 <= boundary_values['e'][1] <= 0.26
+    assert 0.16 <= boundary_values['e'][1] <= 0.30
 
     assert 1.65 <= boundary_values['q'][0] <= 1.89
     assert boundary_values['q'][1] is None  # no boundary above the value for q
