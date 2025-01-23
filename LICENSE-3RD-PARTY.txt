@@ -1,10 +1,10 @@
 Faker
-33.3.0
+35.0.0
 MIT License
 joke2k
 https://github.com/joke2k/faker
 Faker is a Python package that generates fake data for you.
-/home/runner/.pyenv/versions/3.12.8/lib/python3.12/site-packages/Faker-33.3.0.dist-info/LICENSE.txt
+/home/runner/.pyenv/versions/3.12.8/lib/python3.12/site-packages/Faker-35.0.0.dist-info/LICENSE.txt
 Copyright (c) 2012 Daniele Faraglia
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -1195,12 +1195,12 @@ OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 debugpy
-1.8.11
+1.8.12
 MIT License
 Microsoft Corporation
 https://aka.ms/debugpy
 An implementation of the Debug Adapter Protocol for Python
-/home/runner/.pyenv/versions/3.12.8/lib/python3.12/site-packages/debugpy-1.8.11.dist-info/LICENSE
+/home/runner/.pyenv/versions/3.12.8/lib/python3.12/site-packages/debugpy-1.8.12.dist-info/LICENSE
     debugpy
 
     Copyright (c) Microsoft Corporation
@@ -1531,12 +1531,12 @@ A library to handle automated deprecations
 
 
 executing
-2.1.0
+2.2.0
 MIT License
 Alex Hall
 https://github.com/alexmojaki/executing
 Get the currently executing AST node of a frame, and other information
-/home/runner/.pyenv/versions/3.12.8/lib/python3.12/site-packages/executing-2.1.0.dist-info/LICENSE.txt
+/home/runner/.pyenv/versions/3.12.8/lib/python3.12/site-packages/executing-2.2.0.dist-info/LICENSE.txt
 MIT License
 
 Copyright (c) 2019 Alex Hall
@@ -1597,12 +1597,12 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 fonttools
-4.55.3
+4.55.5
 MIT License
 Just van Rossum
 http://github.com/fonttools/fonttools
 Tools to manipulate font files
-/home/runner/.pyenv/versions/3.12.8/lib/python3.12/site-packages/fonttools-4.55.3.dist-info/LICENSE
+/home/runner/.pyenv/versions/3.12.8/lib/python3.12/site-packages/fonttools-4.55.5.dist-info/LICENSE
 MIT License
 
 Copyright (c) 2017 Just van Rossum
@@ -3833,12 +3833,12 @@ to indicate the copyright and license terms:
 
 
 llvmlite
-0.43.0
+0.44.0
 BSD
 UNKNOWN
 http://llvmlite.readthedocs.io
 lightweight wrapper around basic LLVM functionality
-/home/runner/.pyenv/versions/3.12.8/lib/python3.12/site-packages/llvmlite-0.43.0.dist-info/LICENSE
+/home/runner/.pyenv/versions/3.12.8/lib/python3.12/site-packages/llvmlite-0.44.0.dist-info/LICENSE
 Copyright (c) 2014-, Continuum Analytics, Inc.
 All rights reserved.
 
@@ -4379,12 +4379,12 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 numba
-0.60.0
+0.61.0
 BSD License
 UNKNOWN
 https://numba.pydata.org
 compiling Python code using LLVM
-/home/runner/.pyenv/versions/3.12.8/lib/python3.12/site-packages/numba-0.60.0.dist-info/LICENSE
+/home/runner/.pyenv/versions/3.12.8/lib/python3.12/site-packages/numba-0.61.0.dist-info/LICENSE
 Copyright (c) 2012, Anaconda, Inc.
 All rights reserved.
 
@@ -4412,12 +4412,12 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 numpy
-2.0.2
+2.1.3
 BSD License
 Travis E. Oliphant et al.
 https://numpy.org
 Fundamental package for array computing in Python
-/home/runner/.pyenv/versions/3.12.8/lib/python3.12/site-packages/numpy-2.0.2.dist-info/LICENSE.txt
+/home/runner/.pyenv/versions/3.12.8/lib/python3.12/site-packages/numpy-2.1.3.dist-info/LICENSE.txt
 Copyright (c) 2005-2024, NumPy Developers.
 All rights reserved.
 
@@ -4482,6 +4482,11 @@ Name: spin
 Files: .spin/cmds.py
 License: BSD-3
   For license text, see .spin/LICENSE
+
+Name: tempita
+Files: numpy/_build_utils/tempita/*
+License: MIT
+  For details, see numpy/_build_utils/tempita/LICENCE.txt
 
 ----
 
@@ -8717,12 +8722,12 @@ Python client for the Prometheus monitoring system.
 
 
 prompt_toolkit
-3.0.48
+3.0.50
 BSD License
 Jonathan Slenders
 https://github.com/prompt-toolkit/python-prompt-toolkit
 Library for building powerful interactive command lines in Python
-/home/runner/.pyenv/versions/3.12.8/lib/python3.12/site-packages/prompt_toolkit-3.0.48.dist-info/LICENSE
+/home/runner/.pyenv/versions/3.12.8/lib/python3.12/site-packages/prompt_toolkit-3.0.50.dist-info/LICENSE
 Copyright (c) 2014, Jonathan Slenders
 All rights reserved.
 
@@ -8881,12 +8886,12 @@ SOFTWARE.
 
 
 pyarrow
-18.1.0
+19.0.0
 Apache Software License
 UNKNOWN
 https://arrow.apache.org/
 Python library for Apache Arrow
-/home/runner/.pyenv/versions/3.12.8/lib/python3.12/site-packages/pyarrow-18.1.0.dist-info/LICENSE.txt
+/home/runner/.pyenv/versions/3.12.8/lib/python3.12/site-packages/pyarrow-19.0.0.dist-info/LICENSE.txt
 
                                  Apache License
                            Version 2.0, January 2004
@@ -11483,12 +11488,12 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 referencing
-0.35.1
-MIT License
+0.36.1
+UNKNOWN
 Julian Berman <Julian+referencing@GrayVines.com>
 https://github.com/python-jsonschema/referencing
 JSON Referencing + Python
-/home/runner/.pyenv/versions/3.12.8/lib/python3.12/site-packages/referencing-0.35.1.dist-info/licenses/COPYING
+/home/runner/.pyenv/versions/3.12.8/lib/python3.12/site-packages/referencing-0.36.1.dist-info/licenses/COPYING
 Copyright (c) 2022 Julian Berman
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -11813,12 +11818,12 @@ THE SOFTWARE.
 
 
 scikit-learn
-1.6.0
+1.6.1
 BSD License
 UNKNOWN
 https://scikit-learn.org
 A set of python modules for machine learning and data mining
-/home/runner/.pyenv/versions/3.12.8/lib/python3.12/site-packages/scikit_learn-1.6.0.dist-info/COPYING
+/home/runner/.pyenv/versions/3.12.8/lib/python3.12/site-packages/scikit_learn-1.6.1.dist-info/COPYING
 BSD 3-Clause License
 
 Copyright (c) 2007-2024 The scikit-learn developers.
@@ -11934,12 +11939,12 @@ requirements of the license of GCC.
 
 
 scipy
-1.15.0
+1.15.1
 BSD License
 UNKNOWN
 https://scipy.org/
 Fundamental algorithms for scientific computing in Python
-/home/runner/.pyenv/versions/3.12.8/lib/python3.12/site-packages/scipy-1.15.0.dist-info/LICENSE.txt
+/home/runner/.pyenv/versions/3.12.8/lib/python3.12/site-packages/scipy-1.15.1.dist-info/LICENSE.txt
 Copyright (c) 2001-2002 Enthought, Inc. 2003-2024, SciPy Developers.
 All rights reserved.
 
@@ -14239,12 +14244,12 @@ PERFORMANCE OF THIS SOFTWARE.
 
 
 tzdata
-2024.2
+2025.1
 Apache Software License
 Python Software Foundation
 https://github.com/python/tzdata
 Provider of IANA time zone data
-/home/runner/.pyenv/versions/3.12.8/lib/python3.12/site-packages/tzdata-2024.2.dist-info/LICENSE
+/home/runner/.pyenv/versions/3.12.8/lib/python3.12/site-packages/tzdata-2025.1.dist-info/LICENSE
 Apache Software License 2.0
 
 Copyright (c) 2020, Paul Ganssle (Google)
