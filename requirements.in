@@ -11,6 +11,6 @@ matplotlib~=3.0, !=3.9.1
 notebook>6.0.0
 numpy
 pandas[parquet]~=2.0
-plotly>=5.7.0
+plotly~=5.0
 pmlb>=1.0
 scikit-learn
