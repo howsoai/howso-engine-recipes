@@ -23,9 +23,10 @@ def test_conditional_accuracies(tb):
     assert sex_0_accuracy > 0.65
     assert sex_1_accuracy > 0.65
 
-    if overall_accuracy < sex_1_accuracy and overall_accuracy < sex_0_accuracy:
+    print(overall_accuracy, sex_1_accuracy, sex_0_accuracy)
+    if overall_accuracy <= sex_1_accuracy and overall_accuracy <= sex_0_accuracy:
         # smaller than both
         assert False
-    elif overall_accuracy > sex_1_accuracy and overall_accuracy > sex_0_accuracy:
+    elif overall_accuracy >= sex_1_accuracy and overall_accuracy >= sex_0_accuracy:
         # greater than both
         assert False
