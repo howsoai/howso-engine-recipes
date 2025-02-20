@@ -4,15 +4,15 @@
 #
 #    pip-compile --allow-unsafe --generate-hashes --no-emit-index-url --output-file=requirements-3.11-dev.txt requirements-dev.in requirements.in
 #
-amalgam-lang==17.0.0 \
-    --hash=sha256:26ea1aefc2ee08a1fd91c669c62eba23052eb949d602e030d0da86ac953e79a2 \
-    --hash=sha256:31c0b8e89d9bf9592f1b9609bac44285f2399f3ff808904de605af72855dbb89 \
-    --hash=sha256:401ec11ed04f03d34f674137c754997ecdd7fdf41248890ce2e3e7020ca09dcb \
-    --hash=sha256:5adba4a4219e290acfa2cf78d8af177cf78a6424e04bd3d5d0ee452948788fea \
-    --hash=sha256:a5d6e29dc03ccc15091591bcb9c80515e3348c95ddcb6cfa17cf1a4005ac7e85 \
-    --hash=sha256:aa8d446b36646820478cff03a81e2f37b5b694504df12e288b6a914b700c00bd \
-    --hash=sha256:c37fb98305ff9278f775f3bfe4ab601b57d7570f62aa6d2314a8028c6dd04ff5 \
-    --hash=sha256:d9f898e388d8782ca7bef254a2d8482fdc9986f07abc9c73d3afccd0a486a583
+amalgam-lang==18.0.1 \
+    --hash=sha256:1d46c161ab296ee8a9a060a295337393527653b78bc68d783fd66409edd96334 \
+    --hash=sha256:7fb092b4d5411d16eed7d1a21407c71f7225a291256f2a83093bbfe8b04017eb \
+    --hash=sha256:9acff8312f96f83871cb8b1d2570225a23f9c21add2fd6150494d9e1894df2fa \
+    --hash=sha256:a6fb90377bee6750fde053c6a580e01fa4b0b01e82716782421cdd1edf2a7ed9 \
+    --hash=sha256:b6055ea039a7e8563717d9428ad2e8daa1122be26a8fc4454d7fa9883315b050 \
+    --hash=sha256:d6853c4afba8f7a28dc286d3f10ce2bffedb5745dba1f8d414c78153c3d41057 \
+    --hash=sha256:e81ce431766cccf591d37643f68b0ea5ba120d5480d600ebdc614ef83be7e659 \
+    --hash=sha256:ff9c71d7e43092abbb07fe7e3bf5f349044a040dcfae1b03879bd33ddc26f4ab
     # via howso-engine
 anyio==4.8.0 \
     --hash=sha256:1d9fe889df5212298c0c0723fa20479d1b94883a2df44bd3897aa91083316f7a \
@@ -481,15 +481,15 @@ h11==0.14.0 \
     --hash=sha256:8f19fbbe99e72420ff35c00b27a34cb9937e902a8b810e2c88300c6f0a3b699d \
     --hash=sha256:e3fe4ac4b851c468cc8363d500db52c2ead036020723024a109d37346efaa761
     # via httpcore
-howso-engine==34.2.1 \
-    --hash=sha256:0d4128cf5f7063adbcac76d09261406fe3044468a04f3a4b2e0db517061c03c8 \
-    --hash=sha256:be9eccd502d8b2233f12c0f239f509754ad33ceefeffee85f4f36c13fbe2e872
+howso-engine==36.0.0 \
+    --hash=sha256:4b5d091bc8575756c777d515af27fa22ab45016b76606c9544d3d256cc83ed09 \
+    --hash=sha256:a352e150c1a4a7e89f530aed63f6ac0ab8c0d1065227a5ae33de0da4866155b6
     # via
     #   -r requirements.in
     #   howso-visuals
-howso-visuals==1.6.1 \
-    --hash=sha256:01fd599b2f742f0c9e29b40f111c63d87542bda34215271a441d5e229f177361 \
-    --hash=sha256:14ceb545bc7a1684f29fcadbe60ccdee828debc1f5ca7fb7470cb0ad42db3251
+howso-visuals==2.0.0 \
+    --hash=sha256:7a7492d85f0ed1c84a85637ee9e8a9ee960acb4cd5786f65b453e0fb85c133db \
+    --hash=sha256:b14edb8c71d850ebdbb75ea72bcf65f44273ff828b6200923716a17cfb0f6cfb
     # via -r requirements.in
 httpcore==1.0.7 \
     --hash=sha256:8551cb62a169ec7162ac7be8d4817d561f60e08eaa485234898414bb5a8a0b4c \
