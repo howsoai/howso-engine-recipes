@@ -3,7 +3,7 @@ tb_filename = "bias_mitigation.ipynb"
 
 def test_accuracy(tb):
     """
-    Test that the final distribution is correct.
+    Test that the final distribution is significantly less biased
     """
 
-    assert tb.ref("p_value") < 0.1
+    assert tb.ref("decrease_fold") > 2.5
