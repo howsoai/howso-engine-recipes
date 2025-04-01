@@ -11304,12 +11304,12 @@ SOFTWARE.
 
 
 pyparsing
-3.2.2
+3.2.3
 MIT License
 Paul McGuire <ptmcg.gm+pyparsing@gmail.com>
 https://github.com/pyparsing/pyparsing/
 pyparsing module - Classes and methods to define and execute parsing grammars
-/home/runner/.pyenv/versions/3.13.2/lib/python3.13/site-packages/pyparsing-3.2.2.dist-info/LICENSE
+/home/runner/.pyenv/versions/3.13.2/lib/python3.13/site-packages/pyparsing-3.2.3.dist-info/LICENSE
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
 "Software"), to deal in the Software without restriction, including
@@ -11469,12 +11469,12 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
 
 
 pytz
-2025.1
+2025.2
 MIT License
 Stuart Bishop
 http://pythonhosted.org/pytz
 World timezone definitions, modern and historical
-/home/runner/.pyenv/versions/3.13.2/lib/python3.13/site-packages/pytz-2025.1.dist-info/LICENSE.txt
+/home/runner/.pyenv/versions/3.13.2/lib/python3.13/site-packages/pytz-2025.2.dist-info/LICENSE.txt
 Copyright (c) 2003-2019 Stuart Bishop <stuart@stuartbishop.net>
 
 Permission is hereby granted, free of charge, to any person obtaining a
@@ -11810,12 +11810,12 @@ SOFTWARE.
 
 
 rich
-13.9.4
+14.0.0
 MIT License
 Will McGugan
 https://github.com/Textualize/rich
 Render rich text, tables, progress bars, syntax highlighting, markdown and more to the terminal
-/home/runner/.pyenv/versions/3.13.2/lib/python3.13/site-packages/rich-13.9.4.dist-info/LICENSE
+/home/runner/.pyenv/versions/3.13.2/lib/python3.13/site-packages/rich-14.0.0.dist-info/LICENSE
 Copyright (c) 2020 Will McGugan
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -11838,12 +11838,12 @@ SOFTWARE.
 
 
 rpds-py
-0.23.1
+0.24.0
 MIT
 Julian Berman <Julian+rpds@GrayVines.com>
 https://github.com/crate-py/rpds
 Python bindings to Rust's persistent data structures (rpds)
-/home/runner/.pyenv/versions/3.13.2/lib/python3.13/site-packages/rpds_py-0.23.1.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.2/lib/python3.13/site-packages/rpds_py-0.24.0.dist-info/licenses/LICENSE
 Copyright (c) 2023 Julian Berman
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -14004,12 +14004,12 @@ DEALINGS IN THE SOFTWARE.
 
 
 typing_extensions
-4.12.2
-Python Software Foundation License
+4.13.0
+UNKNOWN
 "Guido van Rossum, Jukka Lehtosalo, Łukasz Langa, Michael Lee" <levkivskyi@gmail.com>
 https://github.com/python/typing_extensions
 Backported and Experimental Type Hints for Python 3.8+
-/home/runner/.pyenv/versions/3.13.2/lib/python3.13/site-packages/typing_extensions-4.12.2.dist-info/LICENSE
+/home/runner/.pyenv/versions/3.13.2/lib/python3.13/site-packages/typing_extensions-4.13.0.dist-info/licenses/LICENSE
 A. HISTORY OF THE SOFTWARE
 ==========================
 
