@@ -4,7 +4,7 @@
 #
 #    pip-compile --allow-unsafe --no-emit-index-url --output-file=requirements-3.9-dev.txt requirements-dev.in requirements.in
 #
-amalgam-lang==19.0.1
+amalgam-lang==19.0.3
     # via howso-engine
 anyio==4.9.0
     # via
@@ -56,7 +56,7 @@ comm==0.2.2
     #   ipywidgets
 contourpy==1.3.0
     # via matplotlib
-cryptography==44.0.2
+cryptography==44.0.3
     # via howso-engine
 cycler==0.12.1
     # via matplotlib
@@ -89,7 +89,7 @@ geopandas==1.0.1
     # via -r requirements.in
 h11==0.16.0
     # via httpcore
-howso-engine==39.0.2
+howso-engine==39.1.0
     # via
     #   -r requirements.in
     #   howso-visuals
@@ -129,7 +129,7 @@ ipython==8.18.1
     # via
     #   ipykernel
     #   ipywidgets
-ipywidgets==8.1.6
+ipywidgets==8.1.7
     # via
     #   anywidget
     #   ipyreact
@@ -143,7 +143,7 @@ jinja2==3.1.6
     #   jupyterlab
     #   jupyterlab-server
     #   nbconvert
-joblib==1.4.2
+joblib==1.5.0
     # via
     #   pynndescent
     #   scikit-learn
@@ -186,7 +186,7 @@ jupyter-server==2.15.0
     #   notebook-shim
 jupyter-server-terminals==0.5.3
     # via jupyter-server
-jupyterlab==4.4.1
+jupyterlab==4.4.2
     # via notebook
 jupyterlab-pygments==0.3.0
     # via nbconvert
@@ -194,7 +194,7 @@ jupyterlab-server==2.27.3
     # via
     #   jupyterlab
     #   notebook
-jupyterlab-widgets==3.0.14
+jupyterlab-widgets==3.0.15
     # via ipywidgets
 kaleido==0.2.1 ; sys_platform != "win32"
     # via -r requirements.in
@@ -238,7 +238,7 @@ nbformat==5.10.4
     #   testbook
 nest-asyncio==1.6.0
     # via ipykernel
-notebook==7.4.1
+notebook==7.4.2
     # via -r requirements.in
 notebook-shim==0.2.4
     # via
@@ -295,7 +295,7 @@ pexpect==4.9.0
     # via ipython
 pillow==11.2.1
     # via matplotlib
-platformdirs==4.3.7
+platformdirs==4.3.8
     # via jupyter-core
 plotly==5.24.1
     # via
@@ -311,7 +311,7 @@ prompt-toolkit==3.0.51
     # via ipython
 psutil==7.0.0
     # via ipykernel
-psygnal==0.12.0
+psygnal==0.13.0
     # via anywidget
 ptyprocess==0.7.0
     # via
@@ -332,7 +332,7 @@ pyjwt==2.10.1
     # via howso-engine
 pynndescent==0.5.13
     # via umap-learn
-pyogrio==0.10.0
+pyogrio==0.11.0
     # via geopandas
 pyparsing==3.2.3
     # via matplotlib
@@ -346,7 +346,7 @@ pytest==8.3.5
     #   pytest-xdist
 pytest-randomly==3.16.0
     # via -r requirements-dev.in
-pytest-rerunfailures==15.0
+pytest-rerunfailures==15.1
     # via -r requirements-dev.in
 pytest-xdist==3.6.1
     # via -r requirements-dev.in
@@ -506,5 +506,5 @@ zipp==3.21.0
     #   importlib-resources
 
 # The following packages are considered to be unsafe in a requirements file:
-setuptools==80.1.0
+setuptools==80.3.1
     # via jupyterlab

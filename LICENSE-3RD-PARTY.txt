@@ -1148,12 +1148,12 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 cryptography
-44.0.2
+44.0.3
 Apache Software License; BSD License
 The cryptography developers <cryptography-dev@python.org>
 https://github.com/pyca/cryptography
 cryptography is a package which provides cryptographic recipes and primitives to Python developers.
-/home/runner/.pyenv/versions/3.13.3/lib/python3.13/site-packages/cryptography-44.0.2.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.3/lib/python3.13/site-packages/cryptography-44.0.3.dist-info/licenses/LICENSE
 This software is made available under the terms of *either* of the licenses
 found in LICENSE.APACHE or LICENSE.BSD. Contributions to cryptography are made
 under the terms of *both* these licenses.
@@ -2365,12 +2365,12 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 ipywidgets
-8.1.6
+8.1.7
 BSD License
 Jupyter Development Team
 http://jupyter.org
 Jupyter interactive widgets
-/home/runner/.pyenv/versions/3.13.3/lib/python3.13/site-packages/ipywidgets-8.1.6.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.3/lib/python3.13/site-packages/ipywidgets-8.1.7.dist-info/licenses/LICENSE
 Copyright (c) 2015 Project Jupyter Contributors
 All rights reserved.
 
@@ -2456,12 +2456,12 @@ THE SOFTWARE.
 
 
 joblib
-1.4.2
+1.5.0
 BSD License
 Gael Varoquaux <gael.varoquaux@normalesup.org>
 https://joblib.readthedocs.io
 Lightweight pipelining with Python functions
-/home/runner/.pyenv/versions/3.13.3/lib/python3.13/site-packages/joblib-1.4.2.dist-info/LICENSE.txt
+/home/runner/.pyenv/versions/3.13.3/lib/python3.13/site-packages/joblib-1.5.0.dist-info/licenses/LICENSE.txt
 BSD 3-Clause License
 
 Copyright (c) 2008-2021, The joblib developers.
@@ -3110,12 +3110,12 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 jupyterlab
-4.4.1
+4.4.2
 BSD License
 Jupyter Development Team <jupyter@googlegroups.com>
 https://jupyter.org
 JupyterLab computational environment
-/home/runner/.pyenv/versions/3.13.3/lib/python3.13/site-packages/jupyterlab-4.4.1.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.3/lib/python3.13/site-packages/jupyterlab-4.4.2.dist-info/licenses/LICENSE
 Copyright (c) 2015-2025 Project Jupyter Contributors
 All rights reserved.
 
@@ -3224,12 +3224,12 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 jupyterlab_widgets
-3.0.14
+3.0.15
 BSD License
-Jupyter Development Team
+Jupyter Development Team <jupyter@googlegroups.com>
 https://github.com/jupyter-widgets/ipywidgets
 Jupyter interactive widgets for JupyterLab
-/home/runner/.pyenv/versions/3.13.3/lib/python3.13/site-packages/jupyterlab_widgets-3.0.14.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.3/lib/python3.13/site-packages/jupyterlab_widgets-3.0.15.dist-info/licenses/LICENSE
 Copyright (c) 2015 Project Jupyter Contributors
 All rights reserved.
 
@@ -3944,12 +3944,12 @@ SOFTWARE.
 
 
 matplotlib
-3.10.1
+3.10.3
 Python Software Foundation License
 John D. Hunter, Michael Droettboom
 https://matplotlib.org
 Python plotting package
-/home/runner/.pyenv/versions/3.13.3/lib/python3.13/site-packages/matplotlib-3.10.1.dist-info/LICENSE
+/home/runner/.pyenv/versions/3.13.3/lib/python3.13/site-packages/matplotlib-3.10.3.dist-info/LICENSE
 License agreement for matplotlib versions 1.3.0 and later
 =========================================================
 
@@ -4349,12 +4349,12 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 notebook
-7.4.1
+7.4.2
 BSD License
 Jupyter Development Team <jupyter@googlegroups.com>
 https://github.com/jupyter/notebook
 Jupyter Notebook - A web-based notebook environment for interactive computing
-/home/runner/.pyenv/versions/3.13.3/lib/python3.13/site-packages/notebook-7.4.1.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.3/lib/python3.13/site-packages/notebook-7.4.2.dist-info/licenses/LICENSE
 BSD 3-Clause License
 
 - Copyright (c) 2001-2015, IPython Development Team
@@ -8125,12 +8125,12 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 platformdirs
-4.3.7
+4.3.8
 MIT License
 UNKNOWN
 https://github.com/tox-dev/platformdirs
 A small Python package for determining appropriate platform-specific dirs, e.g. a `user data dir`.
-/home/runner/.pyenv/versions/3.13.3/lib/python3.13/site-packages/platformdirs-4.3.7.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.3/lib/python3.13/site-packages/platformdirs-4.3.8.dist-info/licenses/LICENSE
 MIT License
 
 Copyright (c) 2010-202x The platformdirs developers
@@ -8499,12 +8499,12 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 psygnal
-0.12.0
+0.13.0
 BSD License
 Talley Lambert <talley.lambert@gmail.com>
 https://github.com/pyapp-kit/psygnal
 Fast python callback/event system modeled after Qt Signals
-/home/runner/.pyenv/versions/3.13.3/lib/python3.13/site-packages/psygnal-0.12.0.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.3/lib/python3.13/site-packages/psygnal-0.13.0.dist-info/licenses/LICENSE
 Copyright (c) 2021, Talley Lambert
 
 Redistribution and use in source and binary forms, with or without
@@ -10960,12 +10960,12 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 pyogrio
-0.10.0
+0.11.0
 MIT License
 pyogrio contributors
 https://github.com/geopandas/pyogrio
 Vectorized spatial vector file format I/O using GDAL/OGR
-/home/runner/.pyenv/versions/3.13.3/lib/python3.13/site-packages/pyogrio-0.10.0.dist-info/LICENSE
+/home/runner/.pyenv/versions/3.13.3/lib/python3.13/site-packages/pyogrio-0.11.0.dist-info/licenses/LICENSE
 MIT License
 
 Copyright (c) 2020-2024 Brendan C. Ward and pyogrio contributors
@@ -11673,12 +11673,12 @@ requirements of the license of GCC.
 
 
 scipy
-1.15.2
+1.15.3
 BSD License
 UNKNOWN
 https://scipy.org/
 Fundamental algorithms for scientific computing in Python
-/home/runner/.pyenv/versions/3.13.3/lib/python3.13/site-packages/scipy-1.15.2.dist-info/LICENSE.txt
+/home/runner/.pyenv/versions/3.13.3/lib/python3.13/site-packages/scipy-1.15.3.dist-info/LICENSE.txt
 Copyright (c) 2001-2002 Enthought, Inc. 2003-2024, SciPy Developers.
 All rights reserved.
 
