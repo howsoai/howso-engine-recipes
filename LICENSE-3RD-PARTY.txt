@@ -13444,12 +13444,12 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 types-python-dateutil
-2.9.0.20241206
-Apache Software License
+2.9.0.20250516
+UNKNOWN
 UNKNOWN
 https://github.com/python/typeshed
 Typing stubs for python-dateutil
-/home/runner/.pyenv/versions/3.13.3/lib/python3.13/site-packages/types_python_dateutil-2.9.0.20241206.dist-info/LICENSE
+/home/runner/.pyenv/versions/3.13.3/lib/python3.13/site-packages/types_python_dateutil-2.9.0.20250516.dist-info/licenses/LICENSE
 The "typeshed" project is licensed under the terms of the Apache license, as
 reproduced below.
 
