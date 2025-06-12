@@ -100,7 +100,7 @@ jobs:
       platform-pretty: 'Windows'
       amalgam-plat-arch: 'windows-amd64'
       python-version: '3.12'
-      config-fp: '/d/a/howso-engine-recipes/howso-engine-recipes/config/latest-mt-traces-howso.yml'
+      config-fp: '/c/a/howso-engine-recipes/howso-engine-recipes/config/latest-mt-traces-howso.yml'
       config-pretty: 'MT'
       upstream-details: ${{ needs.metadata.outputs.upstream-details }}
       debug: ${{ inputs.debug-mode }}
