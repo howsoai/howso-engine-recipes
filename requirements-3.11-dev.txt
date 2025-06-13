@@ -4,7 +4,7 @@
 #
 #    pip-compile --allow-unsafe --no-emit-index-url --output-file=requirements-3.11-dev.txt requirements-dev.in requirements.in
 #
-amalgam-lang==19.0.4
+amalgam-lang==20.0.2
     # via howso-engine
 anyio==4.9.0
     # via
@@ -14,7 +14,7 @@ anywidget==0.9.18
     # via ipyreact
 appnope==0.1.4
     # via -r requirements-dev.in
-argon2-cffi==23.1.0
+argon2-cffi==25.1.0
     # via jupyter-server
 argon2-cffi-bindings==21.2.0
     # via argon2-cffi
@@ -56,7 +56,7 @@ comm==0.2.2
     #   ipywidgets
 contourpy==1.3.2
     # via matplotlib
-cryptography==44.0.3
+cryptography==45.0.4
     # via howso-engine
 cycler==0.12.1
     # via matplotlib
@@ -72,19 +72,19 @@ execnet==2.1.1
     # via pytest-xdist
 executing==2.2.0
     # via stack-data
-faker==37.3.0
+faker==37.4.0
     # via howso-engine
 fastjsonschema==2.21.1
     # via nbformat
-fonttools==4.58.0
+fonttools==4.58.4
     # via matplotlib
 fqdn==1.5.1
     # via jsonschema
-geopandas==1.0.1
+geopandas==1.1.0
     # via -r requirements.in
 h11==0.16.0
     # via httpcore
-howso-engine==39.2.0
+howso-engine==39.3.7
     # via
     #   -r requirements.in
     #   howso-visuals
@@ -110,7 +110,7 @@ ipykernel==6.29.5
     #   jupyterlab
 ipyreact==0.5.0
     # via -r requirements.in
-ipython==9.2.0
+ipython==9.3.0
     # via
     #   ipykernel
     #   ipywidgets
@@ -130,7 +130,7 @@ jinja2==3.1.6
     #   jupyterlab
     #   jupyterlab-server
     #   nbconvert
-joblib==1.5.0
+joblib==1.5.1
     # via
     #   pynndescent
     #   scikit-learn
@@ -138,7 +138,7 @@ json5==0.12.0
     # via jupyterlab-server
 jsonpointer==3.0.0
     # via jsonschema
-jsonschema[format-nongpl]==4.23.0
+jsonschema[format-nongpl]==4.24.0
     # via
     #   jupyter-events
     #   jupyterlab-server
@@ -150,7 +150,7 @@ jupyter-client==8.6.3
     #   ipykernel
     #   jupyter-server
     #   nbclient
-jupyter-core==5.7.2
+jupyter-core==5.8.1
     # via
     #   -r requirements.in
     #   ipykernel
@@ -173,7 +173,7 @@ jupyter-server==2.16.0
     #   notebook-shim
 jupyter-server-terminals==0.5.3
     # via jupyter-server
-jupyterlab==4.4.2
+jupyterlab==4.4.3
     # via notebook
 jupyterlab-pygments==0.3.0
     # via nbconvert
@@ -225,7 +225,7 @@ nbformat==5.10.4
     #   testbook
 nest-asyncio==1.6.0
     # via ipykernel
-notebook==7.4.2
+notebook==7.4.3
     # via -r requirements.in
 notebook-shim==0.2.4
     # via
@@ -235,7 +235,7 @@ numba==0.61.2
     # via
     #   pynndescent
     #   umap-learn
-numpy==2.2.5
+numpy==2.2.6
     # via
     #   -r requirements.in
     #   contourpy
@@ -267,7 +267,7 @@ packaging==25.0
     #   pyogrio
     #   pytest
     #   pytest-rerunfailures
-pandas[parquet]==2.2.3
+pandas[parquet]==2.3.0
     # via
     #   -r requirements.in
     #   geopandas
@@ -292,7 +292,7 @@ pluggy==1.6.0
     # via pytest
 pmlb==1.0.1.post3
     # via -r requirements.in
-prometheus-client==0.21.1
+prometheus-client==0.22.1
     # via jupyter-server
 prompt-toolkit==3.0.51
     # via ipython
@@ -315,6 +315,7 @@ pygments==2.19.1
     #   ipython
     #   ipython-pygments-lexers
     #   nbconvert
+    #   pytest
     #   rich
 pyjwt==2.10.1
     # via howso-engine
@@ -326,7 +327,7 @@ pyparsing==3.2.3
     # via matplotlib
 pyproj==3.7.1
     # via geopandas
-pytest==8.3.5
+pytest==8.4.0
     # via
     #   -r requirements-dev.in
     #   pytest-randomly
@@ -336,7 +337,7 @@ pytest-randomly==3.16.0
     # via -r requirements-dev.in
 pytest-rerunfailures==15.1
     # via -r requirements-dev.in
-pytest-xdist==3.6.1
+pytest-xdist==3.7.0
     # via -r requirements-dev.in
 python-dateutil==2.9.0.post0
     # via
@@ -353,7 +354,7 @@ pyyaml==6.0.2
     #   howso-engine
     #   jupyter-events
     #   pmlb
-pyzmq==26.4.0
+pyzmq==27.0.0
     # via
     #   ipykernel
     #   jupyter-client
@@ -363,7 +364,7 @@ referencing==0.36.2
     #   jsonschema
     #   jsonschema-specifications
     #   jupyter-events
-requests==2.32.3
+requests==2.32.4
     # via
     #   howso-engine
     #   jupyterlab-server
@@ -378,11 +379,11 @@ rfc3986-validator==0.1.1
     #   jupyter-events
 rich==14.0.0
     # via howso-engine
-rpds-py==0.25.0
+rpds-py==0.25.1
     # via
     #   jsonschema
     #   referencing
-scikit-learn==1.6.1
+scikit-learn==1.7.0
     # via
     #   -r requirements.in
     #   pynndescent
@@ -399,7 +400,7 @@ semantic-version==2.10.0
     # via howso-engine
 send2trash==1.8.3
     # via jupyter-server
-shapely==2.1.0
+shapely==2.1.1
     # via geopandas
 six==1.17.0
     # via
@@ -423,7 +424,7 @@ threadpoolctl==3.6.0
     # via scikit-learn
 tinycss2==1.4.0
     # via bleach
-tornado==6.5
+tornado==6.5.1
     # via
     #   ipykernel
     #   jupyter-client
@@ -448,9 +449,9 @@ traitlets==5.14.3
     #   nbclient
     #   nbconvert
     #   nbformat
-types-python-dateutil==2.9.0.20241206
+types-python-dateutil==2.9.0.20250516
     # via arrow
-typing-extensions==4.13.2
+typing-extensions==4.14.0
     # via
     #   anyio
     #   anywidget
@@ -482,5 +483,5 @@ widgetsnbextension==4.0.14
     # via ipywidgets
 
 # The following packages are considered to be unsafe in a requirements file:
-setuptools==80.7.1
+setuptools==80.9.0
     # via jupyterlab
