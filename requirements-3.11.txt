@@ -34,7 +34,7 @@ beautifulsoup4==4.13.4
     # via nbconvert
 bleach[css]==6.2.0
     # via nbconvert
-certifi==2025.4.26
+certifi==2025.6.15
     # via
     #   howso-engine
     #   httpcore
@@ -80,7 +80,7 @@ geopandas==1.1.0
     # via -r requirements.in
 h11==0.16.0
     # via httpcore
-howso-engine==40.0.0
+howso-engine==40.1.0
     # via
     #   -r requirements.in
     #   howso-visuals
@@ -439,7 +439,7 @@ umap-learn==0.5.7
     # via howso-visuals
 uri-template==1.3.0
     # via jsonschema
-urllib3==2.4.0
+urllib3==2.5.0
     # via requests
 wcwidth==0.2.13
     # via prompt-toolkit
