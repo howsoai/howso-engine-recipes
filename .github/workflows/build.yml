@@ -59,6 +59,20 @@ jobs:
     with:
       upstream-details: ${{ needs.metadata.outputs.upstream-details }}
 
+  get-config-path:
+    runs-on: windows-latest
+    outputs:
+      config-path: ${{ steps.get-config-path.outputs.config-path }}
+    steps:
+
+      - uses: actions/checkout@v4
+
+      - name: Get config path
+        id: get-config-path
+        shell: bash
+        run: |
+          echo "config-path=$(pwd)/config/latest-mt-traces-howso.yml" >> "$GITHUB_OUTPUT"
+
   pytest-linux-3-9-st:
     if: inputs.build-type != 'PR'
     needs: ['metadata']
@@ -92,7 +106,7 @@ jobs:
 
   pytest-windows-3-12-mt:
     if: inputs.build-type != 'PR'
-    needs: ['metadata']
+    needs: ['metadata', 'get-config-path']
     uses: howsoai/.github/.github/workflows/pytest.yml@main
     secrets: inherit
     with:
@@ -100,7 +114,7 @@ jobs:
       platform-pretty: 'Windows'
       amalgam-plat-arch: 'windows-amd64'
       python-version: '3.12'
-      config-fp: '/c/a/howso-engine-recipes/howso-engine-recipes/config/latest-mt-traces-howso.yml'
+      config-fp: ${{ needs.get-config-path.outputs.config-path }}
       config-pretty: 'MT'
       upstream-details: ${{ needs.metadata.outputs.upstream-details }}
       debug: ${{ inputs.debug-mode }}
