@@ -1,10 +1,10 @@
 Faker
-37.4.0
+37.4.2
 MIT License
 joke2k
 https://github.com/joke2k/faker
 Faker is a Python package that generates fake data for you.
-/home/runner/.pyenv/versions/3.13.5/lib/python3.13/site-packages/faker-37.4.0.dist-info/licenses/LICENSE.txt
+/home/runner/.pyenv/versions/3.13.5/lib/python3.13/site-packages/faker-37.4.2.dist-info/licenses/LICENSE.txt
 Copyright (c) 2012 Daniele Faraglia
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -941,12 +941,12 @@ DEALINGS IN THE SOFTWARE.
 
 
 certifi
-2025.6.15
+2025.7.14
 Mozilla Public License 2.0 (MPL 2.0)
 Kenneth Reitz
 https://github.com/certifi/python-certifi
 Python package for providing Mozilla's CA Bundle.
-/home/runner/.pyenv/versions/3.13.5/lib/python3.13/site-packages/certifi-2025.6.15.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.5/lib/python3.13/site-packages/certifi-2025.7.14.dist-info/licenses/LICENSE
 This package contains a modified version of ca-bundle.crt:
 
 ca-bundle.crt -- Bundle of CA Root Certificates
@@ -1181,12 +1181,12 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 cryptography
-45.0.4
+45.0.5
 Apache-2.0 OR BSD-3-Clause
 The cryptography developers <cryptography-dev@python.org>
 https://github.com/pyca/cryptography
 cryptography is a package which provides cryptographic recipes and primitives to Python developers.
-/home/runner/.pyenv/versions/3.13.5/lib/python3.13/site-packages/cryptography-45.0.4.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.5/lib/python3.13/site-packages/cryptography-45.0.5.dist-info/licenses/LICENSE
 This software is made available under the terms of *either* of the licenses
 found in LICENSE.APACHE or LICENSE.BSD. Contributions to cryptography are made
 under the terms of *both* these licenses.
@@ -1228,12 +1228,12 @@ OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 debugpy
-1.8.14
+1.8.15
 MIT License
 Microsoft Corporation
 https://aka.ms/debugpy
 An implementation of the Debug Adapter Protocol for Python
-/home/runner/.pyenv/versions/3.13.5/lib/python3.13/site-packages/debugpy-1.8.14.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.5/lib/python3.13/site-packages/debugpy-1.8.15.dist-info/licenses/LICENSE
     debugpy
 
     Copyright (c) Microsoft Corporation
@@ -1631,12 +1631,12 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 fonttools
-4.58.4
+4.59.0
 MIT
 Just van Rossum
 http://github.com/fonttools/fonttools
 Tools to manipulate font files
-/home/runner/.pyenv/versions/3.13.5/lib/python3.13/site-packages/fonttools-4.58.4.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.5/lib/python3.13/site-packages/fonttools-4.59.0.dist-info/licenses/LICENSE
 MIT License
 
 Copyright (c) 2017 Just van Rossum
@@ -5278,12 +5278,12 @@ License: LGPL-2.1-or-later
 
 
 orjson
-3.10.18
+3.11.0
 Apache Software License; MIT License
 ijl <ijl@mailbox.org>
 https://github.com/ijl/orjson
 Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy
-/home/runner/.pyenv/versions/3.13.5/lib/python3.13/site-packages/orjson-3.10.18.dist-info/licenses/LICENSE-APACHE
+/home/runner/.pyenv/versions/3.13.5/lib/python3.13/site-packages/orjson-3.11.0.dist-info/licenses/LICENSE-APACHE
                               Apache License
                         Version 2.0, January 2004
                      http://www.apache.org/licenses/
@@ -5711,12 +5711,12 @@ under the terms of *both* these licenses.
 
 
 pandas
-2.3.0
+2.3.1
 BSD License
 The Pandas Development Team <pandas-dev@python.org>
 https://pandas.pydata.org
 Powerful data structures for data analysis, time series, and statistics
-/home/runner/.pyenv/versions/3.13.5/lib/python3.13/site-packages/pandas-2.3.0.dist-info/LICENSE
+/home/runner/.pyenv/versions/3.13.5/lib/python3.13/site-packages/pandas-2.3.1.dist-info/LICENSE
 BSD 3-Clause License
 
 Copyright (c) 2008-2011, AQR Capital Management, LLC, Lambda Foundry, Inc. and PyData Development Team
@@ -9036,12 +9036,12 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 psygnal
-0.13.0
+0.14.0
 BSD License
 Talley Lambert <talley.lambert@gmail.com>
 https://github.com/pyapp-kit/psygnal
 Fast python callback/event system modeled after Qt Signals
-/home/runner/.pyenv/versions/3.13.5/lib/python3.13/site-packages/psygnal-0.13.0.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.5/lib/python3.13/site-packages/psygnal-0.14.0.dist-info/licenses/LICENSE
 Copyright (c) 2021, Talley Lambert
 
 Redistribution and use in source and binary forms, with or without
@@ -12061,12 +12061,12 @@ SOFTWARE.
 
 
 rpds-py
-0.25.1
+0.26.0
 MIT
 Julian Berman <Julian+rpds@GrayVines.com>
 https://github.com/crate-py/rpds
 Python bindings to Rust's persistent data structures (rpds)
-/home/runner/.pyenv/versions/3.13.5/lib/python3.13/site-packages/rpds_py-0.25.1.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.5/lib/python3.13/site-packages/rpds_py-0.26.0.dist-info/licenses/LICENSE
 Copyright (c) 2023 Julian Berman
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -14069,12 +14069,12 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 types-python-dateutil
-2.9.0.20250516
+2.9.0.20250708
 UNKNOWN
 UNKNOWN
 https://github.com/python/typeshed
 Typing stubs for python-dateutil
-/home/runner/.pyenv/versions/3.13.5/lib/python3.13/site-packages/types_python_dateutil-2.9.0.20250516.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.5/lib/python3.13/site-packages/types_python_dateutil-2.9.0.20250708.dist-info/licenses/LICENSE
 The "typeshed" project is licensed under the terms of the Apache license, as
 reproduced below.
 
@@ -14315,12 +14315,12 @@ DEALINGS IN THE SOFTWARE.
 
 
 typing_extensions
-4.14.0
+4.14.1
 UNKNOWN
 "Guido van Rossum, Jukka Lehtosalo, Łukasz Langa, Michael Lee" <levkivskyi@gmail.com>
 https://github.com/python/typing_extensions
 Backported and Experimental Type Hints for Python 3.9+
-/home/runner/.pyenv/versions/3.13.5/lib/python3.13/site-packages/typing_extensions-4.14.0.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.5/lib/python3.13/site-packages/typing_extensions-4.14.1.dist-info/licenses/LICENSE
 A. HISTORY OF THE SOFTWARE
 ==========================
 
@@ -14627,12 +14627,12 @@ limitations under the License.
 
 
 umap-learn
-0.5.8
+0.5.9.post2
 BSD
 UNKNOWN
 http://github.com/lmcinnes/umap
 Uniform Manifold Approximation and Projection
-/home/runner/.pyenv/versions/3.13.5/lib/python3.13/site-packages/umap_learn-0.5.8.dist-info/LICENSE.txt
+/home/runner/.pyenv/versions/3.13.5/lib/python3.13/site-packages/umap_learn-0.5.9.post2.dist-info/licenses/LICENSE.txt
 BSD 3-Clause License
 
 Copyright (c) 2017, Leland McInnes
