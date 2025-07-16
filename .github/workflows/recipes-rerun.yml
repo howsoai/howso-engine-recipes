@@ -21,8 +21,6 @@ on:
         required: true
         type: boolean
         default: false
-  schedule:
-    - cron: '0 12 */14 * 2'
 
 defaults:
   run:
