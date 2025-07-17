@@ -300,7 +300,6 @@ platformdirs==4.3.8
     # via jupyter-core
 plotly[kaleido]==6.2.0
     # via
-    #   -r requirements-dev.in
     #   -r requirements.in
     #   howso-visuals
 pluggy==1.6.0
