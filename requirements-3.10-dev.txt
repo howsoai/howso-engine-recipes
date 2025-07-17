@@ -50,6 +50,8 @@ cffi==1.17.1
     #   cryptography
 charset-normalizer==3.4.2
     # via requests
+choreographer==1.0.9
+    # via kaleido
 comm==0.2.2
     # via
     #   ipykernel
@@ -93,7 +95,7 @@ howso-engine==40.3.0
     # via
     #   -r requirements.in
     #   howso-visuals
-howso-visuals==2.0.5
+howso-visuals==2.0.6
     # via -r requirements.in
 httpcore==1.0.9
     # via httpx
@@ -141,7 +143,7 @@ json5==0.12.0
     # via jupyterlab-server
 jsonpointer==3.0.0
     # via jsonschema
-jsonschema[format-nongpl]==4.24.0
+jsonschema[format-nongpl]==4.24.1
     # via
     #   jupyter-events
     #   jupyterlab-server
@@ -186,14 +188,18 @@ jupyterlab-server==2.27.3
     #   notebook
 jupyterlab-widgets==3.0.15
     # via ipywidgets
-kaleido==0.2.1 ; sys_platform != "win32"
-    # via -r requirements.in
+kaleido==1.0.0
+    # via plotly
 kiwisolver==1.4.8
     # via matplotlib
 llvmlite==0.44.0
     # via
     #   numba
     #   pynndescent
+logistro==1.1.0
+    # via
+    #   choreographer
+    #   kaleido
 markdown-it-py==3.0.0
     # via rich
 markupsafe==3.0.2
@@ -214,6 +220,8 @@ mistune==3.1.3
     # via nbconvert
 mmh3==5.1.0
     # via howso-engine
+narwhals==1.47.0
+    # via plotly
 nbclient==0.10.2
     # via
     #   nbconvert
@@ -253,6 +261,8 @@ numpy==2.2.6
     #   seaborn
     #   shapely
     #   umap-learn
+orjson==3.11.0
+    # via kaleido
 overrides==7.7.0
     # via jupyter-server
 packaging==25.0
@@ -264,6 +274,7 @@ packaging==25.0
     #   jupyter-server
     #   jupyterlab
     #   jupyterlab-server
+    #   kaleido
     #   matplotlib
     #   nbconvert
     #   plotly
@@ -287,10 +298,8 @@ pillow==11.3.0
     # via matplotlib
 platformdirs==4.3.8
     # via jupyter-core
-plotly==5.24.1
-    # via
-    #   -r requirements.in
-    #   howso-visuals
+plotly[kaleido]==6.2.0
+    # via howso-visuals
 pluggy==1.6.0
     # via pytest
 pmlb==1.0.1.post3
@@ -404,6 +413,8 @@ send2trash==1.8.3
     # via jupyter-server
 shapely==2.1.1
     # via geopandas
+simplejson==3.20.1
+    # via choreographer
 six==1.17.0
     # via
     #   python-dateutil
@@ -414,8 +425,6 @@ soupsieve==2.7
     # via beautifulsoup4
 stack-data==0.6.3
     # via ipython
-tenacity==9.1.2
-    # via plotly
 terminado==0.18.1
     # via
     #   jupyter-server
