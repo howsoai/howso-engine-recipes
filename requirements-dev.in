@@ -4,3 +4,4 @@ pytest-randomly>=3.10
 pytest-rerunfailures>=10.2
 pytest-xdist>=2.4
 testbook>=0.4
+plotly[kaleido]~=6.0
