@@ -217,7 +217,7 @@ mistune==3.1.3
     # via nbconvert
 mmh3==5.1.0
     # via howso-engine
-narwhals==1.47.0
+narwhals==1.47.1
     # via plotly
 nbclient==0.10.2
     # via
