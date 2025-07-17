@@ -285,7 +285,9 @@ pillow==11.3.0
 platformdirs==4.3.8
     # via jupyter-core
 plotly[kaleido]==6.2.0
-    # via howso-visuals
+    # via
+    #   -r requirements.in
+    #   howso-visuals
 pmlb==1.0.1.post3
     # via -r requirements.in
 prometheus-client==0.22.1
