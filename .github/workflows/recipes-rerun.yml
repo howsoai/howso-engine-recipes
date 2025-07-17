@@ -82,7 +82,7 @@ jobs:
       pull-requests: write
     env:
         GH_TOKEN: ${{ github.token }}
-        HOWSO_RECIPE_RENDERER: png
+        PLOTLY_RENDERER: svg
     steps:
 
     - uses: actions/checkout@v4
@@ -106,6 +106,7 @@ jobs:
           # Cron jobs do not take inputs; default to 3.9
           ./bin/build.sh install_deps 3.9
         fi
+        plotly_get_chrome -y
         find . -type f -name "*.ipynb" ! -name "engine-db-connector-snowflake.ipynb" | while read -r notebook; do
           dir=$(dirname "$notebook")
           filename=$(basename "$notebook" .ipynb)
