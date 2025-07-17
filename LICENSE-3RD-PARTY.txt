@@ -4034,12 +4034,12 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 narwhals
-1.47.0
+1.47.1
 MIT License
 Marco Gorelli <hello_narwhals@proton.me>
 https://github.com/narwhals-dev/narwhals
 Extremely lightweight compatibility layer between dataframe libraries
-/home/runner/.pyenv/versions/3.13.5/lib/python3.13/site-packages/narwhals-1.47.0.dist-info/licenses/LICENSE.md
+/home/runner/.pyenv/versions/3.13.5/lib/python3.13/site-packages/narwhals-1.47.1.dist-info/licenses/LICENSE.md
 MIT License
 
 Copyright (c) 2024, Marco Gorelli
