@@ -106,7 +106,7 @@ jobs:
           # Cron jobs do not take inputs; default to 3.9
           ./bin/build.sh install_deps 3.9
         fi
-        python -c "from plotly.io._kaleido import get_chrome; import sys; sys.argv[0] = '-y'; get_chrome()"
+        get_plotly_chrome -y
         find . -type f -name "*.ipynb" ! -name "engine-db-connector-snowflake.ipynb" | while read -r notebook; do
           dir=$(dirname "$notebook")
           filename=$(basename "$notebook" .ipynb)
