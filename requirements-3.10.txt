@@ -86,7 +86,7 @@ geopandas==1.1.1
     # via -r requirements.in
 h11==0.16.0
     # via httpcore
-howso-engine==40.3.0
+howso-engine==40.4.0
     # via
     #   -r requirements.in
     #   howso-visuals
@@ -136,7 +136,7 @@ json5==0.12.0
     # via jupyterlab-server
 jsonpointer==3.0.0
     # via jsonschema
-jsonschema[format-nongpl]==4.24.1
+jsonschema[format-nongpl]==4.25.0
     # via
     #   jupyter-events
     #   jupyterlab-server
@@ -185,6 +185,8 @@ kaleido==1.0.0
     # via plotly
 kiwisolver==1.4.8
     # via matplotlib
+lark==1.2.2
+    # via rfc3987-syntax
 llvmlite==0.44.0
     # via
     #   numba
@@ -363,6 +365,8 @@ rfc3986-validator==0.1.1
     # via
     #   jsonschema
     #   jupyter-events
+rfc3987-syntax==1.1.0
+    # via jsonschema
 rich==14.0.0
     # via howso-engine
 rpds-py==0.26.0
