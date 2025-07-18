@@ -306,7 +306,7 @@ ptyprocess==0.7.0
     #   terminado
 pure-eval==0.2.3
     # via stack-data
-pyarrow==20.0.0
+pyarrow==21.0.0
     # via pandas
 pycparser==2.22
     # via cffi
@@ -369,7 +369,7 @@ rpds-py==0.26.0
     # via
     #   jsonschema
     #   referencing
-scikit-learn==1.7.0
+scikit-learn==1.7.1
     # via
     #   -r requirements.in
     #   pynndescent
