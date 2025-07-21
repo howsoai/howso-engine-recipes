@@ -9,6 +9,5 @@ matplotlib~=3.0, !=3.9.1
 notebook>6.0.0
 numpy
 pandas[parquet]~=2.0
-plotly[kaleido]~=6.0
 pmlb>=1.0
 scikit-learn
