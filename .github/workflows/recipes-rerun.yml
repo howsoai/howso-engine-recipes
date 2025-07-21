@@ -6,7 +6,7 @@ on:
     inputs:
       python-version:
         description: "The Python version to use for the re-run."
-        default: '3.9'
+        default: '3.10'
         required: false
       create-pr:
         description: "Create a PR against the default branch?"
@@ -103,8 +103,8 @@ jobs:
         if [[ -n "${{ inputs.python-version }}" ]]; then
           ./bin/build.sh install_deps ${{ inputs.python-version }}
         else
-          # Cron jobs do not take inputs; default to 3.9
-          ./bin/build.sh install_deps 3.9
+          # Cron jobs do not take inputs; default to 3.10
+          ./bin/build.sh install_deps 3.10
         fi
         plotly_get_chrome -y
         find . -type f -name "*.ipynb" ! -name "engine-db-connector-snowflake.ipynb" | while read -r notebook; do
