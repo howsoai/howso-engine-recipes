@@ -50,6 +50,8 @@ cffi==1.17.1
     #   cryptography
 charset-normalizer==3.4.2
     # via requests
+choreographer==1.0.9
+    # via kaleido
 comm==0.2.2
     # via
     #   ipykernel
@@ -89,11 +91,11 @@ geopandas==1.1.1
     # via -r requirements.in
 h11==0.16.0
     # via httpcore
-howso-engine==40.3.0
+howso-engine==40.4.0
     # via
     #   -r requirements.in
     #   howso-visuals
-howso-visuals==2.0.5
+howso-visuals==2.0.6
     # via -r requirements.in
 httpcore==1.0.9
     # via httpx
@@ -109,7 +111,7 @@ idna==3.10
     #   requests
 iniconfig==2.1.0
     # via pytest
-ipykernel==6.29.5
+ipykernel==6.30.0
     # via
     #   -r requirements.in
     #   jupyterlab
@@ -141,7 +143,7 @@ json5==0.12.0
     # via jupyterlab-server
 jsonpointer==3.0.0
     # via jsonschema
-jsonschema[format-nongpl]==4.24.0
+jsonschema[format-nongpl]==4.25.0
     # via
     #   jupyter-events
     #   jupyterlab-server
@@ -165,7 +167,7 @@ jupyter-core==5.8.1
     #   nbformat
 jupyter-events==0.12.0
     # via jupyter-server
-jupyter-lsp==2.2.5
+jupyter-lsp==2.2.6
     # via jupyterlab
 jupyter-server==2.16.0
     # via
@@ -176,7 +178,7 @@ jupyter-server==2.16.0
     #   notebook-shim
 jupyter-server-terminals==0.5.3
     # via jupyter-server
-jupyterlab==4.4.4
+jupyterlab==4.4.5
     # via notebook
 jupyterlab-pygments==0.3.0
     # via nbconvert
@@ -186,14 +188,20 @@ jupyterlab-server==2.27.3
     #   notebook
 jupyterlab-widgets==3.0.15
     # via ipywidgets
-kaleido==0.2.1 ; sys_platform != "win32"
-    # via -r requirements.in
+kaleido==1.0.0
+    # via plotly
 kiwisolver==1.4.8
     # via matplotlib
+lark==1.2.2
+    # via rfc3987-syntax
 llvmlite==0.44.0
     # via
     #   numba
     #   pynndescent
+logistro==1.1.0
+    # via
+    #   choreographer
+    #   kaleido
 markdown-it-py==3.0.0
     # via rich
 markupsafe==3.0.2
@@ -214,6 +222,8 @@ mistune==3.1.3
     # via nbconvert
 mmh3==5.1.0
     # via howso-engine
+narwhals==1.48.0
+    # via plotly
 nbclient==0.10.2
     # via
     #   nbconvert
@@ -253,6 +263,8 @@ numpy==2.2.6
     #   seaborn
     #   shapely
     #   umap-learn
+orjson==3.11.0
+    # via kaleido
 overrides==7.7.0
     # via jupyter-server
 packaging==25.0
@@ -264,6 +276,7 @@ packaging==25.0
     #   jupyter-server
     #   jupyterlab
     #   jupyterlab-server
+    #   kaleido
     #   matplotlib
     #   nbconvert
     #   plotly
@@ -287,7 +300,7 @@ pillow==11.3.0
     # via matplotlib
 platformdirs==4.3.8
     # via jupyter-core
-plotly==5.24.1
+plotly[kaleido] @ git+https://github.com/jdbeel/plotly.py@update-external-renderer-default
     # via
     #   -r requirements.in
     #   howso-visuals
@@ -309,7 +322,7 @@ ptyprocess==0.7.0
     #   terminado
 pure-eval==0.2.3
     # via stack-data
-pyarrow==20.0.0
+pyarrow==21.0.0
     # via pandas
 pycparser==2.22
     # via cffi
@@ -379,13 +392,15 @@ rfc3986-validator==0.1.1
     # via
     #   jsonschema
     #   jupyter-events
+rfc3987-syntax==1.1.0
+    # via jsonschema
 rich==14.0.0
     # via howso-engine
 rpds-py==0.26.0
     # via
     #   jsonschema
     #   referencing
-scikit-learn==1.7.0
+scikit-learn==1.7.1
     # via
     #   -r requirements.in
     #   pynndescent
@@ -404,6 +419,8 @@ send2trash==1.8.3
     # via jupyter-server
 shapely==2.1.1
     # via geopandas
+simplejson==3.20.1
+    # via choreographer
 six==1.17.0
     # via
     #   python-dateutil
@@ -414,8 +431,6 @@ soupsieve==2.7
     # via beautifulsoup4
 stack-data==0.6.3
     # via ipython
-tenacity==9.1.2
-    # via plotly
 terminado==0.18.1
     # via
     #   jupyter-server
