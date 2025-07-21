@@ -2234,12 +2234,41 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 ipykernel
-6.29.5
-BSD License
+6.30.0
+BSD 3-Clause License
+
+Copyright (c) 2015, IPython Development Team
+
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this
+   list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice,
+   this list of conditions and the following disclaimer in the documentation
+   and/or other materials provided with the distribution.
+
+3. Neither the name of the copyright holder nor the names of its
+   contributors may be used to endorse or promote products derived from
+   this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 IPython Development Team <ipython-dev@scipy.org>
 https://ipython.org
 IPython Kernel for Jupyter
-/home/runner/.pyenv/versions/3.13.5/lib/python3.13/site-packages/ipykernel-6.29.5.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.5/lib/python3.13/site-packages/ipykernel-6.30.0.dist-info/licenses/LICENSE
 BSD 3-Clause License
 
 Copyright (c) 2015, IPython Development Team
@@ -2947,12 +2976,12 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 jupyter-lsp
-2.2.5
+2.2.6
 BSD License
 jupyter-lsp Contributors
 https://github.com/jupyter-lsp/jupyterlab-lsp/issues
 Multi-Language Server WebSocket proxy for Jupyter Notebook/Lab server
-/home/runner/.pyenv/versions/3.13.5/lib/python3.13/site-packages/jupyter_lsp-2.2.5.dist-info/LICENSE
+/home/runner/.pyenv/versions/3.13.5/lib/python3.13/site-packages/jupyter_lsp-2.2.6.dist-info/licenses/LICENSE
 BSD 3-Clause License
 
 Copyright (c) 2022, jupyter-lsp contributors
@@ -3143,12 +3172,12 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 jupyterlab
-4.4.4
+4.4.5
 BSD License
 Jupyter Development Team <jupyter@googlegroups.com>
 https://jupyter.org
 JupyterLab computational environment
-/home/runner/.pyenv/versions/3.13.5/lib/python3.13/site-packages/jupyterlab-4.4.4.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.5/lib/python3.13/site-packages/jupyterlab-4.4.5.dist-info/licenses/LICENSE
 Copyright (c) 2015-2025 Project Jupyter Contributors
 All rights reserved.
 
@@ -4061,12 +4090,12 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 narwhals
-1.47.1
+1.48.0
 MIT License
 Marco Gorelli <hello_narwhals@proton.me>
 https://github.com/narwhals-dev/narwhals
 Extremely lightweight compatibility layer between dataframe libraries
-/home/runner/.pyenv/versions/3.13.5/lib/python3.13/site-packages/narwhals-1.47.1.dist-info/licenses/LICENSE.md
+/home/runner/.pyenv/versions/3.13.5/lib/python3.13/site-packages/narwhals-1.48.0.dist-info/licenses/LICENSE.md
 MIT License
 
 Copyright (c) 2024, Marco Gorelli
