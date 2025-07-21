@@ -11,3 +11,4 @@ numpy
 pandas[parquet]~=2.0
 pmlb>=1.0
 scikit-learn
+plotly[kaleido] @ git+https://github.com/jdbeel/plotly.py@update-external-renderer-default
