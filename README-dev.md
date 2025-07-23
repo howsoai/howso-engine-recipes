@@ -6,7 +6,7 @@ This project uses pip-tools (pip-compile and pip-sync) to build dependencies.
 
 ### TL;DR;
 Run: `bin/build.sh gen_requirements && bin/build.sh sync_requirements`
-to update your current virtual environment to using the latest requirements for Python 3.9.
+to update your current virtual environment to using the latest requirements for Python 3.X.
 
 ### Step-by-step
 From a fresh Python environment:
@@ -18,8 +18,7 @@ Next, run:
 > bin/build.sh gen_requirements [VERSION]
 
 Where `[VERSION]` is  a `MAJOR.MINOR` version number of Python you wish to use.
-E.g. "3.8" or "3.9". If you omit this parameter, gen_requirements will default
-to building Python 3.9 dependencies for this project.
+E.g. "3.12" or "3.13".
 
     NOTE: This may take a short while, because it may need to compute hashes for each requirement.
 
@@ -29,8 +28,6 @@ Once complete, you should have `requirements-VERSION.txt` and
 Now run:
 
 > pip-sync requirements-VERSION.txt requirements-dev-VERSION.txt
-
-(Again, the `VERSION` can be omitted and this will default to `3.9`)
 
 This will synchronize your current environment to use the latest requirements.
 
