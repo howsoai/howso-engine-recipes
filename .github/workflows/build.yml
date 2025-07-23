@@ -73,7 +73,7 @@ jobs:
         run: |
           echo "config-path=$(pwd)/config/latest-mt-traces-howso.yml" >> "$GITHUB_OUTPUT"
 
-  pytest-linux-3-9-st:
+  pytest-linux-3-10-st:
     if: inputs.build-type != 'PR'
     needs: ['metadata']
     uses: howsoai/.github/.github/workflows/pytest.yml@main
@@ -82,14 +82,14 @@ jobs:
       platform: 'ubuntu-latest'
       platform-pretty: 'Linux'
       amalgam-plat-arch: 'linux-amd64'
-      python-version: '3.9'
+      python-version: '3.10'
       config-fp: '~/work/howso-engine-recipes/howso-engine-recipes/config/latest-st-traces-howso.yml'
       config-pretty: 'ST'
       workers: 'auto'
       upstream-details: ${{ needs.metadata.outputs.upstream-details }}
       debug: ${{ inputs.debug-mode }}
 
-  pytest-linux-3-12-mt:
+  pytest-linux-3-13-mt:
     if: inputs.build-type != 'PR'
     needs: ['metadata']
     uses: howsoai/.github/.github/workflows/pytest.yml@main
@@ -98,7 +98,7 @@ jobs:
       platform: 'ubuntu-latest'
       platform-pretty: 'Linux'
       amalgam-plat-arch: 'linux-amd64'
-      python-version: '3.12'
+      python-version: '3.13'
       config-fp: '~/work/howso-engine-recipes/howso-engine-recipes/config/latest-mt-traces-howso.yml'
       config-pretty: 'MT'
       upstream-details: ${{ needs.metadata.outputs.upstream-details }}
@@ -152,8 +152,8 @@ jobs:
   release:
     needs:
       - metadata
-      - pytest-linux-3-9-st
-      - pytest-linux-3-12-mt
+      - pytest-linux-3-10-st
+      - pytest-linux-3-13-mt
       - pytest-windows-3-12-mt
       - pytest-macos-3-11-mt-amd64
       - pytest-macos-3-12-mt-arm64
