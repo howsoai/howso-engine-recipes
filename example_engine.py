@@ -71,7 +71,7 @@ def main():
 
         # Retrieve the prediction stats from the trainee
         stats = t.get_prediction_stats(
-            action_feature=action_features[0],
+            prediction_stats_action_feature=action_features[0],
             details={
                 "prediction_stats": True,
                 "selected_prediction_stats": ['accuracy', 'mae']
