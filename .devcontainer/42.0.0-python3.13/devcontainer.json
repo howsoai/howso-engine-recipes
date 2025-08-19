@@ -1,5 +1,5 @@
 {
-    "image": "ghcr.io/howsoai/howso:40.3.0-python3.9",
+    "image": "ghcr.io/howsoai/howso:42.0.0-python3.13",
     "customizations": {
         "vscode": {
           "extensions": ["ms-toolsai.jupyter"]
