@@ -70,13 +70,13 @@ def main():
             details=details)
 
         # Retrieve the prediction stats from the trainee
-        stats = t.get_prediction_stats(
+        stats = pd.DataFrame(t.react_aggregate(
             prediction_stats_action_feature=action_features[0],
             details={
                 "prediction_stats": True,
                 "selected_prediction_stats": ['accuracy', 'mae']
             }
-        )
+        )).T
         accuracy = stats[action_features[0]]['accuracy']
         mae = stats[action_features[0]]['mae']
 
