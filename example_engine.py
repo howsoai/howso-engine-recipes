@@ -70,7 +70,11 @@ def main():
             details=details)
 
         # Retrieve the prediction stats from the trainee
+<<<<<<< HEAD
         stats = pd.DataFrame(t.react_aggregate(
+=======
+        stats = t.react_aggregate(
+>>>>>>> e061323 (save)
             prediction_stats_action_feature=action_features[0],
             details={
                 "prediction_stats": True,

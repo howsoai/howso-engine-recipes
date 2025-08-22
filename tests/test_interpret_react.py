@@ -10,7 +10,11 @@ def test_predicted_mean_interval(tb):
     """
     tb.inject(
         """
+<<<<<<< HEAD
         global_residual = pd.DataFrame(trainee.react_aggregate(details={"prediction_stats":True})).T['moid']['mae']
+=======
+        global_residual = trainee.react_aggregate(details={"prediction_stats":True})['moid']['mae']
+>>>>>>> e061323 (save)
         r_val = react["action"].loc[0, 'moid']
         upper_limit = (r_val + global_residual)
         lower_limit = (r_val - global_residual)
