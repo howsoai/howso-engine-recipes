@@ -3172,12 +3172,12 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 jupyterlab
-4.4.6
+4.4.7
 BSD License
 Jupyter Development Team <jupyter@googlegroups.com>
 https://jupyter.org
 JupyterLab computational environment
-/home/runner/.pyenv/versions/3.13.7/lib/python3.13/site-packages/jupyterlab-4.4.6.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.7/lib/python3.13/site-packages/jupyterlab-4.4.7.dist-info/licenses/LICENSE
 Copyright (c) 2015-2025 Project Jupyter Contributors
 All rights reserved.
 

@@ -4,7 +4,7 @@
 #
 #    pip-compile --allow-unsafe --no-emit-index-url --output-file=requirements-3.13-dev.txt requirements-dev.in requirements.in
 #
-amalgam-lang==24.0.1
+amalgam-lang==24.0.2
     # via howso-engine
 anyio==4.10.0
     # via
@@ -86,11 +86,11 @@ geopandas==1.1.1
     # via -r requirements.in
 h11==0.16.0
     # via httpcore
-howso-engine==44.0.0
+howso-engine==45.0.0
     # via
     #   -r requirements.in
     #   howso-visuals
-howso-visuals==2.2.1
+howso-visuals==2.2.2
     # via -r requirements.in
 httpcore==1.0.9
     # via httpx
@@ -175,7 +175,7 @@ jupyter-server==2.17.0
     #   notebook-shim
 jupyter-server-terminals==0.5.3
     # via jupyter-server
-jupyterlab==4.4.6
+jupyterlab==4.4.7
     # via notebook
 jupyterlab-pygments==0.3.0
     # via nbconvert
@@ -340,7 +340,7 @@ pyparsing==3.2.3
     # via matplotlib
 pyproj==3.7.2
     # via geopandas
-pytest==8.4.1
+pytest==8.4.2
     # via
     #   -r requirements-dev.in
     #   pytest-randomly

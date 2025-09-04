@@ -76,7 +76,7 @@ def main():
                 "prediction_stats": True,
                 "selected_prediction_stats": ['accuracy', 'mae']
             }
-        )
+        ).to_dataframe()
         accuracy = stats[action_features[0]]['accuracy']
         mae = stats[action_features[0]]['mae']
 
