@@ -5,7 +5,7 @@ def test_accuracy(tb):
     """Ensure good accuracy given the dataset."""
     tb.inject(
         """
-        accuracy = stats["target"]["accuracy"]
+        accuracy = stats['accuracy']['target']
         """
     )
 
@@ -16,7 +16,7 @@ def test_conditional_accuracies(tb):
     """Ensure overall accuracy lies between accuracy of each sex."""
     sex_0_accuracy = tb.ref('sex_0_stats["accuracy"]')
     sex_1_accuracy = tb.ref('sex_1_stats["accuracy"]')
-    overall_accuracy = tb.ref('stats["target"]["accuracy"]')
+    overall_accuracy = tb.ref('stats["accuracy"]["target"]')
 
     assert sex_0_accuracy > 0.65
     assert sex_1_accuracy > 0.65
