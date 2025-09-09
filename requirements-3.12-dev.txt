@@ -4,7 +4,7 @@
 #
 #    pip-compile --allow-unsafe --no-emit-index-url --output-file=requirements-3.12-dev.txt requirements-dev.in requirements.in
 #
-amalgam-lang==24.0.2
+amalgam-lang==24.0.4
     # via howso-engine
 anyio==4.10.0
     # via
@@ -44,7 +44,7 @@ certifi==2025.8.3
     #   pyogrio
     #   pyproj
     #   requests
-cffi==1.17.1
+cffi==2.0.0
     # via
     #   argon2-cffi-bindings
     #   cryptography
@@ -86,7 +86,7 @@ geopandas==1.1.1
     # via -r requirements.in
 h11==0.16.0
     # via httpcore
-howso-engine==45.0.0
+howso-engine==45.0.2
     # via
     #   -r requirements.in
     #   howso-visuals
@@ -145,7 +145,7 @@ jsonschema[format-nongpl]==4.25.1
     #   jupyter-events
     #   jupyterlab-server
     #   nbformat
-jsonschema-specifications==2025.4.1
+jsonschema-specifications==2025.9.1
     # via jsonschema
 jupyter-client==8.6.3
     # via
@@ -219,7 +219,7 @@ mistune==3.1.4
     # via nbconvert
 mmh3==5.2.0
     # via howso-engine
-narwhals==2.3.0
+narwhals==2.4.0
     # via plotly
 nbclient==0.10.2
     # via
@@ -321,7 +321,7 @@ pure-eval==0.2.3
     # via stack-data
 pyarrow==21.0.0
     # via pandas
-pycparser==2.22
+pycparser==2.23
     # via cffi
 pygments==2.19.2
     # via
@@ -367,7 +367,7 @@ pyyaml==6.0.2
     #   howso-engine
     #   jupyter-events
     #   pmlb
-pyzmq==27.0.2
+pyzmq==27.1.0
     # via
     #   ipykernel
     #   jupyter-client
@@ -398,7 +398,7 @@ rpds-py==0.27.1
     # via
     #   jsonschema
     #   referencing
-scikit-learn==1.7.1
+scikit-learn==1.7.2
     # via
     #   -r requirements.in
     #   pynndescent
