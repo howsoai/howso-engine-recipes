@@ -3076,12 +3076,12 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 jupyter_core
-5.9.0
+5.9.1
 UNKNOWN
 Jupyter Development Team <jupyter@googlegroups.org>
 https://jupyter.org
 Jupyter core package. A base package on which Jupyter projects rely.
-/home/runner/.pyenv/versions/3.13.9/lib/python3.13/site-packages/jupyter_core-5.9.0.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.9/lib/python3.13/site-packages/jupyter_core-5.9.1.dist-info/licenses/LICENSE
 BSD 3-Clause License
 
 - Copyright (c) 2015-, Jupyter Development Team
