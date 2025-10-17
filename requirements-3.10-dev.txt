@@ -95,7 +95,7 @@ howso-engine==48.2.0
     # via
     #   -r requirements.in
     #   howso-visuals
-howso-visuals==2.4.1
+howso-visuals==2.5.0
     # via -r requirements.in
 httpcore==1.0.9
     # via httpx
