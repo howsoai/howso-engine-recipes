@@ -1,10 +1,10 @@
 Faker
-37.11.0
+37.12.0
 MIT License
 joke2k
 https://github.com/joke2k/faker
 Faker is a Python package that generates fake data for you.
-/home/runner/.pyenv/versions/3.13.9/lib/python3.13/site-packages/faker-37.11.0.dist-info/licenses/LICENSE.txt
+/home/runner/.pyenv/versions/3.13.9/lib/python3.13/site-packages/faker-37.12.0.dist-info/licenses/LICENSE.txt
 Copyright (c) 2012 Daniele Faraglia
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -65,7 +65,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 MarkupSafe
 3.0.3
-UNKNOWN
+BSD-3-Clause
 UNKNOWN
 https://github.com/pallets/markupsafe/
 Safely add untrusted strings to HTML/XML markup.
@@ -214,7 +214,7 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
 
 anyio
 4.11.0
-UNKNOWN
+MIT
 Alex Grönholm <alex.gronholm@nextday.fi>
 https://anyio.readthedocs.io/en/stable/versionhistory.html
 High-level concurrency and networking framework on top of asyncio or Trio
@@ -273,7 +273,7 @@ SOFTWARE.
 
 argon2-cffi
 25.1.0
-UNKNOWN
+MIT
 Hynek Schlawack <hs@ox.cx>
 https://github.com/hynek/argon2-cffi/blob/main/CHANGELOG.md
 Argon2 for Python
@@ -303,7 +303,7 @@ SOFTWARE.
 
 argon2-cffi-bindings
 25.1.0
-UNKNOWN
+MIT
 Hynek Schlawack <hs@ox.cx>
 https://github.com/hynek/argon2-cffi-bindings/blob/main/CHANGELOG.md
 Low-level CFFI bindings for Argon2
@@ -785,7 +785,7 @@ THE SOFTWARE.
 
 attrs
 25.4.0
-UNKNOWN
+MIT
 Hynek Schlawack <hs@ox.cx>
 https://www.attrs.org/en/stable/changelog.html
 Classes Without Boilerplate
@@ -913,7 +913,7 @@ limitations under the License.
 
 build
 1.3.0
-UNKNOWN
+MIT
 Filipe Laíns <lains@riseup.net>, Bernát Gábor <gaborjbernat@gmail.com>, layday <layday@protonmail.com>, Henry Schreiner <henryschreineriii@gmail.com>
 https://build.pypa.io
 A simple, correct Python build frontend
@@ -971,7 +971,7 @@ one at http://mozilla.org/MPL/2.0/.
 
 cffi
 2.0.0
-UNKNOWN
+MIT
 Armin Rigo, Maciej Fijalkowski
 https://cffi.readthedocs.io/en/latest/whatsnew.html
 Foreign Function Interface for Python calling C code.
@@ -1032,7 +1032,7 @@ SOFTWARE.
 
 
 choreographer
-1.1.2
+1.2.0
 # MIT License
 
 Copyright (c) Plotly, Inc.
@@ -1061,7 +1061,7 @@ OTHER DEALINGS IN THE SOFTWARE.
 Andrew Pikul <ajpikul@gmail.com>, Neyberson Atencio <neyberatencio@gmail.com>
 https://github.com/plotly/choreographer
 Devtools Protocol implementation for chrome.
-/home/runner/.pyenv/versions/3.13.9/lib/python3.13/site-packages/choreographer-1.1.2.dist-info/licenses/LICENSE.md
+/home/runner/.pyenv/versions/3.13.9/lib/python3.13/site-packages/choreographer-1.2.0.dist-info/licenses/LICENSE.md
 # MIT License
 
 Copyright (c) Plotly, Inc.
@@ -1090,7 +1090,7 @@ OTHER DEALINGS IN THE SOFTWARE.
 
 click
 8.3.0
-UNKNOWN
+BSD-3-Clause
 UNKNOWN
 https://github.com/pallets/click/
 Composable command line interface toolkit
@@ -1203,7 +1203,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 cryptography
 46.0.3
-UNKNOWN
+Apache-2.0 OR BSD-3-Clause
 The Python Cryptographic Authority and individual contributors <cryptography-dev@python.org>
 https://github.com/pyca/cryptography
 cryptography is a package which provides cryptographic recipes and primitives to Python developers.
@@ -2130,7 +2130,7 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 httpcore
 1.0.9
-BSD License
+BSD-3-Clause
 Tom Christie <tom@tomchristie.com>
 https://www.encode.io/httpcore/
 A minimal low-level HTTP client.
@@ -2187,7 +2187,7 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
 
 humanize
 4.14.0
-UNKNOWN
+MIT
 Jason Moiron <jmoiron@jmoiron.net>
 https://github.com/python-humanize/humanize
 Python humanize utilities
@@ -2216,7 +2216,7 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 idna
 3.11
-UNKNOWN
+BSD-3-Clause
 Kim Davies <kim+pypi@gumleaf.org>
 https://github.com/kjd/idna
 Internationalized Domain Names in Applications (IDNA)
@@ -2255,12 +2255,12 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 iniconfig
-2.2.0
-UNKNOWN
+2.3.0
+MIT
 Ronny Pfannschmidt <opensource@ronnypfannschmidt.de>, Holger Krekel <holger.krekel@gmail.com>
 https://github.com/pytest-dev/iniconfig
 brain-dead simple config-ini parsing
-/home/runner/.pyenv/versions/3.13.9/lib/python3.13/site-packages/iniconfig-2.2.0.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.9/lib/python3.13/site-packages/iniconfig-2.3.0.dist-info/licenses/LICENSE
 The MIT License (MIT)
 
 Copyright (c) 2010 - 2023 Holger Krekel and others
@@ -2286,7 +2286,7 @@ SOFTWARE.
 
 ipykernel
 7.0.1
-UNKNOWN
+BSD-3-Clause
 IPython Development Team <ipython-dev@scipy.org>
 https://ipython.org
 IPython Kernel for Jupyter
@@ -2904,7 +2904,7 @@ THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 jsonschema
 4.25.1
-UNKNOWN
+MIT
 Julian Berman <Julian+jsonschema@GrayVines.com>
 https://github.com/python-jsonschema/jsonschema
 An implementation of JSON Schema validation for Python
@@ -2932,7 +2932,7 @@ THE SOFTWARE.
 
 jsonschema-specifications
 2025.9.1
-UNKNOWN
+MIT
 Julian Berman <Julian+jsonschema-specifications@GrayVines.com>
 https://github.com/python-jsonschema/jsonschema-specifications
 The JSON Schema meta-schemas and vocabularies, exposed as a Registry
@@ -3077,7 +3077,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 jupyter_core
 5.9.1
-UNKNOWN
+BSD-3-Clause
 Jupyter Development Team <jupyter@googlegroups.org>
 https://jupyter.org
 Jupyter core package. A base package on which Jupyter projects rely.
@@ -3194,12 +3194,12 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 jupyterlab
-4.4.9
+4.4.10
 BSD License
 Jupyter Development Team <jupyter@googlegroups.com>
 https://jupyter.org
 JupyterLab computational environment
-/home/runner/.pyenv/versions/3.13.9/lib/python3.13/site-packages/jupyterlab-4.4.9.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.9/lib/python3.13/site-packages/jupyterlab-4.4.10.dist-info/licenses/LICENSE
 Copyright (c) 2015-2025 Project Jupyter Contributors
 All rights reserved.
 
@@ -3272,12 +3272,12 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 jupyterlab_server
-2.27.3
+2.28.0
 BSD License
 Jupyter Development Team <jupyter@googlegroups.com>
 https://jupyterlab-server.readthedocs.io
 A set of server components for JupyterLab and JupyterLab like applications.
-/home/runner/.pyenv/versions/3.13.9/lib/python3.13/site-packages/jupyterlab_server-2.27.3.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.9/lib/python3.13/site-packages/jupyterlab_server-2.28.0.dist-info/licenses/LICENSE
 Copyright (c) 2015-2017, Project Jupyter Contributors
 All rights reserved.
 
@@ -3988,12 +3988,12 @@ Licensee agrees to be bound by the terms and conditions of this License
 Agreement.
 
 matplotlib-inline
-0.1.7
-BSD License
+0.2.1
+UNKNOWN
 IPython Development Team <ipython-dev@python.org>
 https://github.com/ipython/matplotlib-inline
 Inline Matplotlib backend for Jupyter
-/home/runner/.pyenv/versions/3.13.9/lib/python3.13/site-packages/matplotlib_inline-0.1.7.dist-info/LICENSE
+/home/runner/.pyenv/versions/3.13.9/lib/python3.13/site-packages/matplotlib_inline-0.2.1.dist-info/licenses/LICENSE
 BSD 3-Clause License
 
 Copyright (c) 2019-2022, IPython Development Team.
@@ -4133,12 +4133,12 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 narwhals
-2.8.0
+2.9.0
 MIT License
 Marco Gorelli <hello_narwhals@proton.me>
 https://github.com/narwhals-dev/narwhals
 Extremely lightweight compatibility layer between dataframe libraries
-/home/runner/.pyenv/versions/3.13.9/lib/python3.13/site-packages/narwhals-2.8.0.dist-info/licenses/LICENSE.md
+/home/runner/.pyenv/versions/3.13.9/lib/python3.13/site-packages/narwhals-2.9.0.dist-info/licenses/LICENSE.md
 MIT License
 
 Copyright (c) 2024, Marco Gorelli
@@ -5453,12 +5453,12 @@ License: LGPL-2.1-or-later
 
 
 orjson
-3.11.3
-Apache Software License; MIT License
+3.11.4
+Apache-2.0 OR MIT
 UNKNOWN
 https://github.com/ijl/orjson
 Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy
-/home/runner/.pyenv/versions/3.13.9/lib/python3.13/site-packages/orjson-3.11.3.dist-info/licenses/LICENSE-APACHE
+/home/runner/.pyenv/versions/3.13.9/lib/python3.13/site-packages/orjson-3.11.4.dist-info/licenses/LICENSE-APACHE
                               Apache License
                         Version 2.0, January 2004
                      http://www.apache.org/licenses/
@@ -7094,7 +7094,7 @@ ISC LICENSE
 
 pillow
 12.0.0
-UNKNOWN
+MIT-CMU
 "Jeffrey A. Clark" <aclark@aclark.net>
 https://python-pillow.github.io
 Python Imaging Library (fork)
@@ -8625,12 +8625,12 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 pip-tools
-7.5.1
+7.5.0
 BSD License
 Vincent Driessen <me@nvie.com>
 https://github.com/jazzband/pip-tools/
 pip-tools keeps your pinned dependencies fresh.
-/home/runner/.pyenv/versions/3.13.9/lib/python3.13/site-packages/pip_tools-7.5.1.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.9/lib/python3.13/site-packages/pip_tools-7.5.0.dist-info/licenses/LICENSE
 BSD 3-Clause License
 
 Copyright (c). All rights reserved.
@@ -8663,7 +8663,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 platformdirs
 4.5.0
-MIT License
+MIT
 UNKNOWN
 https://github.com/tox-dev/platformdirs
 A small Python package for determining appropriate platform-specific dirs, e.g. a `user data dir`.
@@ -8783,7 +8783,7 @@ SOFTWARE.
 
 prometheus_client
 0.23.1
-UNKNOWN
+Apache-2.0 AND BSD-2-Clause
 The Prometheus Authors <prometheus-developers@googlegroups.com>
 https://github.com/prometheus/client_python
 Python client for the Prometheus monitoring system.
@@ -9028,12 +9028,12 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 psutil
-7.1.0
+7.1.1
 BSD-3-Clause
 Giampaolo Rodola
 https://github.com/giampaolo/psutil
 Cross-platform lib for process and system monitoring.
-/home/runner/.pyenv/versions/3.13.9/lib/python3.13/site-packages/psutil-7.1.0.dist-info/LICENSE
+/home/runner/.pyenv/versions/3.13.9/lib/python3.13/site-packages/psutil-7.1.1.dist-info/LICENSE
 BSD 3-Clause License
 
 Copyright (c) 2009, Jay Loden, Dave Daeschler, Giampaolo Rodola
@@ -9156,12 +9156,12 @@ SOFTWARE.
 
 
 pyarrow
-21.0.0
+22.0.0
 Apache Software License
 UNKNOWN
 https://arrow.apache.org/
 Python library for Apache Arrow
-/home/runner/.pyenv/versions/3.13.9/lib/python3.13/site-packages/pyarrow-21.0.0.dist-info/licenses/LICENSE.txt
+/home/runner/.pyenv/versions/3.13.9/lib/python3.13/site-packages/pyarrow-22.0.0.dist-info/licenses/LICENSE.txt
 
                                  Apache License
                            Version 2.0, January 2004
@@ -11591,7 +11591,7 @@ SOFTWARE.
 
 pyparsing
 3.2.5
-UNKNOWN
+MIT
 Paul McGuire <ptmcg.gm+pyparsing@gmail.com>
 https://github.com/pyparsing/pyparsing/
 pyparsing - Classes and methods to define and execute parsing grammars
@@ -11618,7 +11618,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 pyproj
 3.7.2
-UNKNOWN
+MIT
 Jeff Whitaker <jeffrey.s.whitaker@noaa.gov>
 https://github.com/pyproj4/pyproj
 Python interface to PROJ (cartographic projections and coordinate transformations library)
@@ -11884,7 +11884,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 referencing
 0.37.0
-UNKNOWN
+MIT
 Julian Berman <Julian+referencing@GrayVines.com>
 https://github.com/python-jsonschema/referencing
 JSON Referencing + Python
@@ -12158,7 +12158,7 @@ SOFTWARE.
 
 rfc3987-syntax
 1.1.0
-Apache Software License
+MIT
 Jan Kowalleck
 https://github.com/willynilly/rfc3987-syntax
 Helper functions to syntactically validate strings according to RFC 3987.
@@ -12215,12 +12215,12 @@ SOFTWARE.
 
 
 rpds-py
-0.27.1
-UNKNOWN
+0.28.0
+MIT
 Julian Berman <Julian+rpds@GrayVines.com>
 https://github.com/crate-py/rpds
 Python bindings to Rust's persistent data structures (rpds)
-/home/runner/.pyenv/versions/3.13.9/lib/python3.13/site-packages/rpds_py-0.27.1.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.9/lib/python3.13/site-packages/rpds_py-0.28.0.dist-info/licenses/LICENSE
 Copyright (c) 2023 Julian Berman
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -12244,7 +12244,7 @@ THE SOFTWARE.
 
 scikit-learn
 1.7.2
-UNKNOWN
+BSD-3-Clause
 UNKNOWN
 https://scikit-learn.org
 A set of python modules for machine learning and data mining
@@ -13540,7 +13540,7 @@ made under the terms of *both* these licenses.
 
 soupsieve
 2.8
-MIT License
+MIT
 Isaac Muse <Isaac.Muse@gmail.com>
 https://github.com/facelessuser/soupsieve
 A modern CSS selector implementation for Beautiful Soup.
@@ -14014,7 +14014,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 typing_extensions
 4.15.0
-UNKNOWN
+PSF-2.0
 "Guido van Rossum, Jukka Lehtosalo, Łukasz Langa, Michael Lee" <levkivskyi@gmail.com>
 https://github.com/python/typing_extensions
 Backported and Experimental Type Hints for Python 3.9+
@@ -14394,7 +14394,7 @@ SOFTWARE.
 
 urllib3
 2.5.0
-UNKNOWN
+MIT
 Andrey Petrov <andrey.petrov@shazow.net>
 https://github.com/urllib3/urllib3/blob/main/CHANGES.rst
 HTTP library with thread-safe connection pooling, file post, and more.
