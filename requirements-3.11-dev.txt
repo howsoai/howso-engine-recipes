@@ -311,7 +311,7 @@ prometheus-client==0.23.1
     # via jupyter-server
 prompt-toolkit==3.0.52
     # via ipython
-psutil==7.1.1
+psutil==7.1.2
     # via ipykernel
 psygnal==0.15.0
     # via anywidget

@@ -9028,12 +9028,12 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 psutil
-7.1.1
+7.1.2
 BSD-3-Clause
 Giampaolo Rodola
 https://github.com/giampaolo/psutil
 Cross-platform lib for process and system monitoring.
-/home/runner/.pyenv/versions/3.13.9/lib/python3.13/site-packages/psutil-7.1.1.dist-info/LICENSE
+/home/runner/.pyenv/versions/3.13.9/lib/python3.13/site-packages/psutil-7.1.2.dist-info/LICENSE
 BSD 3-Clause License
 
 Copyright (c) 2009, Jay Loden, Dave Daeschler, Giampaolo Rodola
