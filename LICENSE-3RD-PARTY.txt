@@ -890,12 +890,12 @@ Isaac Muse
 
 
 bleach
-6.2.0
+6.3.0
 Apache Software License
 UNKNOWN
 https://github.com/mozilla/bleach
 An easy safelist-based HTML-sanitizing tool.
-/home/runner/.pyenv/versions/3.13.9/lib/python3.13/site-packages/bleach-6.2.0.dist-info/LICENSE
+/home/runner/.pyenv/versions/3.13.9/lib/python3.13/site-packages/bleach-6.3.0.dist-info/licenses/LICENSE
 Copyright (c) 2014-2017, Mozilla Foundation
 
 Licensed under the Apache License, Version 2.0 (the "License");
@@ -2285,12 +2285,12 @@ SOFTWARE.
 
 
 ipykernel
-7.0.1
+7.1.0
 BSD-3-Clause
 IPython Development Team <ipython-dev@scipy.org>
 https://ipython.org
 IPython Kernel for Jupyter
-/home/runner/.pyenv/versions/3.13.9/lib/python3.13/site-packages/ipykernel-7.0.1.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.9/lib/python3.13/site-packages/ipykernel-7.1.0.dist-info/licenses/LICENSE
 BSD 3-Clause License
 
 Copyright (c) 2015, IPython Development Team
@@ -3740,12 +3740,12 @@ to indicate the copyright and license terms:
 
 
 lark
-1.3.0
+1.3.1
 MIT License
 Erez Shinan <erezshin@gmail.com>
 https://github.com/lark-parser/lark
 a modern parsing library
-/home/runner/.pyenv/versions/3.13.9/lib/python3.13/site-packages/lark-1.3.0.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.9/lib/python3.13/site-packages/lark-1.3.1.dist-info/licenses/LICENSE
 Copyright © 2017 Erez Shinan
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
@@ -4133,12 +4133,12 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 narwhals
-2.9.0
+2.10.1
 MIT License
 Marco Gorelli <hello_narwhals@proton.me>
 https://github.com/narwhals-dev/narwhals
 Extremely lightweight compatibility layer between dataframe libraries
-/home/runner/.pyenv/versions/3.13.9/lib/python3.13/site-packages/narwhals-2.9.0.dist-info/licenses/LICENSE.md
+/home/runner/.pyenv/versions/3.13.9/lib/python3.13/site-packages/narwhals-2.10.1.dist-info/licenses/LICENSE.md
 MIT License
 
 Copyright (c) 2024, Marco Gorelli
@@ -12364,12 +12364,12 @@ requirements of the license of GCC.
 
 
 scipy
-1.16.2
+1.16.3
 BSD License
 UNKNOWN
 https://scipy.org/
 Fundamental algorithms for scientific computing in Python
-/home/runner/.pyenv/versions/3.13.9/lib/python3.13/site-packages/scipy-1.16.2.dist-info/LICENSE.txt
+/home/runner/.pyenv/versions/3.13.9/lib/python3.13/site-packages/scipy-1.16.3.dist-info/LICENSE.txt
 Copyright (c) 2001-2002 Enthought, Inc. 2003, SciPy Developers.
 All rights reserved.
 
@@ -14423,12 +14423,12 @@ SOFTWARE.
 
 
 webcolors
-24.11.1
+25.10.0
 BSD License
 James Bennett
 UNKNOWN
 A library for working with the color formats defined by HTML and CSS.
-/home/runner/.pyenv/versions/3.13.9/lib/python3.13/site-packages/webcolors-24.11.1.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.9/lib/python3.13/site-packages/webcolors-25.10.0.dist-info/licenses/LICENSE
 Copyright (c) James Bennett, and contributors.
 All rights reserved.
 
