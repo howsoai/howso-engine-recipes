@@ -98,7 +98,7 @@ jobs:
     - name: Re-run recipes
       run: |
         if [[ -n "${{ secrets.ARTIFACTORY_ACCESS_TOKEN }}" ]]; then
-          export PIP_EXTRA_INDEX_URL=https://vsts-build@diveplane.com:${{ secrets.ARTIFACTORY_ACCESS_TOKEN }}@dpbuild.jfrog.io/artifactory/api/pypi/pypi-edge/simple
+          export PIP_EXTRA_INDEX_URL=https://${{ secrets.ARTIFACTORY_ACCESS_USER }}:${{ secrets.ARTIFACTORY_ACCESS_TOKEN }}@dpbuild.jfrog.io/artifactory/api/pypi/pypi-edge/simple
         fi
         if [[ -n "${{ inputs.python-version }}" ]]; then
           ./bin/build.sh install_deps ${{ inputs.python-version }}
