@@ -1,10 +1,10 @@
 Faker
-37.12.0
+38.0.0
 MIT License
 joke2k
 https://github.com/joke2k/faker
 Faker is a Python package that generates fake data for you.
-/home/runner/.pyenv/versions/3.13.9/lib/python3.13/site-packages/faker-37.12.0.dist-info/licenses/LICENSE.txt
+/home/runner/.pyenv/versions/3.13.9/lib/python3.13/site-packages/faker-38.0.0.dist-info/licenses/LICENSE.txt
 Copyright (c) 2012 Daniele Faraglia
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -242,12 +242,12 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
 anywidget
-0.9.18
+0.9.21
 MIT License
 Trevor Manz <trevor.j.manz@gmail.com>
 https://github.com/manzt/anywidget
 custom jupyter widgets made easy
-/home/runner/.pyenv/versions/3.13.9/lib/python3.13/site-packages/anywidget-0.9.18.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.9/lib/python3.13/site-packages/anywidget-0.9.21.dist-info/licenses/LICENSE
 MIT License
 
 Copyright (c) 2022-2024 Trevor Manz
@@ -941,12 +941,12 @@ DEALINGS IN THE SOFTWARE.
 
 
 certifi
-2025.10.5
+2025.11.12
 Mozilla Public License 2.0 (MPL 2.0)
 Kenneth Reitz
 https://github.com/certifi/python-certifi
 Python package for providing Mozilla's CA Bundle.
-/home/runner/.pyenv/versions/3.13.9/lib/python3.13/site-packages/certifi-2025.10.5.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.9/lib/python3.13/site-packages/certifi-2025.11.12.dist-info/licenses/LICENSE
 This package contains a modified version of ca-bundle.crt:
 
 ca-bundle.crt -- Bundle of CA Root Certificates
@@ -1032,7 +1032,7 @@ SOFTWARE.
 
 
 choreographer
-1.2.0
+1.2.1
 # MIT License
 
 Copyright (c) Plotly, Inc.
@@ -1061,7 +1061,7 @@ OTHER DEALINGS IN THE SOFTWARE.
 Andrew Pikul <ajpikul@gmail.com>, Neyberson Atencio <neyberatencio@gmail.com>
 https://github.com/plotly/choreographer
 Devtools Protocol implementation for chrome.
-/home/runner/.pyenv/versions/3.13.9/lib/python3.13/site-packages/choreographer-1.2.0.dist-info/licenses/LICENSE.md
+/home/runner/.pyenv/versions/3.13.9/lib/python3.13/site-packages/choreographer-1.2.1.dist-info/licenses/LICENSE.md
 # MIT License
 
 Copyright (c) Plotly, Inc.
@@ -2360,12 +2360,12 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 ipython
-9.6.0
-BSD License
+9.7.0
+BSD-3-Clause
 The IPython Development Team
 https://ipython.org
 IPython: Productive Interactive Computing
-/home/runner/.pyenv/versions/3.13.9/lib/python3.13/site-packages/ipython-9.6.0.dist-info/licenses/COPYING.rst
+/home/runner/.pyenv/versions/3.13.9/lib/python3.13/site-packages/ipython-9.7.0.dist-info/licenses/COPYING.rst
 =============================
  The IPython licensing terms
 =============================
@@ -2449,12 +2449,12 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 ipywidgets
-8.1.7
+8.1.8
 BSD License
 Jupyter Development Team
 http://jupyter.org
 Jupyter interactive widgets
-/home/runner/.pyenv/versions/3.13.9/lib/python3.13/site-packages/ipywidgets-8.1.7.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.9/lib/python3.13/site-packages/ipywidgets-8.1.8.dist-info/licenses/LICENSE
 Copyright (c) 2015 Project Jupyter Contributors
 All rights reserved.
 
@@ -3308,12 +3308,12 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 jupyterlab_widgets
-3.0.15
+3.0.16
 BSD License
 Jupyter Development Team <jupyter@googlegroups.com>
 https://github.com/jupyter-widgets/ipywidgets
 Jupyter interactive widgets for JupyterLab
-/home/runner/.pyenv/versions/3.13.9/lib/python3.13/site-packages/jupyterlab_widgets-3.0.15.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.9/lib/python3.13/site-packages/jupyterlab_widgets-3.0.16.dist-info/licenses/LICENSE
 Copyright (c) 2015 Project Jupyter Contributors
 All rights reserved.
 
@@ -3609,7 +3609,7 @@ OTHER DEALINGS IN THE SOFTWARE.
 
 
 kaleido
-1.1.0
+1.2.0
 The MIT License (MIT)
 
 Copyright (c) Plotly, Inc
@@ -3635,7 +3635,7 @@ THE SOFTWARE.
 Andrew Pikul <ajpikul@gmail.com>, Neyberson Atencio <neyberatencio@gmail.com>
 https://github.com/plotly/kaleido
 Plotly graph export library
-/home/runner/.pyenv/versions/3.13.9/lib/python3.13/site-packages/kaleido-1.1.0.dist-info/LICENSE.md
+/home/runner/.pyenv/versions/3.13.9/lib/python3.13/site-packages/kaleido-1.2.0.dist-info/LICENSE.md
 The MIT License (MIT)
 
 Copyright (c) Plotly, Inc
@@ -3800,7 +3800,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 logistro
-2.0.0
+2.0.1
 MIT License
 
 Copyright (c) 2025 GeoPozo
@@ -3826,7 +3826,7 @@ SOFTWARE.
 Andrew Pikul <ajpikul@gmail.com>, Neyberson Atencio <neyberatencio@gmail.com>
 https://github.com/geopozo/logistro
 Simple wrapper over logging for a couple basic features
-/home/runner/.pyenv/versions/3.13.9/lib/python3.13/site-packages/logistro-2.0.0.dist-info/LICENSE
+/home/runner/.pyenv/versions/3.13.9/lib/python3.13/site-packages/logistro-2.0.1.dist-info/LICENSE
 MIT License
 
 Copyright (c) 2025 GeoPozo
@@ -4133,12 +4133,12 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 narwhals
-2.10.1
+2.11.0
 MIT License
 Marco Gorelli <hello_narwhals@proton.me>
 https://github.com/narwhals-dev/narwhals
 Extremely lightweight compatibility layer between dataframe libraries
-/home/runner/.pyenv/versions/3.13.9/lib/python3.13/site-packages/narwhals-2.10.1.dist-info/licenses/LICENSE.md
+/home/runner/.pyenv/versions/3.13.9/lib/python3.13/site-packages/narwhals-2.11.0.dist-info/licenses/LICENSE.md
 MIT License
 
 Copyright (c) 2024, Marco Gorelli
@@ -9028,12 +9028,12 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 psutil
-7.1.2
+7.1.3
 BSD-3-Clause
 Giampaolo Rodola
 https://github.com/giampaolo/psutil
 Cross-platform lib for process and system monitoring.
-/home/runner/.pyenv/versions/3.13.9/lib/python3.13/site-packages/psutil-7.1.2.dist-info/LICENSE
+/home/runner/.pyenv/versions/3.13.9/lib/python3.13/site-packages/psutil-7.1.3.dist-info/LICENSE
 BSD 3-Clause License
 
 Copyright (c) 2009, Jay Loden, Dave Daeschler, Giampaolo Rodola
@@ -11675,12 +11675,12 @@ THE SOFTWARE.
 
 
 pytest
-8.4.2
-MIT License
+9.0.1
+MIT
 Holger Krekel, Bruno Oliveira, Ronny Pfannschmidt, Floris Bruynooghe, Brianna Laugher, Florian Bruhin, Others (See AUTHORS)
 https://docs.pytest.org/en/latest/
 pytest: simple powerful testing with Python
-/home/runner/.pyenv/versions/3.13.9/lib/python3.13/site-packages/pytest-8.4.2.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.9/lib/python3.13/site-packages/pytest-9.0.1.dist-info/licenses/LICENSE
 The MIT License (MIT)
 
 Copyright (c) 2004 Holger Krekel and others
@@ -14681,12 +14681,12 @@ WebSocket client for Python with low level API options
 
 
 widgetsnbextension
-4.0.14
+4.0.15
 BSD License
 Jupyter Development Team
 http://jupyter.org
 Jupyter interactive widgets for Jupyter Notebook
-/home/runner/.pyenv/versions/3.13.9/lib/python3.13/site-packages/widgetsnbextension-4.0.14.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.9/lib/python3.13/site-packages/widgetsnbextension-4.0.15.dist-info/licenses/LICENSE
 Copyright (c) 2015 Project Jupyter Contributors
 All rights reserved.
 
