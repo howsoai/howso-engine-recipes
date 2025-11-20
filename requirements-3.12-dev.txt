@@ -4,7 +4,7 @@
 #
 #    pip-compile --allow-unsafe --cert=None --client-cert=None --index-url=None --no-emit-index-url --output-file=requirements-3.12-dev.txt --pip-args=None requirements-dev.in requirements.in
 #
-amalgam-lang==25.0.2
+amalgam-lang==25.1.0
     # via howso-engine
 anyio==4.11.0
     # via
@@ -20,7 +20,7 @@ argon2-cffi-bindings==25.1.0
     # via argon2-cffi
 arrow==1.4.0
     # via isoduration
-asttokens==3.0.0
+asttokens==3.0.1
     # via stack-data
 async-lru==2.0.5
     # via jupyterlab
@@ -74,7 +74,7 @@ execnet==2.1.2
     # via pytest-xdist
 executing==2.2.1
     # via stack-data
-faker==38.0.0
+faker==38.2.0
     # via howso-engine
 fastjsonschema==2.21.2
     # via nbformat
@@ -86,11 +86,11 @@ geopandas==1.1.1
     # via -r requirements.in
 h11==0.16.0
     # via httpcore
-howso-engine==50.1.0
+howso-engine==50.2.1
     # via
     #   -r requirements.in
     #   howso-visuals
-howso-visuals==2.5.4
+howso-visuals==2.5.7
     # via -r requirements.in
 httpcore==1.0.9
     # via httpx
@@ -175,7 +175,7 @@ jupyter-server==2.17.0
     #   notebook-shim
 jupyter-server-terminals==0.5.3
     # via jupyter-server
-jupyterlab==4.4.10
+jupyterlab==4.5.0
     # via notebook
 jupyterlab-pygments==0.3.0
     # via nbconvert
@@ -219,7 +219,7 @@ mistune==3.1.4
     # via nbconvert
 mmh3==5.2.0
     # via howso-engine
-narwhals==2.11.0
+narwhals==2.12.0
     # via plotly
 nbclient==0.10.2
     # via
@@ -237,7 +237,7 @@ nest-asyncio==1.6.0
     # via ipykernel
 networkx==3.5
     # via howso-visuals
-notebook==7.4.7
+notebook==7.5.0
     # via -r requirements.in
 notebook-shim==0.2.4
     # via
@@ -397,7 +397,7 @@ rfc3987-syntax==1.1.0
     # via jsonschema
 rich==14.2.0
     # via howso-engine
-rpds-py==0.28.0
+rpds-py==0.29.0
     # via
     #   jsonschema
     #   referencing
