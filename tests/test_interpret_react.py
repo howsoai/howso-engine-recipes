@@ -15,7 +15,7 @@ def test_predicted_mean_interval(tb):
         upper_limit = (r_val + global_residual)
         lower_limit = (r_val - global_residual)
 
-        mean_gen_react = sum(gen_reacts) / len(gen_reacts)
+        mean_gen_react = gen_reacts.iloc[:, 0].mean()
         """
     )
 
