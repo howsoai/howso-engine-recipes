@@ -1,7 +1,7 @@
 babel~=2.0
 geopandas>=0.11.0
 howso-engine~=50.0
-howso-visuals~=2.0
+howso-visuals~=3.0
 ipykernel>=6.0.0
 ipyreact
 jupyter-core>=4.7.0
@@ -11,4 +11,4 @@ numpy
 pandas[parquet]~=2.0
 pmlb>=1.0
 scikit-learn
-plotly[kaleido] @ git+https://github.com/jdbeel/plotly.py@update-external-renderer-default
+plotly[kaleido]
