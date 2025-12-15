@@ -90,7 +90,7 @@ howso-engine==51.2.2
     # via
     #   -r requirements.in
     #   howso-visuals
-howso-visuals==3.0.1
+howso-visuals==3.0.2
     # via -r requirements.in
 httpcore==1.0.9
     # via httpx
@@ -476,7 +476,7 @@ typing-extensions==4.15.0
     #   howso-engine
     #   ipython
     #   referencing
-tzdata==2025.2
+tzdata==2025.3
     # via
     #   arrow
     #   faker
