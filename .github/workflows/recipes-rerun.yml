@@ -82,7 +82,7 @@ jobs:
       pull-requests: write
     env:
         GH_TOKEN: ${{ github.token }}
-        PLOTLY_RENDERER: svg
+        PLOTLY_RENDERER: png
     steps:
 
     - uses: actions/checkout@v4
