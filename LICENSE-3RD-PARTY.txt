@@ -1,10 +1,10 @@
 Faker
-39.0.0
+40.1.0
 MIT License
 joke2k
 https://github.com/joke2k/faker
 Faker is a Python package that generates fake data for you.
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/faker-39.0.0.dist-info/licenses/LICENSE.txt
+/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/faker-40.1.0.dist-info/licenses/LICENSE.txt
 Copyright (c) 2012 Daniele Faraglia
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -194,12 +194,12 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 Send2Trash
-1.8.3
+2.0.0
 BSD License
 Andrew Senetar
 https://github.com/arsenetar/send2trash
 Send file to trash natively under Mac OS X, Windows and Linux
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/Send2Trash-1.8.3.dist-info/LICENSE
+/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/send2trash-2.0.0.dist-info/licenses/LICENSE
 Copyright (c) 2017, Virgil Dupras
 All rights reserved.
 
@@ -213,12 +213,12 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
 
 
 anyio
-4.12.0
+4.12.1
 MIT
 Alex Grönholm <alex.gronholm@nextday.fi>
 https://anyio.readthedocs.io/en/stable/versionhistory.html
 High-level concurrency and networking framework on top of asyncio or Trio
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/anyio-4.12.0.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/anyio-4.12.1.dist-info/licenses/LICENSE
 The MIT License (MIT)
 
 Copyright (c) 2018 Alex Grönholm
@@ -912,12 +912,12 @@ limitations under the License.
 
 
 build
-1.3.0
+1.4.0
 MIT
 Filipe Laíns <lains@riseup.net>, Bernát Gábor <gaborjbernat@gmail.com>, layday <layday@protonmail.com>, Henry Schreiner <henryschreineriii@gmail.com>
 https://build.pypa.io
 A simple, correct Python build frontend
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/build-1.3.0.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/build-1.4.0.dist-info/licenses/LICENSE
 Copyright © 2019 Filipe Laíns <filipe.lains@gmail.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a
@@ -941,12 +941,12 @@ DEALINGS IN THE SOFTWARE.
 
 
 certifi
-2025.11.12
+2026.1.4
 Mozilla Public License 2.0 (MPL 2.0)
 Kenneth Reitz
 https://github.com/certifi/python-certifi
 Python package for providing Mozilla's CA Bundle.
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/certifi-2025.11.12.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/certifi-2026.1.4.dist-info/licenses/LICENSE
 This package contains a modified version of ca-bundle.crt:
 
 ca-bundle.crt -- Bundle of CA Root Certificates
@@ -2064,12 +2064,12 @@ Exhibit B - "Incompatible With Secondary Licenses" Notice
 
 
 geopandas
-1.1.1
+1.1.2
 BSD License
 Kelsey Jordahl <kjordahl@alum.mit.edu>
 https://github.com/geopandas/geopandas
 Geographic pandas extensions
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/geopandas-1.1.1.dist-info/licenses/LICENSE.txt
+/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/geopandas-1.1.2.dist-info/licenses/LICENSE.txt
 Copyright (c) 2013-2022, GeoPandas developers.
 All rights reserved.
 
@@ -2186,12 +2186,12 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
 
 
 humanize
-4.14.0
+4.15.0
 MIT
 Jason Moiron <jmoiron@jmoiron.net>
 https://github.com/python-humanize/humanize
 Python humanize utilities
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/humanize-4.14.0.dist-info/licenses/LICENCE
+/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/humanize-4.15.0.dist-info/licenses/LICENCE
 Copyright (c) 2010-2020 Jason Moiron and Contributors
 
 Permission is hereby granted, free of charge, to any person obtaining
@@ -2360,12 +2360,12 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 ipython
-9.8.0
+9.9.0
 BSD-3-Clause
 The IPython Development Team
 https://ipython.org
 IPython: Productive Interactive Computing
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/ipython-9.8.0.dist-info/licenses/COPYING.rst
+/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/ipython-9.9.0.dist-info/licenses/COPYING.rst
 =============================
  The IPython licensing terms
 =============================
@@ -2578,12 +2578,12 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 json5
-0.12.1
+0.13.0
 Apache Software License
 Dirk Pranke <dpranke@chromium.org>
 https://github.com/dpranke/pyjson5
 A Python implementation of the JSON5 data format.
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/json5-0.12.1.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/json5-0.13.0.dist-info/licenses/LICENSE
 Files: Everything except for the benchmarks/*.json files.
 
 Apache License
@@ -2903,12 +2903,12 @@ THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 jsonschema
-4.25.1
+4.26.0
 MIT
 Julian Berman <Julian+jsonschema@GrayVines.com>
 https://github.com/python-jsonschema/jsonschema
 An implementation of JSON Schema validation for Python
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/jsonschema-4.25.1.dist-info/licenses/COPYING
+/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/jsonschema-4.26.0.dist-info/licenses/COPYING
 Copyright (c) 2013 Julian Berman
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -3036,12 +3036,12 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 jupyter_client
-8.7.0
+8.8.0
 BSD License
 Jupyter Development Team <jupyter@googlegroups.com>
 https://jupyter.org
 Jupyter protocol implementation and client libraries
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/jupyter_client-8.7.0.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/jupyter_client-8.8.0.dist-info/licenses/LICENSE
 BSD 3-Clause License
 
 - Copyright (c) 2001-2015, IPython Development Team
@@ -3194,12 +3194,12 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 jupyterlab
-4.5.1
+4.5.2
 BSD License
 Jupyter Development Team <jupyter@googlegroups.com>
 https://jupyter.org
 JupyterLab computational environment
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/jupyterlab-4.5.1.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/jupyterlab-4.5.2.dist-info/licenses/LICENSE
 Copyright (c) 2015-2025 Project Jupyter Contributors
 All rights reserved.
 
@@ -4772,12 +4772,12 @@ IN THE SOFTWARE.
 
 
 mistune
-3.1.4
+3.2.0
 BSD License
 Hsiaoming Yang <me@lepture.com>
 https://github.com/lepture/mistune
 A sane and fast Markdown parser with useful plugins and renderers
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/mistune-3.1.4.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/mistune-3.2.0.dist-info/licenses/LICENSE
 Copyright (c) 2014, Hsiaoming Yang
 
 All rights reserved.
@@ -4824,12 +4824,12 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 narwhals
-2.14.0
+2.15.0
 MIT License
 Marco Gorelli <hello_narwhals@proton.me>
 https://github.com/narwhals-dev/narwhals
 Extremely lightweight compatibility layer between dataframe libraries
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/narwhals-2.14.0.dist-info/licenses/LICENSE.md
+/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/narwhals-2.15.0.dist-info/licenses/LICENSE.md
 MIT License
 
 Copyright (c) 2024, Marco Gorelli
@@ -4854,12 +4854,12 @@ SOFTWARE.
 
 
 nbclient
-0.10.2
+0.10.4
 BSD License
 Jupyter Development Team <jupyter@googlegroups.com>
 https://jupyter.org
 A client library for executing notebooks. Formerly nbconvert's ExecutePreprocessor.
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/nbclient-0.10.2.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/nbclient-0.10.4.dist-info/licenses/LICENSE
 BSD 3-Clause License
 
 Copyright (c) 2020-, Jupyter Development Team
@@ -5053,12 +5053,12 @@ NetworkX is distributed with the 3-clause BSD license.
 
 
 notebook
-7.5.1
+7.5.2
 BSD License
 Jupyter Development Team <jupyter@googlegroups.com>
 https://github.com/jupyter/notebook
 Jupyter Notebook - A web-based notebook environment for interactive computing
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/notebook-7.5.1.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/notebook-7.5.2.dist-info/licenses/LICENSE
 BSD 3-Clause License
 
 - Copyright (c) 2001-2015, IPython Development Team
@@ -7784,12 +7784,12 @@ ISC LICENSE
 
 
 pillow
-12.0.0
+12.1.0
 MIT-CMU
 "Jeffrey A. Clark" <aclark@aclark.net>
 https://python-pillow.github.io
 Python Imaging Library (fork)
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/pillow-12.0.0.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/pillow-12.1.0.dist-info/licenses/LICENSE
 The Python Imaging Library (PIL) is
 
     Copyright © 1997-2011 by Secret Labs AB
@@ -9383,12 +9383,12 @@ SOFTWARE.
 
 
 plotly
-6.5.0
+6.5.1
 MIT License
 Chris P <chris@plot.ly>
 https://plotly.com/python/
 An open-source interactive data visualization library for Python
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/plotly-6.5.0.dist-info/licenses/LICENSE.txt
+/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/plotly-6.5.1.dist-info/licenses/LICENSE.txt
 MIT License
 
 Copyright (c) 2016-2024 Plotly Technologies Inc.
@@ -9473,12 +9473,12 @@ SOFTWARE.
 
 
 prometheus_client
-0.23.1
+0.24.0
 Apache-2.0 AND BSD-2-Clause
 The Prometheus Authors <prometheus-developers@googlegroups.com>
 https://github.com/prometheus/client_python
 Python client for the Prometheus monitoring system.
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/prometheus_client-0.23.1.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/prometheus_client-0.24.0.dist-info/licenses/LICENSE
                                  Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
@@ -9719,12 +9719,12 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 psutil
-7.1.3
+7.2.1
 BSD-3-Clause
 Giampaolo Rodola
 https://github.com/giampaolo/psutil
 Cross-platform lib for process and system monitoring.
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/psutil-7.1.3.dist-info/LICENSE
+/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/psutil-7.2.1.dist-info/LICENSE
 BSD 3-Clause License
 
 Copyright (c) 2009, Jay Loden, Dave Daeschler, Giampaolo Rodola
@@ -9757,12 +9757,12 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 psygnal
-0.15.0
+0.15.1
 BSD License
 Talley Lambert <talley.lambert@gmail.com>
 https://github.com/pyapp-kit/psygnal
 Fast python callback/event system modeled after Qt Signals
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/psygnal-0.15.0.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/psygnal-0.15.1.dist-info/licenses/LICENSE
 Copyright (c) 2021, Talley Lambert
 
 Redistribution and use in source and binary forms, with or without
@@ -12217,12 +12217,12 @@ OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 pynndescent
-0.5.13
-BSD
-Leland McInnes
+0.6.0
+BSD-2-Clause
+Leland McInnes <leland.mcinnes@gmail.com>
 http://github.com/lmcinnes/pynndescent
 Nearest Neighbor Descent
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/pynndescent-0.5.13.dist-info/LICENSE
+/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/pynndescent-0.6.0.dist-info/licenses/LICENSE
 BSD 2-Clause License
 
 Copyright (c) 2018, Leland McInnes
@@ -12281,12 +12281,14 @@ SOFTWARE.
 
 
 pyparsing
-3.2.5
+3.3.1
 MIT
 Paul McGuire <ptmcg.gm+pyparsing@gmail.com>
 https://github.com/pyparsing/pyparsing/
 pyparsing - Classes and methods to define and execute parsing grammars
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/pyparsing-3.2.5.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/pyparsing-3.3.1.dist-info/licenses/LICENSE
+Copyright (c) 2003-2025  Paul McGuire
+
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
 "Software"), to deal in the Software without restriction, including
@@ -13302,12 +13304,12 @@ requirements of the license of GCC.
 
 
 scipy
-1.16.3
+1.17.0
 BSD License
 UNKNOWN
 https://scipy.org/
 Fundamental algorithms for scientific computing in Python
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/scipy-1.16.3.dist-info/LICENSE.txt
+/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/scipy-1.17.0.dist-info/LICENSE.txt
 Copyright (c) 2001-2002 Enthought, Inc. 2003, SciPy Developers.
 All rights reserved.
 
@@ -14465,12 +14467,12 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
 soupsieve
-2.8
+2.8.1
 MIT
 Isaac Muse <Isaac.Muse@gmail.com>
 https://github.com/facelessuser/soupsieve
 A modern CSS selector implementation for Beautiful Soup.
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/soupsieve-2.8.dist-info/licenses/LICENSE.md
+/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/soupsieve-2.8.1.dist-info/licenses/LICENSE.md
 MIT License
 
 Copyright (c) 2018 - 2025 Isaac Muse <isaacmuse@gmail.com>
@@ -15251,12 +15253,12 @@ limitations under the License.
 
 
 umap-learn
-0.5.9.post2
+0.5.11
 BSD
 UNKNOWN
 http://github.com/lmcinnes/umap
 Uniform Manifold Approximation and Projection
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/umap_learn-0.5.9.post2.dist-info/licenses/LICENSE.txt
+/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/umap_learn-0.5.11.dist-info/licenses/LICENSE.txt
 BSD 3-Clause License
 
 Copyright (c) 2017, Leland McInnes
@@ -15319,12 +15321,12 @@ SOFTWARE.
 
 
 urllib3
-2.6.2
+2.6.3
 MIT
 Andrey Petrov <andrey.petrov@shazow.net>
 https://github.com/urllib3/urllib3/blob/main/CHANGES.rst
 HTTP library with thread-safe connection pooling, file post, and more.
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/urllib3-2.6.2.dist-info/licenses/LICENSE.txt
+/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/urllib3-2.6.3.dist-info/licenses/LICENSE.txt
 MIT License
 
 Copyright (c) 2008-2020 Andrey Petrov and contributors.
