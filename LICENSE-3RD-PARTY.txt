@@ -1,10 +1,10 @@
 Faker
-40.1.0
+40.1.2
 MIT License
 joke2k
 https://github.com/joke2k/faker
 Faker is a Python package that generates fake data for you.
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/faker-40.1.0.dist-info/licenses/LICENSE.txt
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/faker-40.1.2.dist-info/licenses/LICENSE.txt
 Copyright (c) 2012 Daniele Faraglia
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -32,7 +32,7 @@ BSD License
 UNKNOWN
 https://github.com/pallets/jinja/
 A very fast and expressive template engine.
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/jinja2-3.1.6.dist-info/licenses/LICENSE.txt
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/jinja2-3.1.6.dist-info/licenses/LICENSE.txt
 Copyright 2007 Pallets
 
 Redistribution and use in source and binary forms, with or without
@@ -69,7 +69,7 @@ BSD-3-Clause
 UNKNOWN
 https://github.com/pallets/markupsafe/
 Safely add untrusted strings to HTML/XML markup.
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/markupsafe-3.0.3.dist-info/licenses/LICENSE.txt
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/markupsafe-3.0.3.dist-info/licenses/LICENSE.txt
 Copyright 2010 Pallets
 
 Redistribution and use in source and binary forms, with or without
@@ -101,12 +101,12 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 PyJWT
-2.10.1
-MIT License
+2.11.0
+MIT
 Jose Padilla <hello@jpadilla.com>
 https://github.com/jpadilla/pyjwt
 JSON Web Token implementation in Python
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/PyJWT-2.10.1.dist-info/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/pyjwt-2.11.0.dist-info/licenses/LICENSE
 The MIT License (MIT)
 
 Copyright (c) 2015-2022 José Padilla
@@ -136,7 +136,7 @@ MIT License
 Kirill Simonov
 https://pyyaml.org/
 YAML parser and emitter for Python
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/pyyaml-6.0.3.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/pyyaml-6.0.3.dist-info/licenses/LICENSE
 Copyright (c) 2017-2021 Ingy döt Net
 Copyright (c) 2006-2016 Kirill Simonov
 
@@ -165,7 +165,7 @@ BSD License
 Georg Brandl <georg@python.org>
 https://pygments.org
 Pygments is a syntax highlighting package written in Python.
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/pygments-2.19.2.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/pygments-2.19.2.dist-info/licenses/LICENSE
 Copyright (c) 2006-2022 by the respective authors (see AUTHORS file).
 All rights reserved.
 
@@ -194,12 +194,12 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 Send2Trash
-2.0.0
-BSD License
-Andrew Senetar
+2.1.0
+BSD-3-Clause
+Andrew Senetar <arsenetar@voltaicideas.net>
 https://github.com/arsenetar/send2trash
 Send file to trash natively under Mac OS X, Windows and Linux
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/send2trash-2.0.0.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/send2trash-2.1.0.dist-info/licenses/LICENSE
 Copyright (c) 2017, Virgil Dupras
 All rights reserved.
 
@@ -218,7 +218,7 @@ MIT
 Alex Grönholm <alex.gronholm@nextday.fi>
 https://anyio.readthedocs.io/en/stable/versionhistory.html
 High-level concurrency and networking framework on top of asyncio or Trio
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/anyio-4.12.1.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/anyio-4.12.1.dist-info/licenses/LICENSE
 The MIT License (MIT)
 
 Copyright (c) 2018 Alex Grönholm
@@ -247,7 +247,7 @@ MIT License
 Trevor Manz <trevor.j.manz@gmail.com>
 https://github.com/manzt/anywidget
 custom jupyter widgets made easy
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/anywidget-0.9.21.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/anywidget-0.9.21.dist-info/licenses/LICENSE
 MIT License
 
 Copyright (c) 2022-2024 Trevor Manz
@@ -277,7 +277,7 @@ MIT
 Hynek Schlawack <hs@ox.cx>
 https://github.com/hynek/argon2-cffi/blob/main/CHANGELOG.md
 Argon2 for Python
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/argon2_cffi-25.1.0.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/argon2_cffi-25.1.0.dist-info/licenses/LICENSE
 The MIT License (MIT)
 
 Copyright (c) 2015 Hynek Schlawack and the argon2-cffi contributors
@@ -307,7 +307,7 @@ MIT
 Hynek Schlawack <hs@ox.cx>
 https://github.com/hynek/argon2-cffi-bindings/blob/main/CHANGELOG.md
 Low-level CFFI bindings for Argon2
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/argon2_cffi_bindings-25.1.0.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/argon2_cffi_bindings-25.1.0.dist-info/licenses/LICENSE
 The MIT License (MIT)
 
 Copyright (c) 2021 Hynek Schlawack
@@ -337,7 +337,7 @@ Apache Software License
 Chris Smith <crsmithdev@gmail.com>
 https://github.com/arrow-py/arrow
 Better dates & times for Python
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/arrow-1.4.0.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/arrow-1.4.0.dist-info/licenses/LICENSE
                                  Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
@@ -547,7 +547,7 @@ Apache 2.0
 Dmitry Sagalovskiy, Grist Labs
 https://github.com/gristlabs/asttokens
 Annotate AST trees with source code positions
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/asttokens-3.0.1.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/asttokens-3.0.1.dist-info/licenses/LICENSE
                                  Apache License
                            Version 2.0, January 2004
                         https://www.apache.org/licenses/
@@ -752,12 +752,12 @@ Annotate AST trees with source code positions
 
 
 async-lru
-2.0.5
+2.1.0
 MIT License
 UNKNOWN
 https://github.com/aio-libs/async-lru
 Simple LRU cache for asyncio
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/async_lru-2.0.5.dist-info/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/async_lru-2.1.0.dist-info/licenses/LICENSE
 The MIT License
 
 Copyright (c) 2018 aio-libs team https://github.com/aio-libs/
@@ -789,7 +789,7 @@ MIT
 Hynek Schlawack <hs@ox.cx>
 https://www.attrs.org/en/stable/changelog.html
 Classes Without Boilerplate
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/attrs-25.4.0.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/attrs-25.4.0.dist-info/licenses/LICENSE
 The MIT License (MIT)
 
 Copyright (c) 2015 Hynek Schlawack and the attrs contributors
@@ -814,13 +814,13 @@ SOFTWARE.
 
 
 babel
-2.17.0
+2.18.0
 BSD License
 Armin Ronacher
 https://babel.pocoo.org/
 Internationalization utilities
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/babel-2.17.0.dist-info/LICENSE
-Copyright (c) 2013-2025 by the Babel Team, see AUTHORS for more information.
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/babel-2.18.0.dist-info/licenses/LICENSE
+Copyright (c) 2013-2026 by the Babel Team, see AUTHORS for more information.
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions
@@ -855,7 +855,7 @@ MIT License
 Leonard Richardson <leonardr@segfault.org>
 https://www.crummy.com/software/BeautifulSoup/bs4/
 Screen-scraping library
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/beautifulsoup4-4.14.3.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/beautifulsoup4-4.14.3.dist-info/licenses/LICENSE
 Beautiful Soup is made available under the MIT license:
 
  Copyright (c) Leonard Richardson
@@ -895,7 +895,7 @@ Apache Software License
 UNKNOWN
 https://github.com/mozilla/bleach
 An easy safelist-based HTML-sanitizing tool.
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/bleach-6.3.0.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/bleach-6.3.0.dist-info/licenses/LICENSE
 Copyright (c) 2014-2017, Mozilla Foundation
 
 Licensed under the Apache License, Version 2.0 (the "License");
@@ -917,7 +917,7 @@ MIT
 Filipe Laíns <lains@riseup.net>, Bernát Gábor <gaborjbernat@gmail.com>, layday <layday@protonmail.com>, Henry Schreiner <henryschreineriii@gmail.com>
 https://build.pypa.io
 A simple, correct Python build frontend
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/build-1.4.0.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/build-1.4.0.dist-info/licenses/LICENSE
 Copyright © 2019 Filipe Laíns <filipe.lains@gmail.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a
@@ -946,7 +946,7 @@ Mozilla Public License 2.0 (MPL 2.0)
 Kenneth Reitz
 https://github.com/certifi/python-certifi
 Python package for providing Mozilla's CA Bundle.
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/certifi-2026.1.4.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/certifi-2026.1.4.dist-info/licenses/LICENSE
 This package contains a modified version of ca-bundle.crt:
 
 ca-bundle.crt -- Bundle of CA Root Certificates
@@ -975,7 +975,7 @@ MIT
 Armin Rigo, Maciej Fijalkowski
 https://cffi.readthedocs.io/en/latest/whatsnew.html
 Foreign Function Interface for Python calling C code.
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/cffi-2.0.0.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/cffi-2.0.0.dist-info/licenses/LICENSE
 
 Except when otherwise stated (look for LICENSE files in directories or
 information at the beginning of each file) all software and
@@ -1007,7 +1007,7 @@ MIT
 "Ahmed R. TAHRI" <tahri.ahmed@proton.me>
 https://github.com/jawah/charset_normalizer/blob/master/CHANGELOG.md
 The Real First Universal Charset Detector. Open, modern and actively maintained alternative to Chardet.
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/charset_normalizer-3.4.4.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/charset_normalizer-3.4.4.dist-info/licenses/LICENSE
 MIT License
 
 Copyright (c) 2025 TAHRI Ahmed R.
@@ -1061,7 +1061,7 @@ OTHER DEALINGS IN THE SOFTWARE.
 Andrew Pikul <ajpikul@gmail.com>, Neyberson Atencio <neyberatencio@gmail.com>
 https://github.com/plotly/choreographer
 Devtools Protocol implementation for chrome.
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/choreographer-1.2.1.dist-info/licenses/LICENSE.md
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/choreographer-1.2.1.dist-info/licenses/LICENSE.md
 # MIT License
 
 Copyright (c) Plotly, Inc.
@@ -1094,7 +1094,7 @@ BSD-3-Clause
 UNKNOWN
 https://github.com/pallets/click/
 Composable command line interface toolkit
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/click-8.3.1.dist-info/licenses/LICENSE.txt
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/click-8.3.1.dist-info/licenses/LICENSE.txt
 Copyright 2014 Pallets
 
 Redistribution and use in source and binary forms, with or without
@@ -1131,7 +1131,7 @@ BSD License
 Jupyter contributors
 https://github.com/ipython/comm
 Jupyter Python Comm implementation, for usage in ipykernel, xeus-python etc.
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/comm-0.2.3.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/comm-0.2.3.dist-info/licenses/LICENSE
 BSD 3-Clause License
 
 Copyright (c) 2022, Jupyter
@@ -1169,7 +1169,7 @@ BSD License
 Ian Thomas <ianthomas23@gmail.com>
 https://github.com/contourpy/contourpy
 Python library for calculating contours of 2D quadrilateral grids
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/contourpy-1.3.3.dist-info/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/contourpy-1.3.3.dist-info/LICENSE
 BSD 3-Clause License
 
 Copyright (c) 2021-2025, ContourPy Developers.
@@ -1202,12 +1202,12 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 cryptography
-46.0.3
+46.0.4
 Apache-2.0 OR BSD-3-Clause
 The Python Cryptographic Authority and individual contributors <cryptography-dev@python.org>
 https://github.com/pyca/cryptography
 cryptography is a package which provides cryptographic recipes and primitives to Python developers.
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/cryptography-46.0.3.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/cryptography-46.0.4.dist-info/licenses/LICENSE
 This software is made available under the terms of *either* of the licenses
 found in LICENSE.APACHE or LICENSE.BSD. Contributions to cryptography are made
 under the terms of *both* these licenses.
@@ -1219,7 +1219,7 @@ BSD License
 Thomas A Caswell <matplotlib-users@python.org>
 https://matplotlib.org/cycler/
 Composable style cycles
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/cycler-0.12.1.dist-info/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/cycler-0.12.1.dist-info/LICENSE
 Copyright (c) 2015, matplotlib project
 All rights reserved.
 
@@ -1249,12 +1249,12 @@ OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 debugpy
-1.8.19
+1.8.20
 MIT License
 Microsoft Corporation
 https://aka.ms/debugpy
 An implementation of the Debug Adapter Protocol for Python
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/debugpy-1.8.19.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/debugpy-1.8.20.dist-info/licenses/LICENSE
     debugpy
 
     Copyright (c) Microsoft Corporation
@@ -1287,7 +1287,7 @@ BSD License
 Michele Simionato <michele.simionato@gmail.com>
 UNKNOWN
 Decorators for Humans
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/decorator-5.2.1.dist-info/LICENSE.txt
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/decorator-5.2.1.dist-info/LICENSE.txt
 Copyright (c) 2005-2025, Michele Simionato
 All rights reserved.
 
@@ -1323,7 +1323,7 @@ Python Software Foundation License
 Christian Heimes
 https://github.com/tiran/defusedxml
 XML bomb protection for Python stdlib modules
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/defusedxml-0.7.1.dist-info/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/defusedxml-0.7.1.dist-info/LICENSE
 PYTHON SOFTWARE FOUNDATION LICENSE VERSION 2
 --------------------------------------------
 
@@ -1381,7 +1381,7 @@ Apache Software License
 Brian Curtin
 http://deprecation.readthedocs.io/
 A library to handle automated deprecations
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/deprecation-2.1.0.dist-info/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/deprecation-2.1.0.dist-info/LICENSE
                                  Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
@@ -1591,7 +1591,7 @@ MIT License
 Alex Hall
 https://github.com/alexmojaki/executing
 Get the currently executing AST node of a frame, and other information
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/executing-2.2.1.dist-info/LICENSE.txt
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/executing-2.2.1.dist-info/LICENSE.txt
 MIT License
 
 Copyright (c) 2019 Alex Hall
@@ -1621,7 +1621,7 @@ BSD License
 Michal Horejsek
 https://github.com/horejsek/python-fastjsonschema
 Fastest Python implementation of JSON schema
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/fastjsonschema-2.21.2.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/fastjsonschema-2.21.2.dist-info/licenses/LICENSE
 Copyright (c) 2018, Michal Horejsek
 All rights reserved.
 
@@ -1657,7 +1657,7 @@ MIT
 Just van Rossum
 http://github.com/fonttools/fonttools
 Tools to manipulate font files
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/fonttools-4.61.1.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/fonttools-4.61.1.dist-info/licenses/LICENSE
 MIT License
 
 Copyright (c) 2017 Just van Rossum
@@ -1687,7 +1687,7 @@ Mozilla Public License 2.0 (MPL 2.0)
 ypcrts
 https://github.com/ypcrts/fqdn
 Validates fully-qualified domain names against RFC 1123, so that they are acceptable to modern bowsers
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/fqdn-1.5.1.dist-info/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/fqdn-1.5.1.dist-info/LICENSE
 Mozilla Public License Version 2.0
 ==================================
 
@@ -2069,7 +2069,7 @@ BSD License
 Kelsey Jordahl <kjordahl@alum.mit.edu>
 https://github.com/geopandas/geopandas
 Geographic pandas extensions
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/geopandas-1.1.2.dist-info/licenses/LICENSE.txt
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/geopandas-1.1.2.dist-info/licenses/LICENSE.txt
 Copyright (c) 2013-2022, GeoPandas developers.
 All rights reserved.
 
@@ -2103,7 +2103,7 @@ MIT License
 Nathaniel J. Smith
 https://github.com/python-hyper/h11
 A pure-Python, bring-your-own-I/O implementation of HTTP/1.1
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/h11-0.16.0.dist-info/licenses/LICENSE.txt
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/h11-0.16.0.dist-info/licenses/LICENSE.txt
 The MIT License (MIT)
 
 Copyright (c) 2016 Nathaniel J. Smith <njs@pobox.com> and other contributors
@@ -2134,7 +2134,7 @@ BSD-3-Clause
 Tom Christie <tom@tomchristie.com>
 https://www.encode.io/httpcore/
 A minimal low-level HTTP client.
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/httpcore-1.0.9.dist-info/licenses/LICENSE.md
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/httpcore-1.0.9.dist-info/licenses/LICENSE.md
 Copyright © 2020, [Encode OSS Ltd](https://www.encode.io/).
 All rights reserved.
 
@@ -2170,7 +2170,7 @@ BSD License
 Tom Christie <tom@tomchristie.com>
 https://github.com/encode/httpx
 The next generation HTTP client.
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/httpx-0.28.1.dist-info/licenses/LICENSE.md
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/httpx-0.28.1.dist-info/licenses/LICENSE.md
 Copyright © 2019, [Encode OSS Ltd](https://www.encode.io/).
 All rights reserved.
 
@@ -2191,7 +2191,7 @@ MIT
 Jason Moiron <jmoiron@jmoiron.net>
 https://github.com/python-humanize/humanize
 Python humanize utilities
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/humanize-4.15.0.dist-info/licenses/LICENCE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/humanize-4.15.0.dist-info/licenses/LICENCE
 Copyright (c) 2010-2020 Jason Moiron and Contributors
 
 Permission is hereby granted, free of charge, to any person obtaining
@@ -2220,7 +2220,7 @@ BSD-3-Clause
 Kim Davies <kim+pypi@gumleaf.org>
 https://github.com/kjd/idna
 Internationalized Domain Names in Applications (IDNA)
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/idna-3.11.dist-info/licenses/LICENSE.md
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/idna-3.11.dist-info/licenses/LICENSE.md
 BSD 3-Clause License
 
 Copyright (c) 2013-2025, Kim Davies and contributors.
@@ -2260,7 +2260,7 @@ MIT
 Ronny Pfannschmidt <opensource@ronnypfannschmidt.de>, Holger Krekel <holger.krekel@gmail.com>
 https://github.com/pytest-dev/iniconfig
 brain-dead simple config-ini parsing
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/iniconfig-2.3.0.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/iniconfig-2.3.0.dist-info/licenses/LICENSE
 The MIT License (MIT)
 
 Copyright (c) 2010 - 2023 Holger Krekel and others
@@ -2290,7 +2290,7 @@ BSD-3-Clause
 IPython Development Team <ipython-dev@scipy.org>
 https://ipython.org
 IPython Kernel for Jupyter
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/ipykernel-7.1.0.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/ipykernel-7.1.0.dist-info/licenses/LICENSE
 BSD 3-Clause License
 
 Copyright (c) 2015, IPython Development Team
@@ -2329,7 +2329,7 @@ BSD License
 "Maarten A. Breddels" <maartenbreddels@gmail.com>
 https://github.com/widgetti/ipyreact
 React for ipywidgets that just works
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/ipyreact-0.5.0.dist-info/licenses/LICENSE.txt
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/ipyreact-0.5.0.dist-info/licenses/LICENSE.txt
 Copyright (c) 2023 Maarten A. Breddels
 All rights reserved.
 
@@ -2360,12 +2360,12 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 ipython
-9.9.0
+9.10.0
 BSD-3-Clause
 The IPython Development Team
 https://ipython.org
 IPython: Productive Interactive Computing
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/ipython-9.9.0.dist-info/licenses/COPYING.rst
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/ipython-9.10.0.dist-info/licenses/COPYING.rst
 =============================
  The IPython licensing terms
 =============================
@@ -2415,7 +2415,7 @@ BSD License
 The IPython Development Team <ipython-dev@python.org>
 https://github.com/ipython/ipython-pygments-lexers
 Defines a variety of Pygments lexers for highlighting IPython code.
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/ipython_pygments_lexers-1.1.1.dist-info/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/ipython_pygments_lexers-1.1.1.dist-info/LICENSE
 BSD 3-Clause License
 
 - Copyright (c) 2012-Present, IPython Development Team
@@ -2454,7 +2454,7 @@ BSD License
 Jupyter Development Team
 http://jupyter.org
 Jupyter interactive widgets
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/ipywidgets-8.1.8.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/ipywidgets-8.1.8.dist-info/licenses/LICENSE
 Copyright (c) 2015 Project Jupyter Contributors
 All rights reserved.
 
@@ -2490,7 +2490,7 @@ ISC License (ISCL)
 Víctor Muñoz
 https://github.com/bolsote/isoduration
 Operations with ISO 8601 durations
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/isoduration-20.11.0.dist-info/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/isoduration-20.11.0.dist-info/LICENSE
 Copyright (c) 2020 Víctor Muñoz <victorm@marshland.es>
 
 Permission to use, copy, modify, and distribute this software for any
@@ -2512,7 +2512,7 @@ MIT License
 David Halter
 https://github.com/davidhalter/jedi
 An autocompletion tool for Python that can be used for text editors.
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/jedi-0.19.2.dist-info/LICENSE.txt
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/jedi-0.19.2.dist-info/LICENSE.txt
 All contributions towards Jedi are MIT licensed.
 
 -------------------------------------------------------------------------------
@@ -2545,7 +2545,7 @@ BSD-3-Clause
 Gael Varoquaux <gael.varoquaux@normalesup.org>
 https://joblib.readthedocs.io
 Lightweight pipelining with Python functions
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/joblib-1.5.3.dist-info/licenses/LICENSE.txt
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/joblib-1.5.3.dist-info/licenses/LICENSE.txt
 BSD 3-Clause License
 
 Copyright (c) 2008-2021, The joblib developers.
@@ -2583,7 +2583,7 @@ Apache Software License
 Dirk Pranke <dpranke@chromium.org>
 https://github.com/dpranke/pyjson5
 A Python implementation of the JSON5 data format.
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/json5-0.13.0.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/json5-0.13.0.dist-info/licenses/LICENSE
 Files: Everything except for the benchmarks/*.json files.
 
 Apache License
@@ -2873,7 +2873,7 @@ BSD License
 Stefan Kögl
 https://github.com/stefankoegl/python-json-pointer
 Identify specific nodes in a JSON document (RFC 6901) 
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/jsonpointer-3.0.0.dist-info/LICENSE.txt
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/jsonpointer-3.0.0.dist-info/LICENSE.txt
 Copyright (c) 2011 Stefan Kögl <stefan@skoegl.net>
 All rights reserved.
 
@@ -2908,7 +2908,7 @@ MIT
 Julian Berman <Julian+jsonschema@GrayVines.com>
 https://github.com/python-jsonschema/jsonschema
 An implementation of JSON Schema validation for Python
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/jsonschema-4.26.0.dist-info/licenses/COPYING
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/jsonschema-4.26.0.dist-info/licenses/COPYING
 Copyright (c) 2013 Julian Berman
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -2936,7 +2936,7 @@ MIT
 Julian Berman <Julian+jsonschema-specifications@GrayVines.com>
 https://github.com/python-jsonschema/jsonschema-specifications
 The JSON Schema meta-schemas and vocabularies, exposed as a Registry
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/jsonschema_specifications-2025.9.1.dist-info/licenses/COPYING
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/jsonschema_specifications-2025.9.1.dist-info/licenses/COPYING
 Copyright (c) 2022 Julian Berman
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -2964,7 +2964,7 @@ BSD License
 Jupyter Development Team <jupyter@googlegroups.com>
 http://jupyter.org
 Jupyter Event System library
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/jupyter_events-0.12.0.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/jupyter_events-0.12.0.dist-info/licenses/LICENSE
 BSD 3-Clause License
 
 Copyright (c) 2022-, Jupyter Development Team
@@ -3003,7 +3003,7 @@ BSD License
 jupyter-lsp Contributors
 https://github.com/jupyter-lsp/jupyterlab-lsp/issues
 Multi-Language Server WebSocket proxy for Jupyter Notebook/Lab server
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/jupyter_lsp-2.3.0.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/jupyter_lsp-2.3.0.dist-info/licenses/LICENSE
 BSD 3-Clause License
 
 Copyright (c) 2022, jupyter-lsp contributors
@@ -3041,7 +3041,7 @@ BSD License
 Jupyter Development Team <jupyter@googlegroups.com>
 https://jupyter.org
 Jupyter protocol implementation and client libraries
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/jupyter_client-8.8.0.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/jupyter_client-8.8.0.dist-info/licenses/LICENSE
 BSD 3-Clause License
 
 - Copyright (c) 2001-2015, IPython Development Team
@@ -3081,7 +3081,7 @@ BSD-3-Clause
 Jupyter Development Team <jupyter@googlegroups.org>
 https://jupyter.org
 Jupyter core package. A base package on which Jupyter projects rely.
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/jupyter_core-5.9.1.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/jupyter_core-5.9.1.dist-info/licenses/LICENSE
 BSD 3-Clause License
 
 - Copyright (c) 2015-, Jupyter Development Team
@@ -3120,7 +3120,7 @@ BSD License
 Jupyter Development Team <jupyter@googlegroups.com>
 https://jupyter-server.readthedocs.io
 The backend—i.e. core services, APIs, and REST endpoints—to Jupyter web applications.
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/jupyter_server-2.17.0.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/jupyter_server-2.17.0.dist-info/licenses/LICENSE
 BSD 3-Clause License
 
 - Copyright (c) 2001-2015, IPython Development Team
@@ -3155,12 +3155,12 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 jupyter_server_terminals
-0.5.3
+0.5.4
 BSD License
 Jupyter Development Team <jupyter@googlegroups.com>
 https://jupyter.org
 A Jupyter Server Extension Providing Terminals.
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/jupyter_server_terminals-0.5.3.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/jupyter_server_terminals-0.5.4.dist-info/licenses/LICENSE
 BSD 3-Clause License
 
 - Copyright (c) 2021-, Jupyter Development Team
@@ -3194,12 +3194,12 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 jupyterlab
-4.5.2
+4.5.3
 BSD License
 Jupyter Development Team <jupyter@googlegroups.com>
 https://jupyter.org
 JupyterLab computational environment
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/jupyterlab-4.5.2.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/jupyterlab-4.5.3.dist-info/licenses/LICENSE
 Copyright (c) 2015-2025 Project Jupyter Contributors
 All rights reserved.
 
@@ -3241,7 +3241,7 @@ BSD License
 Jupyter Development Team <jupyter@googlegroups.com>
 https://github.com/jupyterlab/jupyterlab_pygments
 Pygments theme using JupyterLab CSS variables
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/jupyterlab_pygments-0.3.0.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/jupyterlab_pygments-0.3.0.dist-info/licenses/LICENSE
 Copyright (c) 2015 Project Jupyter Contributors
 All rights reserved.
 
@@ -3277,7 +3277,7 @@ BSD License
 Jupyter Development Team <jupyter@googlegroups.com>
 https://jupyterlab-server.readthedocs.io
 A set of server components for JupyterLab and JupyterLab like applications.
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/jupyterlab_server-2.28.0.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/jupyterlab_server-2.28.0.dist-info/licenses/LICENSE
 Copyright (c) 2015-2017, Project Jupyter Contributors
 All rights reserved.
 
@@ -3313,7 +3313,7 @@ BSD License
 Jupyter Development Team <jupyter@googlegroups.com>
 https://github.com/jupyter-widgets/ipywidgets
 Jupyter interactive widgets for JupyterLab
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/jupyterlab_widgets-3.0.16.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/jupyterlab_widgets-3.0.16.dist-info/licenses/LICENSE
 Copyright (c) 2015 Project Jupyter Contributors
 All rights reserved.
 
@@ -3635,7 +3635,7 @@ THE SOFTWARE.
 Andrew Pikul <ajpikul@gmail.com>, Neyberson Atencio <neyberatencio@gmail.com>
 https://github.com/plotly/kaleido
 Plotly graph export library
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/kaleido-1.2.0.dist-info/LICENSE.md
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/kaleido-1.2.0.dist-info/LICENSE.md
 The MIT License (MIT)
 
 Copyright (c) Plotly, Inc
@@ -3665,7 +3665,7 @@ BSD License
 The Nucleic Development Team <sccolbert@gmail.com>
 https://github.com/nucleic/kiwi
 A fast implementation of the Cassowary constraint solver
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/kiwisolver-1.4.9.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/kiwisolver-1.4.9.dist-info/licenses/LICENSE
 =========================
  The Kiwi licensing terms
 =========================
@@ -3745,7 +3745,7 @@ MIT License
 Erez Shinan <erezshin@gmail.com>
 https://github.com/lark-parser/lark
 a modern parsing library
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/lark-1.3.1.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/lark-1.3.1.dist-info/licenses/LICENSE
 Copyright © 2017 Erez Shinan
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
@@ -3772,7 +3772,7 @@ BSD-2-Clause AND Apache-2.0 WITH LLVM-exception
 UNKNOWN
 http://llvmlite.readthedocs.io
 lightweight wrapper around basic LLVM functionality
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/llvmlite-0.46.0.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/llvmlite-0.46.0.dist-info/licenses/LICENSE
 Copyright (c) 2014, Anaconda Inc.
 All rights reserved.
 
@@ -3826,7 +3826,7 @@ SOFTWARE.
 Andrew Pikul <ajpikul@gmail.com>, Neyberson Atencio <neyberatencio@gmail.com>
 https://github.com/geopozo/logistro
 Simple wrapper over logging for a couple basic features
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/logistro-2.0.1.dist-info/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/logistro-2.0.1.dist-info/LICENSE
 MIT License
 
 Copyright (c) 2025 GeoPozo
@@ -3856,7 +3856,7 @@ MIT License
 Chris Sewell <chrisj_sewell@hotmail.com>
 https://github.com/executablebooks/markdown-it-py
 Python port of markdown-it. Markdown parsing, done right!
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/markdown_it_py-4.0.0.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/markdown_it_py-4.0.0.dist-info/licenses/LICENSE
 MIT License
 
 Copyright (c) 2020 ExecutableBookProject
@@ -3886,7 +3886,7 @@ Python Software Foundation License
 John D. Hunter, Michael Droettboom
 https://matplotlib.org
 Python plotting package
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/matplotlib-3.10.8.dist-info/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/matplotlib-3.10.8.dist-info/LICENSE
 License agreement for matplotlib versions 1.3.0 and later
 =========================================================
 
@@ -4684,7 +4684,7 @@ UNKNOWN
 IPython Development Team <ipython-dev@python.org>
 https://github.com/ipython/matplotlib-inline
 Inline Matplotlib backend for Jupyter
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/matplotlib_inline-0.2.1.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/matplotlib_inline-0.2.1.dist-info/licenses/LICENSE
 BSD 3-Clause License
 
 Copyright (c) 2019-2022, IPython Development Team.
@@ -4722,7 +4722,7 @@ MIT License
 Taneli Hukkinen <hukkin@users.noreply.github.com>
 https://github.com/executablebooks/mdurl
 Markdown URL utilities
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/mdurl-0.1.2.dist-info/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/mdurl-0.1.2.dist-info/LICENSE
 Copyright (c) 2015 Vitaly Puzrin, Alex Kocharin.
 Copyright (c) 2021 Taneli Hukkinen
 
@@ -4777,7 +4777,7 @@ BSD License
 Hsiaoming Yang <me@lepture.com>
 https://github.com/lepture/mistune
 A sane and fast Markdown parser with useful plugins and renderers
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/mistune-3.2.0.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/mistune-3.2.0.dist-info/licenses/LICENSE
 Copyright (c) 2014, Hsiaoming Yang
 
 All rights reserved.
@@ -4800,7 +4800,7 @@ MIT License
 Hajime Senuma <hajime.senuma@gmail.com>
 https://pypi.org/project/mmh3/
 Python extension for MurmurHash (MurmurHash3), a set of fast and robust hash functions.
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/mmh3-5.2.0.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/mmh3-5.2.0.dist-info/licenses/LICENSE
 MIT License
 
 Copyright (c) 2011-2025 Hajime Senuma
@@ -4824,12 +4824,12 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 narwhals
-2.15.0
+2.16.0
 MIT License
 Marco Gorelli <hello_narwhals@proton.me>
 https://github.com/narwhals-dev/narwhals
 Extremely lightweight compatibility layer between dataframe libraries
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/narwhals-2.15.0.dist-info/licenses/LICENSE.md
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/narwhals-2.16.0.dist-info/licenses/LICENSE.md
 MIT License
 
 Copyright (c) 2024, Marco Gorelli
@@ -4859,7 +4859,7 @@ BSD License
 Jupyter Development Team <jupyter@googlegroups.com>
 https://jupyter.org
 A client library for executing notebooks. Formerly nbconvert's ExecutePreprocessor.
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/nbclient-0.10.4.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/nbclient-0.10.4.dist-info/licenses/LICENSE
 BSD 3-Clause License
 
 Copyright (c) 2020-, Jupyter Development Team
@@ -4893,12 +4893,12 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 nbconvert
-7.16.6
+7.17.0
 BSD License
 Jupyter Development Team <jupyter@googlegroups.com>
 https://jupyter.org
-Converting Jupyter Notebooks (.ipynb files) to other formats.  Output formats include asciidoc, html, latex, markdown, pdf, py, rst, script.  nbconvert can be used both as a Python library (`import nbconvert`) or as a command line tool (invoked as `jupyter nbconvert ...`).
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/nbconvert-7.16.6.dist-info/licenses/LICENSE
+Convert Jupyter Notebooks (.ipynb files) to other formats.
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/nbconvert-7.17.0.dist-info/licenses/LICENSE
 BSD 3-Clause License
 
 - Copyright (c) 2001-2015, IPython Development Team
@@ -4938,7 +4938,7 @@ BSD License
 Jupyter Development Team <jupyter@googlegroups.com>
 https://jupyter.org
 The Jupyter Notebook format
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/nbformat-5.10.4.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/nbformat-5.10.4.dist-info/licenses/LICENSE
 BSD 3-Clause License
 
 - Copyright (c) 2001-2015, IPython Development Team
@@ -4978,7 +4978,7 @@ BSD License
 Ewald R. de Wit
 https://github.com/erdewit/nest_asyncio
 Patch asyncio to allow nested event loops
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/nest_asyncio-1.6.0.dist-info/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/nest_asyncio-1.6.0.dist-info/LICENSE
 BSD 2-Clause License
 
 Copyright (c) 2018-2020, Ewald de Wit
@@ -5012,7 +5012,7 @@ BSD-3-Clause
 Aric Hagberg <hagberg@lanl.gov>
 https://networkx.org/
 Python package for creating and manipulating graphs and networks
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/networkx-3.6.1.dist-info/licenses/LICENSE.txt
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/networkx-3.6.1.dist-info/licenses/LICENSE.txt
 NetworkX is distributed with the 3-clause BSD license.
 
 ::
@@ -5053,12 +5053,12 @@ NetworkX is distributed with the 3-clause BSD license.
 
 
 notebook
-7.5.2
+7.5.3
 BSD License
 Jupyter Development Team <jupyter@googlegroups.com>
 https://github.com/jupyter/notebook
 Jupyter Notebook - A web-based notebook environment for interactive computing
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/notebook-7.5.2.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/notebook-7.5.3.dist-info/licenses/LICENSE
 BSD 3-Clause License
 
 - Copyright (c) 2001-2015, IPython Development Team
@@ -5098,7 +5098,7 @@ BSD License
 Jupyter Development Team <jupyter@googlegroups.com>
 UNKNOWN
 A shim layer for notebook traits and config
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/notebook_shim-0.2.4.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/notebook_shim-0.2.4.dist-info/licenses/LICENSE
 BSD 3-Clause License
 
 Copyright (c) 2022 Project Jupyter Contributors
@@ -5136,7 +5136,7 @@ BSD License
 UNKNOWN
 https://numba.pydata.org
 compiling Python code using LLVM
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/numba-0.63.1.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/numba-0.63.1.dist-info/licenses/LICENSE
 Copyright (c) 2012, Anaconda, Inc.
 All rights reserved.
 
@@ -5164,13 +5164,13 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 numpy
-2.2.6
+2.3.5
 BSD License
 Travis E. Oliphant et al.
 https://numpy.org
 Fundamental package for array computing in Python
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/numpy-2.2.6.dist-info/LICENSE.txt
-Copyright (c) 2005-2024, NumPy Developers.
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/numpy-2.3.5.dist-info/LICENSE.txt
+Copyright (c) 2005-2025, NumPy Developers.
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
@@ -5285,7 +5285,7 @@ Name: LAPACK
 Files: numpy.libs/libscipy_openblas*.so
 Description: bundled in OpenBLAS
 Availability: https://github.com/OpenMathLib/OpenBLAS/
-License: BSD-3-Clause-Attribution
+License: BSD-3-Clause-Open-MPI
   Copyright (c) 1992-2013 The University of Tennessee and The University
                           of Tennessee Research Foundation.  All rights
                           reserved.
@@ -5340,7 +5340,7 @@ Name: GCC runtime library
 Files: numpy.libs/libgfortran*.so
 Description: dynamically linked to files compiled with gcc
 Availability: https://gcc.gnu.org/git/?p=gcc.git;a=tree;f=libgfortran
-License: GPL-3.0-with-GCC-exception
+License: GPL-3.0-or-later WITH GCC-exception-3.1
   Copyright (C) 2002-2017 Free Software Foundation, Inc.
 
   Libgfortran is free software; you can redistribute it and/or modify
@@ -5374,7 +5374,7 @@ GCC RUNTIME LIBRARY EXCEPTION
 
 Version 3.1, 31 March 2009
 
-Copyright (C) 2009 Free Software Foundation, Inc. <http://fsf.org/>
+Copyright (C) 2009 Free Software Foundation, Inc. <https://fsf.org/>
 
 Everyone is permitted to copy and distribute verbatim copies of this
 license document, but changing it is not allowed.
@@ -5448,7 +5448,7 @@ requirements of the license of GCC.
                     GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
- Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>
+ Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
  Everyone is permitted to copy and distribute verbatim copies
  of this license document, but changing it is not allowed.
 
@@ -6092,7 +6092,7 @@ the "copyright" line and a pointer to where the full notice is found.
     GNU General Public License for more details.
 
     You should have received a copy of the GNU General Public License
-    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+    along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 Also add information on how to contact you by electronic and paper mail.
 
@@ -6111,14 +6111,14 @@ might be different; for a GUI interface, you would use an "about box".
   You should also get your employer (if you work as a programmer) or school,
 if any, to sign a "copyright disclaimer" for the program, if necessary.
 For more information on this, and how to apply and follow the GNU GPL, see
-<http://www.gnu.org/licenses/>.
+<https://www.gnu.org/licenses/>.
 
   The GNU General Public License does not permit incorporating your program
 into proprietary programs.  If your program is a subroutine library, you
 may consider it more useful to permit linking proprietary applications with
 the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
-<http://www.gnu.org/philosophy/why-not-lgpl.html>.
+<https://www.gnu.org/licenses/why-not-lgpl.html>.
 
 Name: libquadmath
 Files: numpy.libs/libquadmath*.so
@@ -6144,12 +6144,12 @@ License: LGPL-2.1-or-later
 
 
 orjson
-3.11.5
-Apache-2.0 OR MIT
+3.11.7
+MPL-2.0 AND (Apache-2.0 OR MIT)
 UNKNOWN
 https://github.com/ijl/orjson
 Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/orjson-3.11.5.dist-info/licenses/LICENSE-APACHE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/orjson-3.11.7.dist-info/licenses/LICENSE-APACHE
                               Apache License
                         Version 2.0, January 2004
                      http://www.apache.org/licenses/
@@ -6354,12 +6354,12 @@ limitations under the License.
 
 
 packaging
-25.0
-Apache Software License; BSD License
+26.0
+Apache-2.0 OR BSD-2-Clause
 Donald Stufft <donald@stufft.io>
 https://github.com/pypa/packaging
 Core utilities for Python packages
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/packaging-25.0.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/packaging-26.0.dist-info/licenses/LICENSE
 This software is made available under the terms of *either* of the licenses
 found in LICENSE.APACHE or LICENSE.BSD. Contributions to this software is made
 under the terms of *both* these licenses.
@@ -6371,7 +6371,7 @@ BSD License
 The Pandas Development Team <pandas-dev@python.org>
 https://pandas.pydata.org
 Powerful data structures for data analysis, time series, and statistics
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/pandas-2.3.3.dist-info/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/pandas-2.3.3.dist-info/LICENSE
 BSD 3-Clause License
 
 Copyright (c) 2008-2011, AQR Capital Management, LLC, Lambda Foundry, Inc. and PyData Development Team
@@ -7629,7 +7629,7 @@ BSD License
 John MacFarlane
 http://github.com/jgm/pandocfilters
 Utilities for writing pandoc filters in python
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/pandocfilters-1.5.1.dist-info/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/pandocfilters-1.5.1.dist-info/LICENSE
 Copyright (c) 2013, John MacFarlane
 All rights reserved.
 
@@ -7665,7 +7665,7 @@ MIT License
 David Halter
 https://github.com/davidhalter/parso
 A Python Parser
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/parso-0.8.5.dist-info/licenses/LICENSE.txt
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/parso-0.8.5.dist-info/licenses/LICENSE.txt
 All contributions towards parso are MIT licensed.
 
 Some Python files have been taken from the standard library and are therefore
@@ -7760,7 +7760,7 @@ ISC License (ISCL)
 Noah Spurrier; Thomas Kluyver; Jeff Quast
 https://pexpect.readthedocs.io/
 Pexpect allows easy control of interactive console applications.
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/pexpect-4.9.0.dist-info/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/pexpect-4.9.0.dist-info/LICENSE
 ISC LICENSE
 
     This license is approved by the OSI and FSF as GPL-compatible.
@@ -7789,7 +7789,7 @@ MIT-CMU
 "Jeffrey A. Clark" <aclark@aclark.net>
 https://python-pillow.github.io
 Python Imaging Library (fork)
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/pillow-12.1.0.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/pillow-12.1.0.dist-info/licenses/LICENSE
 The Python Imaging Library (PIL) is
 
     Copyright © 1997-2011 by Secret Labs AB
@@ -9321,7 +9321,7 @@ BSD License
 Vincent Driessen <me@nvie.com>
 https://github.com/jazzband/pip-tools/
 pip-tools keeps your pinned dependencies fresh.
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/pip_tools-7.5.0.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/pip_tools-7.5.0.dist-info/licenses/LICENSE
 BSD 3-Clause License
 
 Copyright (c). All rights reserved.
@@ -9358,7 +9358,7 @@ MIT
 UNKNOWN
 https://github.com/tox-dev/platformdirs
 A small Python package for determining appropriate platform-specific dirs, e.g. a `user data dir`.
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/platformdirs-4.5.1.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/platformdirs-4.5.1.dist-info/licenses/LICENSE
 MIT License
 
 Copyright (c) 2010-202x The platformdirs developers
@@ -9383,12 +9383,12 @@ SOFTWARE.
 
 
 plotly
-6.5.1
+6.5.2
 MIT License
 Chris P <chris@plot.ly>
 https://plotly.com/python/
 An open-source interactive data visualization library for Python
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/plotly-6.5.1.dist-info/licenses/LICENSE.txt
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/plotly-6.5.2.dist-info/licenses/LICENSE.txt
 MIT License
 
 Copyright (c) 2016-2024 Plotly Technologies Inc.
@@ -9418,7 +9418,7 @@ MIT License
 Holger Krekel <holger@merlinux.eu>
 UNKNOWN
 plugin and hook calling mechanisms for python
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/pluggy-1.6.0.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/pluggy-1.6.0.dist-info/licenses/LICENSE
 The MIT License (MIT)
 
 Copyright (c) 2015 holger krekel (rather uses bitbucket/hpk42)
@@ -9448,7 +9448,7 @@ MIT License
 Randal S. Olson, William La Cava, Trang Le, Weixuan Fu
 https://github.com/EpistasisLab/penn-ml-benchmarks
 A Python wrapper for the Penn Machine Learning Benchmark data repository.
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/pmlb-1.0.1.post3.dist-info/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/pmlb-1.0.1.post3.dist-info/LICENSE
 MIT License
 
 Copyright (c) 2016 Epistasis Lab at UPenn
@@ -9473,12 +9473,12 @@ SOFTWARE.
 
 
 prometheus_client
-0.24.0
+0.24.1
 Apache-2.0 AND BSD-2-Clause
 The Prometheus Authors <prometheus-developers@googlegroups.com>
 https://github.com/prometheus/client_python
 Python client for the Prometheus monitoring system.
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/prometheus_client-0.24.0.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/prometheus_client-0.24.1.dist-info/licenses/LICENSE
                                  Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
@@ -9688,7 +9688,7 @@ BSD License
 Jonathan Slenders
 https://github.com/prompt-toolkit/python-prompt-toolkit
 Library for building powerful interactive command lines in Python
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/prompt_toolkit-3.0.52.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/prompt_toolkit-3.0.52.dist-info/licenses/LICENSE
 Copyright (c) 2014, Jonathan Slenders
 All rights reserved.
 
@@ -9719,12 +9719,12 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 psutil
-7.2.1
+7.2.2
 BSD-3-Clause
 Giampaolo Rodola
 https://github.com/giampaolo/psutil
 Cross-platform lib for process and system monitoring.
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/psutil-7.2.1.dist-info/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/psutil-7.2.2.dist-info/LICENSE
 BSD 3-Clause License
 
 Copyright (c) 2009, Jay Loden, Dave Daeschler, Giampaolo Rodola
@@ -9762,7 +9762,7 @@ BSD License
 Talley Lambert <talley.lambert@gmail.com>
 https://github.com/pyapp-kit/psygnal
 Fast python callback/event system modeled after Qt Signals
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/psygnal-0.15.1.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/psygnal-0.15.1.dist-info/licenses/LICENSE
 Copyright (c) 2021, Talley Lambert
 
 Redistribution and use in source and binary forms, with or without
@@ -9797,7 +9797,7 @@ ISC License (ISCL)
 Thomas Kluyver
 https://github.com/pexpect/ptyprocess
 Run a subprocess in a pseudo terminal
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/ptyprocess-0.7.0.dist-info/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/ptyprocess-0.7.0.dist-info/LICENSE
 Ptyprocess is under the ISC license, as code derived from Pexpect.
     http://opensource.org/licenses/ISC
 
@@ -9822,7 +9822,7 @@ MIT License
 Alex Hall
 http://github.com/alexmojaki/pure_eval
 Safely evaluate AST nodes without side effects
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/pure_eval-0.2.3.dist-info/LICENSE.txt
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/pure_eval-0.2.3.dist-info/LICENSE.txt
 MIT License
 
 Copyright (c) 2019 Alex Hall
@@ -9847,2346 +9847,21 @@ SOFTWARE.
 
 
 pyarrow
-22.0.0
-Apache Software License
+23.0.0
+Apache-2.0
 UNKNOWN
 https://arrow.apache.org/
 Python library for Apache Arrow
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/pyarrow-22.0.0.dist-info/licenses/LICENSE.txt
-
-                                 Apache License
-                           Version 2.0, January 2004
-                        http://www.apache.org/licenses/
-
-   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
-
-   1. Definitions.
-
-      "License" shall mean the terms and conditions for use, reproduction,
-      and distribution as defined by Sections 1 through 9 of this document.
-
-      "Licensor" shall mean the copyright owner or entity authorized by
-      the copyright owner that is granting the License.
-
-      "Legal Entity" shall mean the union of the acting entity and all
-      other entities that control, are controlled by, or are under common
-      control with that entity. For the purposes of this definition,
-      "control" means (i) the power, direct or indirect, to cause the
-      direction or management of such entity, whether by contract or
-      otherwise, or (ii) ownership of fifty percent (50%) or more of the
-      outstanding shares, or (iii) beneficial ownership of such entity.
-
-      "You" (or "Your") shall mean an individual or Legal Entity
-      exercising permissions granted by this License.
-
-      "Source" form shall mean the preferred form for making modifications,
-      including but not limited to software source code, documentation
-      source, and configuration files.
-
-      "Object" form shall mean any form resulting from mechanical
-      transformation or translation of a Source form, including but
-      not limited to compiled object code, generated documentation,
-      and conversions to other media types.
-
-      "Work" shall mean the work of authorship, whether in Source or
-      Object form, made available under the License, as indicated by a
-      copyright notice that is included in or attached to the work
-      (an example is provided in the Appendix below).
-
-      "Derivative Works" shall mean any work, whether in Source or Object
-      form, that is based on (or derived from) the Work and for which the
-      editorial revisions, annotations, elaborations, or other modifications
-      represent, as a whole, an original work of authorship. For the purposes
-      of this License, Derivative Works shall not include works that remain
-      separable from, or merely link (or bind by name) to the interfaces of,
-      the Work and Derivative Works thereof.
-
-      "Contribution" shall mean any work of authorship, including
-      the original version of the Work and any modifications or additions
-      to that Work or Derivative Works thereof, that is intentionally
-      submitted to Licensor for inclusion in the Work by the copyright owner
-      or by an individual or Legal Entity authorized to submit on behalf of
-      the copyright owner. For the purposes of this definition, "submitted"
-      means any form of electronic, verbal, or written communication sent
-      to the Licensor or its representatives, including but not limited to
-      communication on electronic mailing lists, source code control systems,
-      and issue tracking systems that are managed by, or on behalf of, the
-      Licensor for the purpose of discussing and improving the Work, but
-      excluding communication that is conspicuously marked or otherwise
-      designated in writing by the copyright owner as "Not a Contribution."
-
-      "Contributor" shall mean Licensor and any individual or Legal Entity
-      on behalf of whom a Contribution has been received by Licensor and
-      subsequently incorporated within the Work.
-
-   2. Grant of Copyright License. Subject to the terms and conditions of
-      this License, each Contributor hereby grants to You a perpetual,
-      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
-      copyright license to reproduce, prepare Derivative Works of,
-      publicly display, publicly perform, sublicense, and distribute the
-      Work and such Derivative Works in Source or Object form.
-
-   3. Grant of Patent License. Subject to the terms and conditions of
-      this License, each Contributor hereby grants to You a perpetual,
-      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
-      (except as stated in this section) patent license to make, have made,
-      use, offer to sell, sell, import, and otherwise transfer the Work,
-      where such license applies only to those patent claims licensable
-      by such Contributor that are necessarily infringed by their
-      Contribution(s) alone or by combination of their Contribution(s)
-      with the Work to which such Contribution(s) was submitted. If You
-      institute patent litigation against any entity (including a
-      cross-claim or counterclaim in a lawsuit) alleging that the Work
-      or a Contribution incorporated within the Work constitutes direct
-      or contributory patent infringement, then any patent licenses
-      granted to You under this License for that Work shall terminate
-      as of the date such litigation is filed.
-
-   4. Redistribution. You may reproduce and distribute copies of the
-      Work or Derivative Works thereof in any medium, with or without
-      modifications, and in Source or Object form, provided that You
-      meet the following conditions:
-
-      (a) You must give any other recipients of the Work or
-          Derivative Works a copy of this License; and
-
-      (b) You must cause any modified files to carry prominent notices
-          stating that You changed the files; and
-
-      (c) You must retain, in the Source form of any Derivative Works
-          that You distribute, all copyright, patent, trademark, and
-          attribution notices from the Source form of the Work,
-          excluding those notices that do not pertain to any part of
-          the Derivative Works; and
-
-      (d) If the Work includes a "NOTICE" text file as part of its
-          distribution, then any Derivative Works that You distribute must
-          include a readable copy of the attribution notices contained
-          within such NOTICE file, excluding those notices that do not
-          pertain to any part of the Derivative Works, in at least one
-          of the following places: within a NOTICE text file distributed
-          as part of the Derivative Works; within the Source form or
-          documentation, if provided along with the Derivative Works; or,
-          within a display generated by the Derivative Works, if and
-          wherever such third-party notices normally appear. The contents
-          of the NOTICE file are for informational purposes only and
-          do not modify the License. You may add Your own attribution
-          notices within Derivative Works that You distribute, alongside
-          or as an addendum to the NOTICE text from the Work, provided
-          that such additional attribution notices cannot be construed
-          as modifying the License.
-
-      You may add Your own copyright statement to Your modifications and
-      may provide additional or different license terms and conditions
-      for use, reproduction, or distribution of Your modifications, or
-      for any such Derivative Works as a whole, provided Your use,
-      reproduction, and distribution of the Work otherwise complies with
-      the conditions stated in this License.
-
-   5. Submission of Contributions. Unless You explicitly state otherwise,
-      any Contribution intentionally submitted for inclusion in the Work
-      by You to the Licensor shall be under the terms and conditions of
-      this License, without any additional terms or conditions.
-      Notwithstanding the above, nothing herein shall supersede or modify
-      the terms of any separate license agreement you may have executed
-      with Licensor regarding such Contributions.
-
-   6. Trademarks. This License does not grant permission to use the trade
-      names, trademarks, service marks, or product names of the Licensor,
-      except as required for reasonable and customary use in describing the
-      origin of the Work and reproducing the content of the NOTICE file.
-
-   7. Disclaimer of Warranty. Unless required by applicable law or
-      agreed to in writing, Licensor provides the Work (and each
-      Contributor provides its Contributions) on an "AS IS" BASIS,
-      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
-      implied, including, without limitation, any warranties or conditions
-      of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A
-      PARTICULAR PURPOSE. You are solely responsible for determining the
-      appropriateness of using or redistributing the Work and assume any
-      risks associated with Your exercise of permissions under this License.
-
-   8. Limitation of Liability. In no event and under no legal theory,
-      whether in tort (including negligence), contract, or otherwise,
-      unless required by applicable law (such as deliberate and grossly
-      negligent acts) or agreed to in writing, shall any Contributor be
-      liable to You for damages, including any direct, indirect, special,
-      incidental, or consequential damages of any character arising as a
-      result of this License or out of the use or inability to use the
-      Work (including but not limited to damages for loss of goodwill,
-      work stoppage, computer failure or malfunction, or any and all
-      other commercial damages or losses), even if such Contributor
-      has been advised of the possibility of such damages.
-
-   9. Accepting Warranty or Additional Liability. While redistributing
-      the Work or Derivative Works thereof, You may choose to offer,
-      and charge a fee for, acceptance of support, warranty, indemnity,
-      or other liability obligations and/or rights consistent with this
-      License. However, in accepting such obligations, You may act only
-      on Your own behalf and on Your sole responsibility, not on behalf
-      of any other Contributor, and only if You agree to indemnify,
-      defend, and hold each Contributor harmless for any liability
-      incurred by, or claims asserted against, such Contributor by reason
-      of your accepting any such warranty or additional liability.
-
-   END OF TERMS AND CONDITIONS
-
-   APPENDIX: How to apply the Apache License to your work.
-
-      To apply the Apache License to your work, attach the following
-      boilerplate notice, with the fields enclosed by brackets "[]"
-      replaced with your own identifying information. (Don't include
-      the brackets!)  The text should be enclosed in the appropriate
-      comment syntax for the file format. We also recommend that a
-      file or class name and description of purpose be included on the
-      same "printed page" as the copyright notice for easier
-      identification within third-party archives.
-
-   Copyright [yyyy] [name of copyright owner]
-
-   Licensed under the Apache License, Version 2.0 (the "License");
-   you may not use this file except in compliance with the License.
-   You may obtain a copy of the License at
-
-       http://www.apache.org/licenses/LICENSE-2.0
-
-   Unless required by applicable law or agreed to in writing, software
-   distributed under the License is distributed on an "AS IS" BASIS,
-   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-   See the License for the specific language governing permissions and
-   limitations under the License.
-
---------------------------------------------------------------------------------
-
-src/arrow/util (some portions): Apache 2.0, and 3-clause BSD
-
-Some portions of this module are derived from code in the Chromium project,
-copyright (c) Google inc and (c) The Chromium Authors and licensed under the
-Apache 2.0 License or the under the 3-clause BSD license:
-
-  Copyright (c) 2013 The Chromium Authors. All rights reserved.
-
-  Redistribution and use in source and binary forms, with or without
-  modification, are permitted provided that the following conditions are
-  met:
-
-     * Redistributions of source code must retain the above copyright
-  notice, this list of conditions and the following disclaimer.
-     * Redistributions in binary form must reproduce the above
-  copyright notice, this list of conditions and the following disclaimer
-  in the documentation and/or other materials provided with the
-  distribution.
-     * Neither the name of Google Inc. nor the names of its
-  contributors may be used to endorse or promote products derived from
-  this software without specific prior written permission.
-
-  THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
-  "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
-  LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
-  A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
-  OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
-  SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
-  LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
-  DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
-  THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
-  (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-  OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
---------------------------------------------------------------------------------
-
-This project includes code from Daniel Lemire's FrameOfReference project.
-
-https://github.com/lemire/FrameOfReference/blob/6ccaf9e97160f9a3b299e23a8ef739e711ef0c71/src/bpacking.cpp
-https://github.com/lemire/FrameOfReference/blob/146948b6058a976bc7767262ad3a2ce201486b93/scripts/turbopacking64.py
-
-Copyright: 2013 Daniel Lemire
-Home page: http://lemire.me/en/
-Project page: https://github.com/lemire/FrameOfReference
-License: Apache License Version 2.0 http://www.apache.org/licenses/LICENSE-2.0
-
---------------------------------------------------------------------------------
-
-This project includes code from the TensorFlow project
-
-Copyright 2015 The TensorFlow Authors. All Rights Reserved.
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-    http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
-
---------------------------------------------------------------------------------
-
-This project includes code from the NumPy project.
-
-https://github.com/numpy/numpy/blob/e1f191c46f2eebd6cb892a4bfe14d9dd43a06c4e/numpy/core/src/multiarray/multiarraymodule.c#L2910
-
-https://github.com/numpy/numpy/blob/68fd82271b9ea5a9e50d4e761061dfcca851382a/numpy/core/src/multiarray/datetime.c
-
-Copyright (c) 2005-2017, NumPy Developers.
-All rights reserved.
-
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are
-met:
-
-    * Redistributions of source code must retain the above copyright
-       notice, this list of conditions and the following disclaimer.
-
-    * Redistributions in binary form must reproduce the above
-       copyright notice, this list of conditions and the following
-       disclaimer in the documentation and/or other materials provided
-       with the distribution.
-
-    * Neither the name of the NumPy Developers nor the names of any
-       contributors may be used to endorse or promote products derived
-       from this software without specific prior written permission.
-
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
-"AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
-LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
-A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
-OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
-SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
-LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
-DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
-THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
-(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
---------------------------------------------------------------------------------
-
-This project includes code from the Boost project
-
-Boost Software License - Version 1.0 - August 17th, 2003
-
-Permission is hereby granted, free of charge, to any person or organization
-obtaining a copy of the software and accompanying documentation covered by
-this license (the "Software") to use, reproduce, display, distribute,
-execute, and transmit the Software, and to prepare derivative works of the
-Software, and to permit third-parties to whom the Software is furnished to
-do so, all subject to the following:
-
-The copyright notices in the Software and this entire statement, including
-the above license grant, this restriction and the following disclaimer,
-must be included in all copies of the Software, in whole or in part, and
-all derivative works of the Software, unless such copies or derivative
-works are solely in the form of machine-executable object code generated by
-a source language processor.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT. IN NO EVENT
-SHALL THE COPYRIGHT HOLDERS OR ANYONE DISTRIBUTING THE SOFTWARE BE LIABLE
-FOR ANY DAMAGES OR OTHER LIABILITY, WHETHER IN CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
-DEALINGS IN THE SOFTWARE.
-
---------------------------------------------------------------------------------
-
-This project includes code from the FlatBuffers project
-
-Copyright 2014 Google Inc.
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-    http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
-
---------------------------------------------------------------------------------
-
-This project includes code from the tslib project
-
-Copyright 2015 Microsoft Corporation. All rights reserved.
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-    http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
-
---------------------------------------------------------------------------------
-
-This project includes code from the jemalloc project
-
-https://github.com/jemalloc/jemalloc
-
-Copyright (C) 2002-2017 Jason Evans <jasone@canonware.com>.
-All rights reserved.
-Copyright (C) 2007-2012 Mozilla Foundation.  All rights reserved.
-Copyright (C) 2009-2017 Facebook, Inc.  All rights reserved.
-
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are met:
-1. Redistributions of source code must retain the above copyright notice(s),
-   this list of conditions and the following disclaimer.
-2. Redistributions in binary form must reproduce the above copyright notice(s),
-   this list of conditions and the following disclaimer in the documentation
-   and/or other materials provided with the distribution.
-
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDER(S) ``AS IS'' AND ANY EXPRESS
-OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
-MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.  IN NO
-EVENT SHALL THE COPYRIGHT HOLDER(S) BE LIABLE FOR ANY DIRECT, INDIRECT,
-INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
-LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR
-PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF
-LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE
-OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF
-ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
---------------------------------------------------------------------------------
-
-This project includes code from the Go project, BSD 3-clause license + PATENTS
-weak patent termination clause
-(https://github.com/golang/go/blob/master/PATENTS).
-
-Copyright (c) 2009 The Go Authors. All rights reserved.
-
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are
-met:
-
-   * Redistributions of source code must retain the above copyright
-notice, this list of conditions and the following disclaimer.
-   * Redistributions in binary form must reproduce the above
-copyright notice, this list of conditions and the following disclaimer
-in the documentation and/or other materials provided with the
-distribution.
-   * Neither the name of Google Inc. nor the names of its
-contributors may be used to endorse or promote products derived from
-this software without specific prior written permission.
-
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
-"AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
-LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
-A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
-OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
-SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
-LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
-DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
-THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
-(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
---------------------------------------------------------------------------------
-
-This project includes code from the hs2client
-
-https://github.com/cloudera/hs2client
-
-Copyright 2016 Cloudera Inc.
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
-
---------------------------------------------------------------------------------
-
-The script ci/scripts/util_wait_for_it.sh has the following license
-
-Copyright (c) 2016 Giles Hall
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of
-this software and associated documentation files (the "Software"), to deal in
-the Software without restriction, including without limitation the rights to
-use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies
-of the Software, and to permit persons to whom the Software is furnished to do
-so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
---------------------------------------------------------------------------------
-
-The script r/configure has the following license (MIT)
-
-Copyright (c) 2017, Jeroen Ooms and Jim Hester
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of
-this software and associated documentation files (the "Software"), to deal in
-the Software without restriction, including without limitation the rights to
-use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies
-of the Software, and to permit persons to whom the Software is furnished to do
-so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
---------------------------------------------------------------------------------
-
-cpp/src/arrow/util/logging.cc, cpp/src/arrow/util/logging.h and
-cpp/src/arrow/util/logging-test.cc are adapted from
-Ray Project (https://github.com/ray-project/ray) (Apache 2.0).
-
-Copyright (c) 2016 Ray Project (https://github.com/ray-project/ray)
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-    http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
-
---------------------------------------------------------------------------------
-The files cpp/src/arrow/vendored/datetime/date.h, cpp/src/arrow/vendored/datetime/tz.h,
-cpp/src/arrow/vendored/datetime/tz_private.h, cpp/src/arrow/vendored/datetime/ios.h,
-cpp/src/arrow/vendored/datetime/ios.mm,
-cpp/src/arrow/vendored/datetime/tz.cpp are adapted from
-Howard Hinnant's date library (https://github.com/HowardHinnant/date)
-It is licensed under MIT license.
-
-The MIT License (MIT)
-Copyright (c) 2015, 2016, 2017 Howard Hinnant
-Copyright (c) 2016 Adrian Colomitchi
-Copyright (c) 2017 Florian Dang
-Copyright (c) 2017 Paul Thompson
-Copyright (c) 2018 Tomasz Kamiński
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
---------------------------------------------------------------------------------
-
-The file cpp/src/arrow/util/utf8.h includes code adapted from the page
-  https://bjoern.hoehrmann.de/utf-8/decoder/dfa/
-with the following license (MIT)
-
-Copyright (c) 2008-2009 Bjoern Hoehrmann <bjoern@hoehrmann.de>
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
---------------------------------------------------------------------------------
-
-The files in cpp/src/arrow/vendored/xxhash/ have the following license
-(BSD 2-Clause License)
-
-xxHash Library
-Copyright (c) 2012-2014, Yann Collet
-All rights reserved.
-
-Redistribution and use in source and binary forms, with or without modification,
-are permitted provided that the following conditions are met:
-
-* Redistributions of source code must retain the above copyright notice, this
-  list of conditions and the following disclaimer.
-
-* Redistributions in binary form must reproduce the above copyright notice, this
-  list of conditions and the following disclaimer in the documentation and/or
-  other materials provided with the distribution.
-
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
-ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
-WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
-DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR
-ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
-(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
-LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON
-ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
-(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
-SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
-You can contact the author at :
-- xxHash homepage: http://www.xxhash.com
-- xxHash source repository : https://github.com/Cyan4973/xxHash
-
---------------------------------------------------------------------------------
-
-The files in cpp/src/arrow/vendored/double-conversion/ have the following license
-(BSD 3-Clause License)
-
-Copyright 2006-2011, the V8 project authors. All rights reserved.
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are
-met:
-
-    * Redistributions of source code must retain the above copyright
-      notice, this list of conditions and the following disclaimer.
-    * Redistributions in binary form must reproduce the above
-      copyright notice, this list of conditions and the following
-      disclaimer in the documentation and/or other materials provided
-      with the distribution.
-    * Neither the name of Google Inc. nor the names of its
-      contributors may be used to endorse or promote products derived
-      from this software without specific prior written permission.
-
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
-"AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
-LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
-A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
-OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
-SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
-LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
-DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
-THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
-(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
---------------------------------------------------------------------------------
-
-The files in cpp/src/arrow/vendored/uriparser/ have the following license
-(BSD 3-Clause License)
-
-uriparser - RFC 3986 URI parsing library
-
-Copyright (C) 2007, Weijia Song <songweijia@gmail.com>
-Copyright (C) 2007, Sebastian Pipping <sebastian@pipping.org>
-All rights reserved.
-
-Redistribution  and use in source and binary forms, with or without
-modification,  are permitted provided that the following conditions
-are met:
-
-    * Redistributions   of  source  code  must  retain  the   above
-      copyright  notice, this list of conditions and the  following
-      disclaimer.
-
-    * Redistributions  in  binary  form must  reproduce  the  above
-      copyright  notice, this list of conditions and the  following
-      disclaimer   in  the  documentation  and/or  other  materials
-      provided with the distribution.
-
-    * Neither  the name of the <ORGANIZATION> nor the names of  its
-      contributors  may  be  used to endorse  or  promote  products
-      derived  from  this software without specific  prior  written
-      permission.
-
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
-"AS  IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT  NOT
-LIMITED  TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND  FITNESS
-FOR  A  PARTICULAR  PURPOSE ARE DISCLAIMED. IN NO EVENT  SHALL  THE
-COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT,
-INCIDENTAL,    SPECIAL,   EXEMPLARY,   OR   CONSEQUENTIAL   DAMAGES
-(INCLUDING,  BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
-SERVICES;  LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
-HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT,
-STRICT  LIABILITY,  OR  TORT (INCLUDING  NEGLIGENCE  OR  OTHERWISE)
-ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED
-OF THE POSSIBILITY OF SUCH DAMAGE.
-
---------------------------------------------------------------------------------
-
-The files under dev/tasks/conda-recipes have the following license
-
-BSD 3-clause license
-Copyright (c) 2015-2018, conda-forge
-All rights reserved.
-
-Redistribution and use in source and binary forms, with or without modification,
-are permitted provided that the following conditions are met:
-
-1. Redistributions of source code must retain the above copyright notice, this
-   list of conditions and the following disclaimer.
-
-2. Redistributions in binary form must reproduce the above copyright notice,
-   this list of conditions and the following disclaimer in the documentation
-   and/or other materials provided with the distribution.
-
-3. Neither the name of the copyright holder nor the names of its contributors
-   may be used to endorse or promote products derived from this software without
-   specific prior written permission.
-
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
-ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
-WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
-DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
-FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
-DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
-SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
-CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR
-TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF
-THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
---------------------------------------------------------------------------------
-
-The files in cpp/src/arrow/vendored/utfcpp/ have the following license
-
-Copyright 2006-2018 Nemanja Trifunovic
-
-Permission is hereby granted, free of charge, to any person or organization
-obtaining a copy of the software and accompanying documentation covered by
-this license (the "Software") to use, reproduce, display, distribute,
-execute, and transmit the Software, and to prepare derivative works of the
-Software, and to permit third-parties to whom the Software is furnished to
-do so, all subject to the following:
-
-The copyright notices in the Software and this entire statement, including
-the above license grant, this restriction and the following disclaimer,
-must be included in all copies of the Software, in whole or in part, and
-all derivative works of the Software, unless such copies or derivative
-works are solely in the form of machine-executable object code generated by
-a source language processor.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT. IN NO EVENT
-SHALL THE COPYRIGHT HOLDERS OR ANYONE DISTRIBUTING THE SOFTWARE BE LIABLE
-FOR ANY DAMAGES OR OTHER LIABILITY, WHETHER IN CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
-DEALINGS IN THE SOFTWARE.
-
---------------------------------------------------------------------------------
-
-This project includes code from Apache Kudu.
-
- * cpp/cmake_modules/CompilerInfo.cmake is based on Kudu's cmake_modules/CompilerInfo.cmake
-
-Copyright: 2016 The Apache Software Foundation.
-Home page: https://kudu.apache.org/
-License: http://www.apache.org/licenses/LICENSE-2.0
-
---------------------------------------------------------------------------------
-
-This project includes code from Apache Impala (incubating), formerly
-Impala. The Impala code and rights were donated to the ASF as part of the
-Incubator process after the initial code imports into Apache Parquet.
-
-Copyright: 2012 Cloudera, Inc.
-Copyright: 2016 The Apache Software Foundation.
-Home page: http://impala.apache.org/
-License: http://www.apache.org/licenses/LICENSE-2.0
-
---------------------------------------------------------------------------------
-
-This project includes code from Apache Aurora.
-
-* dev/release/{release,changelog,release-candidate} are based on the scripts from
-  Apache Aurora
-
-Copyright: 2016 The Apache Software Foundation.
-Home page: https://aurora.apache.org/
-License: http://www.apache.org/licenses/LICENSE-2.0
-
---------------------------------------------------------------------------------
-
-This project includes code from Snappy.
-
-* cpp/cmake_modules/{SnappyCMakeLists.txt,SnappyConfig.h} are based on code
-  from Google's Snappy project.
-
-Copyright: 2009 Google Inc. All rights reserved.
-Homepage: https://github.com/google/snappy
-License: 3-clause BSD
-
---------------------------------------------------------------------------------
-
-This project includes code from the manylinux project.
-
-* python/manylinux1/scripts/{build_python.sh,python-tag-abi-tag.py,
-  requirements.txt} are based on code from the manylinux project.
-
-Copyright: 2016 manylinux
-Homepage: https://github.com/pypa/manylinux
-License: The MIT License (MIT)
-
---------------------------------------------------------------------------------
-
-This project includes code from the cymove project:
-
-* python/pyarrow/includes/common.pxd includes code from the cymove project
-
-The MIT License (MIT)
-Copyright (c) 2019 Omer Ozarslan
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
-DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
-OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE
-OR OTHER DEALINGS IN THE SOFTWARE.
-
---------------------------------------------------------------------------------
-
-The projects includes code from the Ursabot project under the dev/archery
-directory.
-
-License: BSD 2-Clause
-
-Copyright 2019 RStudio, Inc.
-
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are met:
-
-1. Redistributions of source code must retain the above copyright notice, this
-   list of conditions and the following disclaimer.
-
-2. Redistributions in binary form must reproduce the above copyright notice,
-   this list of conditions and the following disclaimer in the documentation
-   and/or other materials provided with the distribution.
-
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
-ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
-WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
-DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
-FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
-DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
-SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
-CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
-OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
---------------------------------------------------------------------------------
-
-This project include code from mingw-w64.
-
-* cpp/src/arrow/util/cpu-info.cc has a polyfill for mingw-w64 < 5
-
-Copyright (c) 2009 - 2013 by the mingw-w64 project
-Homepage: https://mingw-w64.org
-License: Zope Public License (ZPL) Version 2.1.
-
----------------------------------------------------------------------------------
-
-This project include code from Google's Asylo project.
-
-* cpp/src/arrow/result.h is based on status_or.h
-
-Copyright (c)  Copyright 2017 Asylo authors
-Homepage: https://asylo.dev/
-License: Apache 2.0
-
---------------------------------------------------------------------------------
-
-This project includes code from Google's protobuf project
-
-* cpp/src/arrow/result.h ARROW_ASSIGN_OR_RAISE is based off ASSIGN_OR_RETURN
-* cpp/src/arrow/util/bit_stream_utils.h contains code from wire_format_lite.h
-
-Copyright 2008 Google Inc.  All rights reserved.
-Homepage: https://developers.google.com/protocol-buffers/
-License:
-
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are
-met:
-
-    * Redistributions of source code must retain the above copyright
-notice, this list of conditions and the following disclaimer.
-    * Redistributions in binary form must reproduce the above
-copyright notice, this list of conditions and the following disclaimer
-in the documentation and/or other materials provided with the
-distribution.
-    * Neither the name of Google Inc. nor the names of its
-contributors may be used to endorse or promote products derived from
-this software without specific prior written permission.
-
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
-"AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
-LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
-A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
-OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
-SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
-LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
-DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
-THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
-(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
-Code generated by the Protocol Buffer compiler is owned by the owner
-of the input file used when generating it.  This code is not
-standalone and requires a support library to be linked with it.  This
-support library is itself covered by the above license.
-
---------------------------------------------------------------------------------
-
-3rdparty dependency LLVM is statically linked in certain binary distributions.
-Additionally some sections of source code have been derived from sources in LLVM
-and have been clearly labeled as such. LLVM has the following license:
-
-==============================================================================
-The LLVM Project is under the Apache License v2.0 with LLVM Exceptions:
-==============================================================================
-
-                                 Apache License
-                           Version 2.0, January 2004
-                        http://www.apache.org/licenses/
-
-    TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
-
-    1. Definitions.
-
-      "License" shall mean the terms and conditions for use, reproduction,
-      and distribution as defined by Sections 1 through 9 of this document.
-
-      "Licensor" shall mean the copyright owner or entity authorized by
-      the copyright owner that is granting the License.
-
-      "Legal Entity" shall mean the union of the acting entity and all
-      other entities that control, are controlled by, or are under common
-      control with that entity. For the purposes of this definition,
-      "control" means (i) the power, direct or indirect, to cause the
-      direction or management of such entity, whether by contract or
-      otherwise, or (ii) ownership of fifty percent (50%) or more of the
-      outstanding shares, or (iii) beneficial ownership of such entity.
-
-      "You" (or "Your") shall mean an individual or Legal Entity
-      exercising permissions granted by this License.
-
-      "Source" form shall mean the preferred form for making modifications,
-      including but not limited to software source code, documentation
-      source, and configuration files.
-
-      "Object" form shall mean any form resulting from mechanical
-      transformation or translation of a Source form, including but
-      not limited to compiled object code, generated documentation,
-      and conversions to other media types.
-
-      "Work" shall mean the work of authorship, whether in Source or
-      Object form, made available under the License, as indicated by a
-      copyright notice that is included in or attached to the work
-      (an example is provided in the Appendix below).
-
-      "Derivative Works" shall mean any work, whether in Source or Object
-      form, that is based on (or derived from) the Work and for which the
-      editorial revisions, annotations, elaborations, or other modifications
-      represent, as a whole, an original work of authorship. For the purposes
-      of this License, Derivative Works shall not include works that remain
-      separable from, or merely link (or bind by name) to the interfaces of,
-      the Work and Derivative Works thereof.
-
-      "Contribution" shall mean any work of authorship, including
-      the original version of the Work and any modifications or additions
-      to that Work or Derivative Works thereof, that is intentionally
-      submitted to Licensor for inclusion in the Work by the copyright owner
-      or by an individual or Legal Entity authorized to submit on behalf of
-      the copyright owner. For the purposes of this definition, "submitted"
-      means any form of electronic, verbal, or written communication sent
-      to the Licensor or its representatives, including but not limited to
-      communication on electronic mailing lists, source code control systems,
-      and issue tracking systems that are managed by, or on behalf of, the
-      Licensor for the purpose of discussing and improving the Work, but
-      excluding communication that is conspicuously marked or otherwise
-      designated in writing by the copyright owner as "Not a Contribution."
-
-      "Contributor" shall mean Licensor and any individual or Legal Entity
-      on behalf of whom a Contribution has been received by Licensor and
-      subsequently incorporated within the Work.
-
-    2. Grant of Copyright License. Subject to the terms and conditions of
-      this License, each Contributor hereby grants to You a perpetual,
-      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
-      copyright license to reproduce, prepare Derivative Works of,
-      publicly display, publicly perform, sublicense, and distribute the
-      Work and such Derivative Works in Source or Object form.
-
-    3. Grant of Patent License. Subject to the terms and conditions of
-      this License, each Contributor hereby grants to You a perpetual,
-      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
-      (except as stated in this section) patent license to make, have made,
-      use, offer to sell, sell, import, and otherwise transfer the Work,
-      where such license applies only to those patent claims licensable
-      by such Contributor that are necessarily infringed by their
-      Contribution(s) alone or by combination of their Contribution(s)
-      with the Work to which such Contribution(s) was submitted. If You
-      institute patent litigation against any entity (including a
-      cross-claim or counterclaim in a lawsuit) alleging that the Work
-      or a Contribution incorporated within the Work constitutes direct
-      or contributory patent infringement, then any patent licenses
-      granted to You under this License for that Work shall terminate
-      as of the date such litigation is filed.
-
-    4. Redistribution. You may reproduce and distribute copies of the
-      Work or Derivative Works thereof in any medium, with or without
-      modifications, and in Source or Object form, provided that You
-      meet the following conditions:
-
-      (a) You must give any other recipients of the Work or
-          Derivative Works a copy of this License; and
-
-      (b) You must cause any modified files to carry prominent notices
-          stating that You changed the files; and
-
-      (c) You must retain, in the Source form of any Derivative Works
-          that You distribute, all copyright, patent, trademark, and
-          attribution notices from the Source form of the Work,
-          excluding those notices that do not pertain to any part of
-          the Derivative Works; and
-
-      (d) If the Work includes a "NOTICE" text file as part of its
-          distribution, then any Derivative Works that You distribute must
-          include a readable copy of the attribution notices contained
-          within such NOTICE file, excluding those notices that do not
-          pertain to any part of the Derivative Works, in at least one
-          of the following places: within a NOTICE text file distributed
-          as part of the Derivative Works; within the Source form or
-          documentation, if provided along with the Derivative Works; or,
-          within a display generated by the Derivative Works, if and
-          wherever such third-party notices normally appear. The contents
-          of the NOTICE file are for informational purposes only and
-          do not modify the License. You may add Your own attribution
-          notices within Derivative Works that You distribute, alongside
-          or as an addendum to the NOTICE text from the Work, provided
-          that such additional attribution notices cannot be construed
-          as modifying the License.
-
-      You may add Your own copyright statement to Your modifications and
-      may provide additional or different license terms and conditions
-      for use, reproduction, or distribution of Your modifications, or
-      for any such Derivative Works as a whole, provided Your use,
-      reproduction, and distribution of the Work otherwise complies with
-      the conditions stated in this License.
-
-    5. Submission of Contributions. Unless You explicitly state otherwise,
-      any Contribution intentionally submitted for inclusion in the Work
-      by You to the Licensor shall be under the terms and conditions of
-      this License, without any additional terms or conditions.
-      Notwithstanding the above, nothing herein shall supersede or modify
-      the terms of any separate license agreement you may have executed
-      with Licensor regarding such Contributions.
-
-    6. Trademarks. This License does not grant permission to use the trade
-      names, trademarks, service marks, or product names of the Licensor,
-      except as required for reasonable and customary use in describing the
-      origin of the Work and reproducing the content of the NOTICE file.
-
-    7. Disclaimer of Warranty. Unless required by applicable law or
-      agreed to in writing, Licensor provides the Work (and each
-      Contributor provides its Contributions) on an "AS IS" BASIS,
-      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
-      implied, including, without limitation, any warranties or conditions
-      of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A
-      PARTICULAR PURPOSE. You are solely responsible for determining the
-      appropriateness of using or redistributing the Work and assume any
-      risks associated with Your exercise of permissions under this License.
-
-    8. Limitation of Liability. In no event and under no legal theory,
-      whether in tort (including negligence), contract, or otherwise,
-      unless required by applicable law (such as deliberate and grossly
-      negligent acts) or agreed to in writing, shall any Contributor be
-      liable to You for damages, including any direct, indirect, special,
-      incidental, or consequential damages of any character arising as a
-      result of this License or out of the use or inability to use the
-      Work (including but not limited to damages for loss of goodwill,
-      work stoppage, computer failure or malfunction, or any and all
-      other commercial damages or losses), even if such Contributor
-      has been advised of the possibility of such damages.
-
-    9. Accepting Warranty or Additional Liability. While redistributing
-      the Work or Derivative Works thereof, You may choose to offer,
-      and charge a fee for, acceptance of support, warranty, indemnity,
-      or other liability obligations and/or rights consistent with this
-      License. However, in accepting such obligations, You may act only
-      on Your own behalf and on Your sole responsibility, not on behalf
-      of any other Contributor, and only if You agree to indemnify,
-      defend, and hold each Contributor harmless for any liability
-      incurred by, or claims asserted against, such Contributor by reason
-      of your accepting any such warranty or additional liability.
-
-    END OF TERMS AND CONDITIONS
-
-    APPENDIX: How to apply the Apache License to your work.
-
-      To apply the Apache License to your work, attach the following
-      boilerplate notice, with the fields enclosed by brackets "[]"
-      replaced with your own identifying information. (Don't include
-      the brackets!)  The text should be enclosed in the appropriate
-      comment syntax for the file format. We also recommend that a
-      file or class name and description of purpose be included on the
-      same "printed page" as the copyright notice for easier
-      identification within third-party archives.
-
-    Copyright [yyyy] [name of copyright owner]
-
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-
-       http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
-
-
----- LLVM Exceptions to the Apache 2.0 License ----
-
-As an exception, if, as a result of your compiling your source code, portions
-of this Software are embedded into an Object form of such source code, you
-may redistribute such embedded portions in such Object form without complying
-with the conditions of Sections 4(a), 4(b) and 4(d) of the License.
-
-In addition, if you combine or link compiled forms of this Software with
-software that is licensed under the GPLv2 ("Combined Software") and if a
-court of competent jurisdiction determines that the patent provision (Section
-3), the indemnity provision (Section 9) or other Section of the License
-conflicts with the conditions of the GPLv2, you may retroactively and
-prospectively choose to deem waived or otherwise exclude such Section(s) of
-the License, but only in their entirety and only with respect to the Combined
-Software.
-
-==============================================================================
-Software from third parties included in the LLVM Project:
-==============================================================================
-The LLVM Project contains third party software which is under different license
-terms. All such code will be identified clearly using at least one of two
-mechanisms:
-1) It will be in a separate directory tree with its own `LICENSE.txt` or
-   `LICENSE` file at the top containing the specific license and restrictions
-   which apply to that software, or
-2) It will contain specific license and restriction terms at the top of every
-   file.
-
---------------------------------------------------------------------------------
-
-3rdparty dependency gRPC is statically linked in certain binary
-distributions, like the python wheels. gRPC has the following license:
-
-Copyright 2014 gRPC authors.
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-    http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
-
---------------------------------------------------------------------------------
-
-3rdparty dependency Apache Thrift is statically linked in certain binary
-distributions, like the python wheels. Apache Thrift has the following license:
-
-Apache Thrift
-Copyright (C) 2006 - 2019, The Apache Software Foundation
-
-This product includes software developed at
-The Apache Software Foundation (http://www.apache.org/).
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-     http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
-
---------------------------------------------------------------------------------
-
-3rdparty dependency Apache ORC is statically linked in certain binary
-distributions, like the python wheels. Apache ORC has the following license:
-
-Apache ORC
-Copyright 2013-2019 The Apache Software Foundation
-
-This product includes software developed by The Apache Software
-Foundation (http://www.apache.org/).
-
-This product includes software developed by Hewlett-Packard:
-(c) Copyright [2014-2015] Hewlett-Packard Development Company, L.P
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-     http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
-
---------------------------------------------------------------------------------
-
-3rdparty dependency zstd is statically linked in certain binary
-distributions, like the python wheels. ZSTD has the following license:
-
-BSD License
-
-For Zstandard software
-
-Copyright (c) 2016-present, Facebook, Inc. All rights reserved.
-
-Redistribution and use in source and binary forms, with or without modification,
-are permitted provided that the following conditions are met:
-
- * Redistributions of source code must retain the above copyright notice, this
-   list of conditions and the following disclaimer.
-
- * Redistributions in binary form must reproduce the above copyright notice,
-   this list of conditions and the following disclaimer in the documentation
-   and/or other materials provided with the distribution.
-
- * Neither the name Facebook nor the names of its contributors may be used to
-   endorse or promote products derived from this software without specific
-   prior written permission.
-
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
-ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
-WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
-DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR
-ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
-(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
-LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON
-ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
-(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
-SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
---------------------------------------------------------------------------------
-
-3rdparty dependency lz4 is statically linked in certain binary
-distributions, like the python wheels. lz4 has the following license:
-
-LZ4 Library
-Copyright (c) 2011-2016, Yann Collet
-All rights reserved.
-
-Redistribution and use in source and binary forms, with or without modification,
-are permitted provided that the following conditions are met:
-
-* Redistributions of source code must retain the above copyright notice, this
-  list of conditions and the following disclaimer.
-
-* Redistributions in binary form must reproduce the above copyright notice, this
-  list of conditions and the following disclaimer in the documentation and/or
-  other materials provided with the distribution.
-
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
-ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
-WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
-DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR
-ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
-(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
-LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON
-ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
-(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
-SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
---------------------------------------------------------------------------------
-
-3rdparty dependency Brotli is statically linked in certain binary
-distributions, like the python wheels. Brotli has the following license:
-
-Copyright (c) 2009, 2010, 2013-2016 by the Brotli Authors.
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
-
---------------------------------------------------------------------------------
-
-3rdparty dependency rapidjson is statically linked in certain binary
-distributions, like the python wheels. rapidjson and its dependencies have the
-following licenses:
-
-Tencent is pleased to support the open source community by making RapidJSON
-available.
-
-Copyright (C) 2015 THL A29 Limited, a Tencent company, and Milo Yip.
-All rights reserved.
-
-If you have downloaded a copy of the RapidJSON binary from Tencent, please note
-that the RapidJSON binary is licensed under the MIT License.
-If you have downloaded a copy of the RapidJSON source code from Tencent, please
-note that RapidJSON source code is licensed under the MIT License, except for
-the third-party components listed below which are subject to different license
-terms.  Your integration of RapidJSON into your own projects may require
-compliance with the MIT License, as well as the other licenses applicable to
-the third-party components included within RapidJSON. To avoid the problematic
-JSON license in your own projects, it's sufficient to exclude the
-bin/jsonchecker/ directory, as it's the only code under the JSON license.
-A copy of the MIT License is included in this file.
-
-Other dependencies and licenses:
-
-    Open Source Software Licensed Under the BSD License:
-    --------------------------------------------------------------------
-
-    The msinttypes r29
-    Copyright (c) 2006-2013 Alexander Chemeris
-    All rights reserved.
-
-    Redistribution and use in source and binary forms, with or without
-    modification, are permitted provided that the following conditions are met:
-
-    * Redistributions of source code must retain the above copyright notice,
-    this list of conditions and the following disclaimer.
-    * Redistributions in binary form must reproduce the above copyright notice,
-    this list of conditions and the following disclaimer in the documentation
-    and/or other materials provided with the distribution.
-    * Neither the name of  copyright holder nor the names of its contributors
-    may be used to endorse or promote products derived from this software
-    without specific prior written permission.
-
-    THIS SOFTWARE IS PROVIDED BY THE REGENTS AND CONTRIBUTORS ``AS IS'' AND ANY
-    EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
-    WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
-    DISCLAIMED. IN NO EVENT SHALL THE REGENTS AND CONTRIBUTORS BE LIABLE FOR
-    ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
-    DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
-    SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
-    CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT
-    LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY
-    OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH
-    DAMAGE.
-
-    Terms of the MIT License:
-    --------------------------------------------------------------------
-
-    Permission is hereby granted, free of charge, to any person obtaining a
-    copy of this software and associated documentation files (the "Software"),
-    to deal in the Software without restriction, including without limitation
-    the rights to use, copy, modify, merge, publish, distribute, sublicense,
-    and/or sell copies of the Software, and to permit persons to whom the
-    Software is furnished to do so, subject to the following conditions:
-
-    The above copyright notice and this permission notice shall be included
-    in all copies or substantial portions of the Software.
-
-    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-    IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-    FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-    AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-    LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-    FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
-    DEALINGS IN THE SOFTWARE.
-
---------------------------------------------------------------------------------
-
-3rdparty dependency snappy is statically linked in certain binary
-distributions, like the python wheels. snappy has the following license:
-
-Copyright 2011, Google Inc.
-All rights reserved.
-
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are
-met:
-
-    * Redistributions of source code must retain the above copyright notice,
-      this list of conditions and the following disclaimer.
-    * Redistributions in binary form must reproduce the above copyright notice,
-      this list of conditions and the following disclaimer in the documentation
-      and/or other materials provided with the distribution.
-    * Neither the name of Google Inc. nor the names of its contributors may be
-      used to endorse or promote products derived from this software without
-      specific prior written permission.
-
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
-"AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
-LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
-A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
-OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
-SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
-LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
-DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
-THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
-(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
-===
-
-Some of the benchmark data in testdata/ is licensed differently:
-
- - fireworks.jpeg is Copyright 2013 Steinar H. Gunderson, and
-   is licensed under the Creative Commons Attribution 3.0 license
-   (CC-BY-3.0). See https://creativecommons.org/licenses/by/3.0/
-   for more information.
-
- - kppkn.gtb is taken from the Gaviota chess tablebase set, and
-   is licensed under the MIT License. See
-   https://sites.google.com/site/gaviotachessengine/Home/endgame-tablebases-1
-   for more information.
-
- - paper-100k.pdf is an excerpt (bytes 92160 to 194560) from the paper
-   “Combinatorial Modeling of Chromatin Features Quantitatively Predicts DNA
-   Replication Timing in _Drosophila_” by Federico Comoglio and Renato Paro,
-   which is licensed under the CC-BY license. See
-   http://www.ploscompbiol.org/static/license for more ifnormation.
-
- - alice29.txt, asyoulik.txt, plrabn12.txt and lcet10.txt are from Project
-   Gutenberg. The first three have expired copyrights and are in the public
-   domain; the latter does not have expired copyright, but is still in the
-   public domain according to the license information
-   (http://www.gutenberg.org/ebooks/53).
-
---------------------------------------------------------------------------------
-
-3rdparty dependency gflags is statically linked in certain binary
-distributions, like the python wheels. gflags has the following license:
-
-Copyright (c) 2006, Google Inc.
-All rights reserved.
-
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are
-met:
-
-    * Redistributions of source code must retain the above copyright
-notice, this list of conditions and the following disclaimer.
-    * Redistributions in binary form must reproduce the above
-copyright notice, this list of conditions and the following disclaimer
-in the documentation and/or other materials provided with the
-distribution.
-    * Neither the name of Google Inc. nor the names of its
-contributors may be used to endorse or promote products derived from
-this software without specific prior written permission.
-
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
-"AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
-LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
-A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
-OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
-SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
-LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
-DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
-THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
-(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
---------------------------------------------------------------------------------
-
-3rdparty dependency glog is statically linked in certain binary
-distributions, like the python wheels. glog has the following license:
-
-Copyright (c) 2008, Google Inc.
-All rights reserved.
-
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are
-met:
-
-    * Redistributions of source code must retain the above copyright
-notice, this list of conditions and the following disclaimer.
-    * Redistributions in binary form must reproduce the above
-copyright notice, this list of conditions and the following disclaimer
-in the documentation and/or other materials provided with the
-distribution.
-    * Neither the name of Google Inc. nor the names of its
-contributors may be used to endorse or promote products derived from
-this software without specific prior written permission.
-
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
-"AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
-LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
-A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
-OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
-SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
-LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
-DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
-THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
-(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
-
-A function gettimeofday in utilities.cc is based on
-
-http://www.google.com/codesearch/p?hl=en#dR3YEbitojA/COPYING&q=GetSystemTimeAsFileTime%20license:bsd
-
-The license of this code is:
-
-Copyright (c) 2003-2008, Jouni Malinen <j@w1.fi> and contributors
-All Rights Reserved.
-
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are
-met:
-
-1. Redistributions of source code must retain the above copyright
-   notice, this list of conditions and the following disclaimer.
-
-2. Redistributions in binary form must reproduce the above copyright
-   notice, this list of conditions and the following disclaimer in the
-   documentation and/or other materials provided with the distribution.
-
-3. Neither the name(s) of the above-listed copyright holder(s) nor the
-   names of its contributors may be used to endorse or promote products
-   derived from this software without specific prior written permission.
-
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
-"AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
-LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
-A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
-OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
-SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
-LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
-DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
-THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
-(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
---------------------------------------------------------------------------------
-
-3rdparty dependency re2 is statically linked in certain binary
-distributions, like the python wheels. re2 has the following license:
-
-Copyright (c) 2009 The RE2 Authors. All rights reserved.
-
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are
-met:
-
-    * Redistributions of source code must retain the above copyright
-      notice, this list of conditions and the following disclaimer.
-    * Redistributions in binary form must reproduce the above
-      copyright notice, this list of conditions and the following
-      disclaimer in the documentation and/or other materials provided
-      with the distribution.
-    * Neither the name of Google Inc. nor the names of its contributors
-      may be used to endorse or promote products derived from this
-      software without specific prior written permission.
-
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
-"AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
-LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
-A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
-OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
-SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
-LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
-DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
-THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
-(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
---------------------------------------------------------------------------------
-
-3rdparty dependency c-ares is statically linked in certain binary
-distributions, like the python wheels. c-ares has the following license:
-
-# c-ares license
-
-Copyright (c) 2007 - 2018, Daniel Stenberg with many contributors, see AUTHORS
-file.
-
-Copyright 1998 by the Massachusetts Institute of Technology.
-
-Permission to use, copy, modify, and distribute this software and its
-documentation for any purpose and without fee is hereby granted, provided that
-the above copyright notice appear in all copies and that both that copyright
-notice and this permission notice appear in supporting documentation, and that
-the name of M.I.T. not be used in advertising or publicity pertaining to
-distribution of the software without specific, written prior permission.
-M.I.T. makes no representations about the suitability of this software for any
-purpose.  It is provided "as is" without express or implied warranty.
-
---------------------------------------------------------------------------------
-
-3rdparty dependency zlib is redistributed as a dynamically linked shared
-library in certain binary distributions, like the python wheels. In the future
-this will likely change to static linkage. zlib has the following license:
-
-zlib.h -- interface of the 'zlib' general purpose compression library
-  version 1.2.11, January 15th, 2017
-
-  Copyright (C) 1995-2017 Jean-loup Gailly and Mark Adler
-
-  This software is provided 'as-is', without any express or implied
-  warranty.  In no event will the authors be held liable for any damages
-  arising from the use of this software.
-
-  Permission is granted to anyone to use this software for any purpose,
-  including commercial applications, and to alter it and redistribute it
-  freely, subject to the following restrictions:
-
-  1. The origin of this software must not be misrepresented; you must not
-     claim that you wrote the original software. If you use this software
-     in a product, an acknowledgment in the product documentation would be
-     appreciated but is not required.
-  2. Altered source versions must be plainly marked as such, and must not be
-     misrepresented as being the original software.
-  3. This notice may not be removed or altered from any source distribution.
-
-  Jean-loup Gailly        Mark Adler
-  jloup@gzip.org          madler@alumni.caltech.edu
-
---------------------------------------------------------------------------------
-
-3rdparty dependency openssl is redistributed as a dynamically linked shared
-library in certain binary distributions, like the python wheels. openssl
-preceding version 3 has the following license:
-
-  LICENSE ISSUES
-  ==============
-
-  The OpenSSL toolkit stays under a double license, i.e. both the conditions of
-  the OpenSSL License and the original SSLeay license apply to the toolkit.
-  See below for the actual license texts.
-
-  OpenSSL License
-  ---------------
-
-/* ====================================================================
- * Copyright (c) 1998-2019 The OpenSSL Project.  All rights reserved.
- *
- * Redistribution and use in source and binary forms, with or without
- * modification, are permitted provided that the following conditions
- * are met:
- *
- * 1. Redistributions of source code must retain the above copyright
- *    notice, this list of conditions and the following disclaimer.
- *
- * 2. Redistributions in binary form must reproduce the above copyright
- *    notice, this list of conditions and the following disclaimer in
- *    the documentation and/or other materials provided with the
- *    distribution.
- *
- * 3. All advertising materials mentioning features or use of this
- *    software must display the following acknowledgment:
- *    "This product includes software developed by the OpenSSL Project
- *    for use in the OpenSSL Toolkit. (http://www.openssl.org/)"
- *
- * 4. The names "OpenSSL Toolkit" and "OpenSSL Project" must not be used to
- *    endorse or promote products derived from this software without
- *    prior written permission. For written permission, please contact
- *    openssl-core@openssl.org.
- *
- * 5. Products derived from this software may not be called "OpenSSL"
- *    nor may "OpenSSL" appear in their names without prior written
- *    permission of the OpenSSL Project.
- *
- * 6. Redistributions of any form whatsoever must retain the following
- *    acknowledgment:
- *    "This product includes software developed by the OpenSSL Project
- *    for use in the OpenSSL Toolkit (http://www.openssl.org/)"
- *
- * THIS SOFTWARE IS PROVIDED BY THE OpenSSL PROJECT ``AS IS'' AND ANY
- * EXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
- * IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
- * PURPOSE ARE DISCLAIMED.  IN NO EVENT SHALL THE OpenSSL PROJECT OR
- * ITS CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
- * SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT
- * NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
- * LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
- * HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT,
- * STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
- * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED
- * OF THE POSSIBILITY OF SUCH DAMAGE.
- * ====================================================================
- *
- * This product includes cryptographic software written by Eric Young
- * (eay@cryptsoft.com).  This product includes software written by Tim
- * Hudson (tjh@cryptsoft.com).
- *
- */
-
- Original SSLeay License
- -----------------------
-
-/* Copyright (C) 1995-1998 Eric Young (eay@cryptsoft.com)
- * All rights reserved.
- *
- * This package is an SSL implementation written
- * by Eric Young (eay@cryptsoft.com).
- * The implementation was written so as to conform with Netscapes SSL.
- *
- * This library is free for commercial and non-commercial use as long as
- * the following conditions are aheared to.  The following conditions
- * apply to all code found in this distribution, be it the RC4, RSA,
- * lhash, DES, etc., code; not just the SSL code.  The SSL documentation
- * included with this distribution is covered by the same copyright terms
- * except that the holder is Tim Hudson (tjh@cryptsoft.com).
- *
- * Copyright remains Eric Young's, and as such any Copyright notices in
- * the code are not to be removed.
- * If this package is used in a product, Eric Young should be given attribution
- * as the author of the parts of the library used.
- * This can be in the form of a textual message at program startup or
- * in documentation (online or textual) provided with the package.
- *
- * Redistribution and use in source and binary forms, with or without
- * modification, are permitted provided that the following conditions
- * are met:
- * 1. Redistributions of source code must retain the copyright
- *    notice, this list of conditions and the following disclaimer.
- * 2. Redistributions in binary form must reproduce the above copyright
- *    notice, this list of conditions and the following disclaimer in the
- *    documentation and/or other materials provided with the distribution.
- * 3. All advertising materials mentioning features or use of this software
- *    must display the following acknowledgement:
- *    "This product includes cryptographic software written by
- *     Eric Young (eay@cryptsoft.com)"
- *    The word 'cryptographic' can be left out if the rouines from the library
- *    being used are not cryptographic related :-).
- * 4. If you include any Windows specific code (or a derivative thereof) from
- *    the apps directory (application code) you must include an acknowledgement:
- *    "This product includes software written by Tim Hudson (tjh@cryptsoft.com)"
- *
- * THIS SOFTWARE IS PROVIDED BY ERIC YOUNG ``AS IS'' AND
- * ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
- * IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
- * ARE DISCLAIMED.  IN NO EVENT SHALL THE AUTHOR OR CONTRIBUTORS BE LIABLE
- * FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
- * DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS
- * OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
- * HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT
- * LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY
- * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
- * SUCH DAMAGE.
- *
- * The licence and distribution terms for any publically available version or
- * derivative of this code cannot be changed.  i.e. this code cannot simply be
- * copied and put under another distribution licence
- * [including the GNU Public Licence.]
- */
-
---------------------------------------------------------------------------------
-
-This project includes code from the rtools-backports project.
-
-* ci/scripts/PKGBUILD and ci/scripts/r_windows_build.sh are based on code
-  from the rtools-backports project.
-
-Copyright: Copyright (c) 2013 - 2019, Алексей and Jeroen Ooms.
-All rights reserved.
-Homepage: https://github.com/r-windows/rtools-backports
-License: 3-clause BSD
-
---------------------------------------------------------------------------------
-
-Some code from pandas has been adapted for the pyarrow codebase. pandas is
-available under the 3-clause BSD license, which follows:
-
-pandas license
-==============
-
-Copyright (c) 2011-2012, Lambda Foundry, Inc. and PyData Development Team
-All rights reserved.
-
-Copyright (c) 2008-2011 AQR Capital Management, LLC
-All rights reserved.
-
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are
-met:
-
-    * Redistributions of source code must retain the above copyright
-       notice, this list of conditions and the following disclaimer.
-
-    * Redistributions in binary form must reproduce the above
-       copyright notice, this list of conditions and the following
-       disclaimer in the documentation and/or other materials provided
-       with the distribution.
-
-    * Neither the name of the copyright holder nor the names of any
-       contributors may be used to endorse or promote products derived
-       from this software without specific prior written permission.
-
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDER AND CONTRIBUTORS
-"AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
-LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
-A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
-OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
-SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
-LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
-DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
-THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
-(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
---------------------------------------------------------------------------------
-
-Some bits from DyND, in particular aspects of the build system, have been
-adapted from libdynd and dynd-python under the terms of the BSD 2-clause
-license
-
-The BSD 2-Clause License
-
-    Copyright (C) 2011-12, Dynamic NDArray Developers
-    All rights reserved.
-
-    Redistribution and use in source and binary forms, with or without
-    modification, are permitted provided that the following conditions are
-    met:
-
-        * Redistributions of source code must retain the above copyright
-           notice, this list of conditions and the following disclaimer.
-
-        * Redistributions in binary form must reproduce the above
-           copyright notice, this list of conditions and the following
-           disclaimer in the documentation and/or other materials provided
-           with the distribution.
-
-    THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
-    "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
-    LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
-    A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
-    OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
-    SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
-    LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
-    DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
-    THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
-    (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-    OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
-Dynamic NDArray Developers list:
-
- * Mark Wiebe
- * Continuum Analytics
-
---------------------------------------------------------------------------------
-
-Some source code from Ibis (https://github.com/cloudera/ibis) has been adapted
-for PyArrow. Ibis is released under the Apache License, Version 2.0.
-
---------------------------------------------------------------------------------
-
-dev/tasks/homebrew-formulae/apache-arrow.rb has the following license:
-
-BSD 2-Clause License
-
-Copyright (c) 2009-present, Homebrew contributors
-All rights reserved.
-
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are met:
-
-* Redistributions of source code must retain the above copyright notice, this
-  list of conditions and the following disclaimer.
-
-* Redistributions in binary form must reproduce the above copyright notice,
-  this list of conditions and the following disclaimer in the documentation
-  and/or other materials provided with the distribution.
-
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
-AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
-IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
-DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
-FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
-DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
-SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
-CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
-OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
-----------------------------------------------------------------------
-
-cpp/src/arrow/vendored/base64.cpp has the following license
-
-ZLIB License
-
-Copyright (C) 2004-2017 René Nyffenegger
-
-This source code is provided 'as-is', without any express or implied
-warranty. In no event will the author be held liable for any damages arising
-from the use of this software.
-
-Permission is granted to anyone to use this software for any purpose, including
-commercial applications, and to alter it and redistribute it freely, subject to
-the following restrictions:
-
-1. The origin of this source code must not be misrepresented; you must not
-   claim that you wrote the original source code. If you use this source code
-   in a product, an acknowledgment in the product documentation would be
-   appreciated but is not required.
-
-2. Altered source versions must be plainly marked as such, and must not be
-   misrepresented as being the original source code.
-
-3. This notice may not be removed or altered from any source distribution.
-
-René Nyffenegger rene.nyffenegger@adp-gmbh.ch
-
---------------------------------------------------------------------------------
-
-This project includes code from Folly.
-
- * cpp/src/arrow/vendored/ProducerConsumerQueue.h
-
-is based on Folly's
-
- * folly/Portability.h
- * folly/lang/Align.h
- * folly/ProducerConsumerQueue.h
-
-Copyright: Copyright (c) Facebook, Inc. and its affiliates.
-Home page: https://github.com/facebook/folly
-License: http://www.apache.org/licenses/LICENSE-2.0
-
---------------------------------------------------------------------------------
-
-The file cpp/src/arrow/vendored/musl/strptime.c has the following license
-
-Copyright © 2005-2020 Rich Felker, et al.
-
-Permission is hereby granted, free of charge, to any person obtaining
-a copy of this software and associated documentation files (the
-"Software"), to deal in the Software without restriction, including
-without limitation the rights to use, copy, modify, merge, publish,
-distribute, sublicense, and/or sell copies of the Software, and to
-permit persons to whom the Software is furnished to do so, subject to
-the following conditions:
-
-The above copyright notice and this permission notice shall be
-included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
-CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
-TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
-SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
---------------------------------------------------------------------------------
-
-The file cpp/cmake_modules/BuildUtils.cmake contains code from
-
-https://gist.github.com/cristianadam/ef920342939a89fae3e8a85ca9459b49
-
-which is made available under the MIT license
-
-Copyright (c) 2019 Cristian Adam
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
---------------------------------------------------------------------------------
-
-The files in cpp/src/arrow/vendored/portable-snippets/ contain code from
-
-https://github.com/nemequ/portable-snippets
-
-and have the following copyright notice:
-
-Each source file contains a preamble explaining the license situation
-for that file, which takes priority over this file.  With the
-exception of some code pulled in from other repositories (such as
-µnit, an MIT-licensed project which is used for testing), the code is
-public domain, released using the CC0 1.0 Universal dedication (*).
-
-(*) https://creativecommons.org/publicdomain/zero/1.0/legalcode
-
---------------------------------------------------------------------------------
-
-The files in cpp/src/arrow/vendored/fast_float/ contain code from
-
-https://github.com/lemire/fast_float
-
-which is made available under the Apache License 2.0.
-
---------------------------------------------------------------------------------
-
-The file python/pyarrow/vendored/docscrape.py contains code from
-
-https://github.com/numpy/numpydoc/
-
-which is made available under the BSD 2-clause license.
-
---------------------------------------------------------------------------------
-
-The file python/pyarrow/vendored/version.py contains code from
-
-https://github.com/pypa/packaging/
-
-which is made available under both the Apache license v2.0 and the
-BSD 2-clause license.
-
---------------------------------------------------------------------------------
-
-The files in cpp/src/arrow/vendored/pcg contain code from
-
-https://github.com/imneme/pcg-cpp
-
-and have the following copyright notice:
-
-Copyright 2014-2019 Melissa O'Neill <oneill@pcg-random.org>,
-                    and the PCG Project contributors.
-
-SPDX-License-Identifier: (Apache-2.0 OR MIT)
-
-Licensed under the Apache License, Version 2.0 (provided in
-LICENSE-APACHE.txt and at http://www.apache.org/licenses/LICENSE-2.0)
-or under the MIT license (provided in LICENSE-MIT.txt and at
-http://opensource.org/licenses/MIT), at your option. This file may not
-be copied, modified, or distributed except according to those terms.
-
-Distributed on an "AS IS" BASIS, WITHOUT WARRANTY OF ANY KIND, either
-express or implied.  See your chosen license for details.
-
---------------------------------------------------------------------------------
-r/R/dplyr-count-tally.R (some portions)
-
-Some portions of this file are derived from code from
-
-https://github.com/tidyverse/dplyr/
-
-which is made available under the MIT license
-
-Copyright (c) 2013-2019 RStudio and others.
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of
-this software and associated documentation files (the “Software”), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
---------------------------------------------------------------------------------
-
-The file src/arrow/util/io_util.cc contains code from the CPython project
-which is made available under the Python Software Foundation License Version 2.
-
---------------------------------------------------------------------------------
-
-3rdparty dependency opentelemetry-cpp is statically linked in certain binary
-distributions. opentelemetry-cpp is made available under the Apache License 2.0.
-
-Copyright The OpenTelemetry Authors
-SPDX-License-Identifier: Apache-2.0
-
---------------------------------------------------------------------------------
-
-ci/conan/ is based on code from Conan Package and Dependency Manager.
-
-Copyright (c) 2019 Conan.io
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
---------------------------------------------------------------------------------
-
-3rdparty dependency UCX is redistributed as a dynamically linked shared
-library in certain binary distributions. UCX has the following license:
-
-Copyright (c) 2014-2015      UT-Battelle, LLC. All rights reserved.
-Copyright (C) 2014-2020      Mellanox Technologies Ltd. All rights reserved.
-Copyright (C) 2014-2015      The University of Houston System. All rights reserved.
-Copyright (C) 2015           The University of Tennessee and The University
-                             of Tennessee Research Foundation. All rights reserved.
-Copyright (C) 2016-2020      ARM Ltd. All rights reserved.
-Copyright (c) 2016           Los Alamos National Security, LLC. All rights reserved.
-Copyright (C) 2016-2020      Advanced Micro Devices, Inc.  All rights reserved.
-Copyright (C) 2019           UChicago Argonne, LLC.  All rights reserved.
-Copyright (c) 2018-2020      NVIDIA CORPORATION. All rights reserved.
-Copyright (C) 2020           Huawei Technologies Co., Ltd. All rights reserved.
-Copyright (C) 2016-2020      Stony Brook University. All rights reserved.
-
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions
-are met:
-
-1. Redistributions of source code must retain the above copyright
-notice, this list of conditions and the following disclaimer.
-2. Redistributions in binary form must reproduce the above copyright
-notice, this list of conditions and the following disclaimer in the
-documentation and/or other materials provided with the distribution.
-3. Neither the name of the copyright holder nor the names of its
-contributors may be used to endorse or promote products derived from
-this software without specific prior written permission.
-
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
-"AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
-LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
-A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
-HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
-SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED
-TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR
-PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF
-LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
-NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
-SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
---------------------------------------------------------------------------------
-
-The file dev/tasks/r/github.packages.yml contains code from
-
-https://github.com/ursa-labs/arrow-r-nightly
-
-which is made available under the Apache License 2.0.
-
---------------------------------------------------------------------------------
-.github/actions/sync-nightlies/action.yml  (some portions)
-
-Some portions of this file are derived from code from
-
-https://github.com/JoshPiper/rsync-docker
-
-which is made available under the MIT license
-
-Copyright (c) 2020 Joshua Piper
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
---------------------------------------------------------------------------------
-.github/actions/sync-nightlies/action.yml (some portions)
-
-Some portions of this file are derived from code from
-
-https://github.com/burnett01/rsync-deployments
-
-which is made available under the MIT license
-
-Copyright (c) 2019-2022 Contention
-Copyright (c) 2019-2022 Burnett01
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
---------------------------------------------------------------------------------
-java/vector/src/main/java/org/apache/arrow/vector/util/IntObjectHashMap.java
-java/vector/src/main/java/org/apache/arrow/vector/util/IntObjectMap.java
-
-These files are derived from code from Netty, which is made available under the
-Apache License 2.0.
-
---------------------------------------------------------------------------------
-cpp/src/arrow/util/math_internal.cc (some portions)
-
-Some portions of this file are derived from
-
-https://github.com/ankane/dist-rust/
-
-which is made available under the MIT license
-
-The MIT License (MIT)
-
-Copyright (c) 2021-2023 Contributors
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
-
---------------------------------------------------------------------------------
-The files cpp/src/arrow/vendored/whereami/whereami.h,
-cpp/src/arrow/vendored/whereami/whereami.cc are adapted from
-Grégory Pakosz's whereami library (https://github.com/gpakosz/whereami)
-It is dual licensed under both the WTFPLv2 and MIT licenses.
-
-The WTFPLv2 License
-        DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
-                    Version 2, December 2004
-
- Copyright (C) 2004 Sam Hocevar <sam@hocevar.net>
-
- Everyone is permitted to copy and distribute verbatim or modified
- copies of this license document, and changing it is allowed as long
- as the name is changed.
-
-            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
-   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
-
-  0. You just DO WHAT THE FUCK YOU WANT TO.
-  1. Bla bla bla
-  2. Montesqieu et camembert, vive la France, zut alors!
-
-The MIT License (MIT)
-Copyright Gregory Pakosz
-
-Permission is hereby granted, free of charge, to any person obtaining a copy of
-this software and associated documentation files (the "Software"), to deal in
-the Software without restriction, including without limitation the rights to
-use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
-the Software, and to permit persons to whom the Software is furnished to do so,
-subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
-FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
-COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
-IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
-CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
+UNKNOWN
+UNKNOWN
 
 pycparser
-2.23
-BSD License
-Eli Bendersky
+3.0
+BSD-3-Clause
+Eli Bendersky <eliben@gmail.com>
 https://github.com/eliben/pycparser
 C parser in Python
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/pycparser-2.23.dist-info/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/pycparser-3.0.dist-info/licenses/LICENSE
 pycparser -- A C parser in Python
 
 Copyright (c) 2008-2022, Eli Bendersky
@@ -12222,7 +9897,7 @@ BSD-2-Clause
 Leland McInnes <leland.mcinnes@gmail.com>
 http://github.com/lmcinnes/pynndescent
 Nearest Neighbor Descent
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/pynndescent-0.6.0.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/pynndescent-0.6.0.dist-info/licenses/LICENSE
 BSD 2-Clause License
 
 Copyright (c) 2018, Leland McInnes
@@ -12256,7 +9931,7 @@ MIT License
 pyogrio contributors
 https://github.com/geopandas/pyogrio
 Vectorized spatial vector file format I/O using GDAL/OGR
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/pyogrio-0.12.1.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/pyogrio-0.12.1.dist-info/licenses/LICENSE
 MIT License
 
 Copyright (c) 2020-2024 Brendan C. Ward and pyogrio contributors
@@ -12281,12 +9956,12 @@ SOFTWARE.
 
 
 pyparsing
-3.3.1
+3.3.2
 MIT
 Paul McGuire <ptmcg.gm+pyparsing@gmail.com>
 https://github.com/pyparsing/pyparsing/
 pyparsing - Classes and methods to define and execute parsing grammars
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/pyparsing-3.3.1.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/pyparsing-3.3.2.dist-info/licenses/LICENSE
 Copyright (c) 2003-2025  Paul McGuire
 
 Permission is hereby granted, free of charge, to any person obtaining
@@ -12315,7 +9990,7 @@ MIT
 Jeff Whitaker <jeffrey.s.whitaker@noaa.gov>
 https://github.com/pyproj4/pyproj
 Python interface to PROJ (cartographic projections and coordinate transformations library)
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/pyproj-3.7.2.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/pyproj-3.7.2.dist-info/licenses/LICENSE
 Copyright (c) 2006-2018, Jeffrey Whitaker.
 Copyright (c) 2019-2024, Open source contributors.
 
@@ -12343,7 +10018,7 @@ MIT License
 Thomas Kluyver <thomas@kluyver.me.uk>
 https://github.com/pypa/pyproject-hooks
 Wrappers to call pyproject.toml-based build backend hooks.
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/pyproject_hooks-1.2.0.dist-info/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/pyproject_hooks-1.2.0.dist-info/LICENSE
 The MIT License (MIT)
 
 Copyright (c) 2017 Thomas Kluyver
@@ -12373,7 +10048,7 @@ MIT
 Holger Krekel, Bruno Oliveira, Ronny Pfannschmidt, Floris Bruynooghe, Brianna Laugher, Florian Bruhin, Others (See AUTHORS)
 https://docs.pytest.org/en/latest/
 pytest: simple powerful testing with Python
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/pytest-9.0.2.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/pytest-9.0.2.dist-info/licenses/LICENSE
 The MIT License (MIT)
 
 Copyright (c) 2004 Holger Krekel and others
@@ -12403,7 +10078,7 @@ DFSG approved; MIT License
 Floris Bruynooghe
 https://github.com/pytest-dev/pytest-timeout
 pytest plugin to abort hanging tests
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/pytest_timeout-2.4.0.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/pytest_timeout-2.4.0.dist-info/licenses/LICENSE
 The MIT License
 
 Copyright (C) 2012, 2014 Floris Bruynooghe
@@ -12434,7 +10109,7 @@ Apache Software License; BSD License
 Gustavo Niemeyer
 https://github.com/dateutil/dateutil
 Extensions to the standard Python datetime module
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/python_dateutil-2.9.0.post0.dist-info/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/python_dateutil-2.9.0.post0.dist-info/LICENSE
 Copyright 2017- Paul Ganssle <paul@ganssle.io>
 Copyright 2017- dateutil contributors (see AUTHORS file)
 
@@ -12496,7 +10171,7 @@ BSD License
 Zakaria Zajac <zak@madzak.com>, Nicholas Hairs <info+python-json-logger@nicholashairs.com>
 https://nhairs.github.io/python-json-logger
 JSON Log Formatter for the Python Logging Package
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/python_json_logger-4.0.0.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/python_json_logger-4.0.0.dist-info/licenses/LICENSE
 Copyright (c) 2011, Zakaria Zajac and the python-json-logger Contributors
 All rights reserved.
 
@@ -12514,7 +10189,7 @@ MIT License
 Stuart Bishop
 http://pythonhosted.org/pytz
 World timezone definitions, modern and historical
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/pytz-2025.2.dist-info/LICENSE.txt
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/pytz-2025.2.dist-info/LICENSE.txt
 Copyright (c) 2003-2019 Stuart Bishop <stuart@stuartbishop.net>
 
 Permission is hereby granted, free of charge, to any person obtaining a
@@ -12542,7 +10217,7 @@ BSD License
 Brian E. Granger, Min Ragan-Kelley
 https://pyzmq.readthedocs.org
 Python bindings for 0MQ
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/pyzmq-27.1.0.dist-info/licenses/LICENSE.md
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/pyzmq-27.1.0.dist-info/licenses/LICENSE.md
 BSD 3-Clause License
 
 Copyright (c) 2009-2012, Brian Granger, Min Ragan-Kelley
@@ -12581,7 +10256,7 @@ MIT
 Julian Berman <Julian+referencing@GrayVines.com>
 https://github.com/python-jsonschema/referencing
 JSON Referencing + Python
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/referencing-0.37.0.dist-info/licenses/COPYING
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/referencing-0.37.0.dist-info/licenses/COPYING
 Copyright (c) 2022 Julian Berman
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -12604,12 +10279,12 @@ THE SOFTWARE.
 
 
 regex
-2025.11.3
+2026.1.15
 Apache-2.0 AND CNRI-Python
 Matthew Barnett <regex@mrabarnett.plus.com>
 https://github.com/mrabarnett/mrab-regex
 Alternative regular expression module, to replace re.
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/regex-2025.11.3.dist-info/licenses/LICENSE.txt
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/regex-2026.1.15.dist-info/licenses/LICENSE.txt
 This work was derived from the 're' module of CPython 2.6 and CPython 3.1,
 copyright (c) 1998-2001 by Secret Labs AB and licensed under CNRI's Python 1.6
 license.
@@ -12826,7 +10501,7 @@ Apache Software License
 Kenneth Reitz
 https://requests.readthedocs.io
 Python HTTP for Humans.
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/requests-2.32.5.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/requests-2.32.5.dist-info/licenses/LICENSE
 
                                  Apache License
                            Version 2.0, January 2004
@@ -13010,7 +10685,7 @@ MIT License
 Nicolas Aimetti
 https://github.com/naimetti/rfc3339-validator
 A pure python RFC3339 validator
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/rfc3339_validator-0.1.4.dist-info/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/rfc3339_validator-0.1.4.dist-info/LICENSE
 MIT License
 
 Copyright (c) 2019, Nicolas Aimetti
@@ -13041,7 +10716,7 @@ MIT License
 Nicolas Aimetti
 https://github.com/naimetti/rfc3986-validator
 Pure python rfc3986 validator
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/rfc3986_validator-0.1.1.dist-info/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/rfc3986_validator-0.1.1.dist-info/LICENSE
 MIT License
 
 Copyright (c) 2019, Nicolas Aimetti
@@ -13072,7 +10747,7 @@ MIT
 Jan Kowalleck
 https://github.com/willynilly/rfc3987-syntax
 Helper functions to syntactically validate strings according to RFC 3987.
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/rfc3987_syntax-1.1.0.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/rfc3987_syntax-1.1.0.dist-info/licenses/LICENSE
 MIT License
 
 Copyright (c) 2025 Will Riley
@@ -13097,12 +10772,12 @@ SOFTWARE.
 
 
 rich
-14.2.0
+14.3.2
 MIT License
 Will McGugan
 https://github.com/Textualize/rich
 Render rich text, tables, progress bars, syntax highlighting, markdown and more to the terminal
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/rich-14.2.0.dist-info/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/rich-14.3.2.dist-info/LICENSE
 Copyright (c) 2020 Will McGugan
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -13130,7 +10805,7 @@ MIT
 Julian Berman <Julian+rpds@GrayVines.com>
 https://github.com/crate-py/rpds
 Python bindings to Rust's persistent data structures (rpds)
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/rpds_py-0.30.0.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/rpds_py-0.30.0.dist-info/licenses/LICENSE
 Copyright (c) 2023 Julian Berman
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -13158,7 +10833,7 @@ MIT License
 UNKNOWN
 https://github.com/hplt-project/sacremoses
 SacreMoses
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/sacremoses-0.1.1.dist-info/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/sacremoses-0.1.1.dist-info/LICENSE
 MIT License
 
 Copyright (c) 2020 alvations
@@ -13188,7 +10863,7 @@ BSD-3-Clause
 UNKNOWN
 https://scikit-learn.org
 A set of python modules for machine learning and data mining
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/scikit_learn-1.8.0.dist-info/licenses/COPYING
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/scikit_learn-1.8.0.dist-info/licenses/COPYING
 BSD 3-Clause License
 
 Copyright (c) 2007-2024 The scikit-learn developers.
@@ -13309,7 +10984,7 @@ BSD License
 UNKNOWN
 https://scipy.org/
 Fundamental algorithms for scientific computing in Python
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/scipy-1.17.0.dist-info/LICENSE.txt
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/scipy-1.17.0.dist-info/LICENSE.txt
 Copyright (c) 2001-2002 Enthought, Inc. 2003, SciPy Developers.
 All rights reserved.
 
@@ -14252,7 +11927,7 @@ BSD License
 Michael Waskom <mwaskom@gmail.com>
 https://github.com/mwaskom/seaborn
 Statistical data visualization
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/seaborn-0.13.2.dist-info/LICENSE.md
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/seaborn-0.13.2.dist-info/LICENSE.md
 Copyright (c) 2012-2023, Michael L. Waskom
 All rights reserved.
 
@@ -14288,7 +11963,7 @@ BSD License
 Raphaël Barrois
 https://github.com/rbarrois/python-semanticversion
 A library implementing the 'SemVer' scheme.
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/semantic_version-2.10.0.dist-info/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/semantic_version-2.10.0.dist-info/LICENSE
 Copyright (c) The python-semanticversion project
 All rights reserved.
 
@@ -14319,7 +11994,7 @@ BSD License
 Sean Gillies
 https://github.com/shapely/shapely
 Manipulation and analysis of geometric objects
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/shapely-2.1.2.dist-info/licenses/LICENSE.txt
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/shapely-2.1.2.dist-info/licenses/LICENSE.txt
 BSD 3-Clause License
 
 Copyright (c) 2007, Sean C. Gillies. 2019, Casper van der Wel. 2007-2022, Shapely Contributors.
@@ -14357,7 +12032,7 @@ Academic Free License (AFL); MIT License
 Bob Ippolito
 https://github.com/simplejson/simplejson
 Simple, fast, extensible JSON encoder/decoder for Python
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/simplejson-3.20.2.dist-info/licenses/LICENSE.txt
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/simplejson-3.20.2.dist-info/licenses/LICENSE.txt
 simplejson is dual-licensed software. It is available under the terms
 of the MIT license, or the Academic Free License version 2.1. The full
 text of each license agreement is included below. This code is also
@@ -14445,7 +12120,7 @@ MIT License
 Benjamin Peterson
 https://github.com/benjaminp/six
 Python 2 and 3 compatibility utilities
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/six-1.17.0.dist-info/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/six-1.17.0.dist-info/LICENSE
 Copyright (c) 2010-2024 Benjamin Peterson
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
@@ -14467,15 +12142,15 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
 soupsieve
-2.8.1
+2.8.3
 MIT
 Isaac Muse <Isaac.Muse@gmail.com>
 https://github.com/facelessuser/soupsieve
 A modern CSS selector implementation for Beautiful Soup.
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/soupsieve-2.8.1.dist-info/licenses/LICENSE.md
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/soupsieve-2.8.3.dist-info/licenses/LICENSE.md
 MIT License
 
-Copyright (c) 2018 - 2025 Isaac Muse <isaacmuse@gmail.com>
+Copyright (c) 2018 - 2026 Isaac Muse <isaacmuse@gmail.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -14502,7 +12177,7 @@ MIT License
 Alex Hall
 http://github.com/alexmojaki/stack_data
 Extract data from python stack frames and tracebacks for informative displays
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/stack_data-0.6.3.dist-info/LICENSE.txt
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/stack_data-0.6.3.dist-info/LICENSE.txt
 MIT License
 
 Copyright (c) 2019 Alex Hall
@@ -14532,7 +12207,7 @@ BSD License
 Jupyter Development Team <jupyter@googlegroups.com>
 https://github.com/jupyter/terminado
 Tornado websocket backend for the Xterm.js Javascript terminal emulator library.
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/terminado-0.18.1.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/terminado-0.18.1.dist-info/licenses/LICENSE
 BSD 2-Clause License
 
 - Copyright (c) 2014-, Jupyter development team
@@ -14568,7 +12243,7 @@ BSD License
 Thomas Moreau
 https://github.com/joblib/threadpoolctl
 threadpoolctl
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/threadpoolctl-3.6.0.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/threadpoolctl-3.6.0.dist-info/licenses/LICENSE
 Copyright (c) 2019, threadpoolctl contributors
 
 Redistribution and use in source and binary forms, with or without
@@ -14600,7 +12275,7 @@ BSD License
 Simon Sapin <simon.sapin@exyr.org>
 https://www.courtbouillon.org/tinycss2
 A tiny CSS parser
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/tinycss2-1.4.0.dist-info/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/tinycss2-1.4.0.dist-info/LICENSE
 BSD 3-Clause License
 
 Copyright (c) 2013-2020, Simon Sapin and contributors.
@@ -14638,7 +12313,7 @@ Apache Software License
 Facebook
 http://www.tornadoweb.org/
 Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed.
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/tornado-6.5.4.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/tornado-6.5.4.dist-info/licenses/LICENSE
 
                                  Apache License
                            Version 2.0, January 2004
@@ -14844,12 +12519,12 @@ Tornado is a Python web framework and asynchronous networking library, originall
 
 
 tqdm
-4.67.1
-MIT License; Mozilla Public License 2.0 (MPL 2.0)
+4.67.3
+MPL-2.0 AND MIT
 UNKNOWN
 https://tqdm.github.io
 Fast, Extensible Progress Meter
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/tqdm-4.67.1.dist-info/LICENCE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/tqdm-4.67.3.dist-info/licenses/LICENCE
 `tqdm` is a product of collaborative work.
 Unless otherwise stated, all authors (see commit logs) retain copyright
 for their respective work, and release the work under the MIT licence
@@ -14859,7 +12534,7 @@ Exceptions or notable authors are listed below
 in reverse chronological order:
 
 * files: *
-  MPL-2.0 2015-2024 (c) Casper da Costa-Luis
+  MPL-2.0 2015-2026 (c) Casper da Costa-Luis
   [casperdcl](https://github.com/casperdcl).
 * files: tqdm/_tqdm.py
   MIT 2016 (c) [PR #96] on behalf of Google Inc.
@@ -14907,7 +12582,7 @@ BSD License
 IPython Development Team <ipython-dev@python.org>
 https://github.com/ipython/traitlets
 Traitlets Python configuration system
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/traitlets-5.14.3.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/traitlets-5.14.3.dist-info/licenses/LICENSE
 BSD 3-Clause License
 
 - Copyright (c) 2001-, IPython Development Team
@@ -14946,7 +12621,7 @@ PSF-2.0
 "Guido van Rossum, Jukka Lehtosalo, Łukasz Langa, Michael Lee" <levkivskyi@gmail.com>
 https://github.com/python/typing_extensions
 Backported and Experimental Type Hints for Python 3.9+
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/typing_extensions-4.15.0.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/typing_extensions-4.15.0.dist-info/licenses/LICENSE
 A. HISTORY OF THE SOFTWARE
 ==========================
 
@@ -15234,7 +12909,7 @@ Apache-2.0
 Python Software Foundation
 https://github.com/python/tzdata
 Provider of IANA time zone data
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/tzdata-2025.3.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/tzdata-2025.3.dist-info/licenses/LICENSE
 Apache Software License 2.0
 
 Copyright (c) 2020, Paul Ganssle (Google)
@@ -15258,7 +12933,7 @@ BSD
 UNKNOWN
 http://github.com/lmcinnes/umap
 Uniform Manifold Approximation and Projection
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/umap_learn-0.5.11.dist-info/licenses/LICENSE.txt
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/umap_learn-0.5.11.dist-info/licenses/LICENSE.txt
 BSD 3-Clause License
 
 Copyright (c) 2017, Leland McInnes
@@ -15296,7 +12971,7 @@ MIT License
 Peter Linss <pypi@linss.com>
 https://gitlab.linss.com/open-source/python/uri-template
 RFC 6570 URI Template Processor
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/uri_template-1.3.0.dist-info/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/uri_template-1.3.0.dist-info/LICENSE
 MIT License
 
 Copyright (c) 2020 Peter Linss
@@ -15326,7 +13001,7 @@ MIT
 Andrey Petrov <andrey.petrov@shazow.net>
 https://github.com/urllib3/urllib3/blob/main/CHANGES.rst
 HTTP library with thread-safe connection pooling, file post, and more.
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/urllib3-2.6.3.dist-info/licenses/LICENSE.txt
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/urllib3-2.6.3.dist-info/licenses/LICENSE.txt
 MIT License
 
 Copyright (c) 2008-2020 Andrey Petrov and contributors.
@@ -15356,7 +13031,7 @@ BSD License
 James Bennett
 UNKNOWN
 A library for working with the color formats defined by HTML and CSS.
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/webcolors-25.10.0.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/webcolors-25.10.0.dist-info/licenses/LICENSE
 Copyright (c) James Bennett, and contributors.
 All rights reserved.
 
@@ -15402,7 +13077,7 @@ Apache Software License
 liris
 https://github.com/websocket-client/websocket-client.git
 WebSocket client for Python with low level API options
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/websocket_client-1.9.0.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/websocket_client-1.9.0.dist-info/licenses/LICENSE
 
                                  Apache License
                            Version 2.0, January 2004
@@ -15614,7 +13289,7 @@ BSD License
 Jupyter Development Team
 http://jupyter.org
 Jupyter interactive widgets for Jupyter Notebook
-/home/runner/.pyenv/versions/3.13.11/lib/python3.13/site-packages/widgetsnbextension-4.0.15.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.12/lib/python3.13/site-packages/widgetsnbextension-4.0.15.dist-info/licenses/LICENSE
 Copyright (c) 2015 Project Jupyter Contributors
 All rights reserved.
 
