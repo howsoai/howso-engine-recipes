@@ -65,7 +65,7 @@ jobs:
       config-path: ${{ steps.get-config-path.outputs.config-path }}
     steps:
 
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
 
       - name: Get config path
         id: get-config-path

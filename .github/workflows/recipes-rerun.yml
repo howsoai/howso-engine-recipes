@@ -85,7 +85,7 @@ jobs:
         PLOTLY_RENDERER: png
     steps:
 
-    - uses: actions/checkout@v4
+    - uses: actions/checkout@v6
       with:
         token: ${{ secrets.HOWSOAI_WORKFLOW_AUTOMATION_TOKEN }}
         ref: ${{ needs.gen-branch-name.outputs.branch }}
