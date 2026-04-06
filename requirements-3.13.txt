@@ -4,7 +4,7 @@
 #
 #    pip-compile --allow-unsafe --cert=None --client-cert=None --index-url=None --no-emit-index-url --output-file=requirements-3.13.txt --pip-args=None requirements.in
 #
-amalgam-lang==27.2.0
+amalgam-lang==27.3.0
     # via howso-engine
 anyio==4.13.0
     # via
@@ -48,7 +48,7 @@ charset-normalizer==3.4.7
     # via requests
 choreographer==1.2.1
     # via kaleido
-click==8.3.1
+click==8.3.2
     # via sacremoses
 comm==0.2.3
     # via
@@ -78,11 +78,11 @@ geopandas==1.1.3
     # via -r requirements.in
 h11==0.16.0
     # via httpcore
-howso-engine==58.0.0
+howso-engine==58.0.1
     # via
     #   -r requirements.in
     #   howso-visuals
-howso-visuals==3.1.0
+howso-visuals==3.1.1
     # via -r requirements.in
 httpcore==1.0.9
     # via httpx
@@ -359,7 +359,7 @@ referencing==0.37.0
     #   jsonschema
     #   jsonschema-specifications
     #   jupyter-events
-regex==2026.3.32
+regex==2026.4.4
     # via sacremoses
 requests==2.33.1
     # via
@@ -453,7 +453,7 @@ typing-extensions==4.15.0
     #   anywidget
     #   beautifulsoup4
     #   howso-engine
-tzdata==2025.3
+tzdata==2026.1
     # via
     #   arrow
     #   pandas
