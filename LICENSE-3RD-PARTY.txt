@@ -1,10 +1,10 @@
 Faker
-40.13.0
+40.15.0
 MIT License
 joke2k
 https://github.com/joke2k/faker
 Faker is a Python package that generates fake data for you.
-/home/runner/.pyenv/versions/3.13.13/lib/python3.13/site-packages/faker-40.13.0.dist-info/licenses/LICENSE.txt
+/home/runner/.pyenv/versions/3.13.13/lib/python3.13/site-packages/faker-40.15.0.dist-info/licenses/LICENSE.txt
 Copyright (c) 2012 Daniele Faraglia
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -212,12 +212,12 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
 anywidget
-0.10.0
+0.11.0
 MIT
 Trevor Manz <trevor.j.manz@gmail.com>
 https://github.com/manzt/anywidget
 custom jupyter widgets made easy
-/home/runner/.pyenv/versions/3.13.13/lib/python3.13/site-packages/anywidget-0.10.0.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.13/lib/python3.13/site-packages/anywidget-0.11.0.dist-info/licenses/LICENSE
 MIT License
 
 Copyright (c) 2022-2024 Trevor Manz
@@ -882,12 +882,12 @@ limitations under the License.
 
 
 build
-1.4.2
+1.5.0
 MIT
 Filipe Laíns <lains@riseup.net>, Bernát Gábor <gaborjbernat@gmail.com>, layday <layday@protonmail.com>, Henry Schreiner <henryschreineriii@gmail.com>
 https://build.pypa.io
 A simple, correct Python build frontend
-/home/runner/.pyenv/versions/3.13.13/lib/python3.13/site-packages/build-1.4.2.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.13/lib/python3.13/site-packages/build-1.5.0.dist-info/licenses/LICENSE
 Copyright © 2019 Filipe Laíns <filipe.lains@gmail.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a
@@ -911,12 +911,12 @@ DEALINGS IN THE SOFTWARE.
 
 
 certifi
-2026.2.25
+2026.4.22
 Mozilla Public License 2.0 (MPL 2.0)
 Kenneth Reitz
 https://github.com/certifi/python-certifi
 Python package for providing Mozilla's CA Bundle.
-/home/runner/.pyenv/versions/3.13.13/lib/python3.13/site-packages/certifi-2026.2.25.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.13/lib/python3.13/site-packages/certifi-2026.4.22.dist-info/licenses/LICENSE
 This package contains a modified version of ca-bundle.crt:
 
 ca-bundle.crt -- Bundle of CA Root Certificates
@@ -1002,7 +1002,7 @@ SOFTWARE.
 
 
 choreographer
-1.2.1
+1.3.0
 # MIT License
 
 Copyright (c) Plotly, Inc.
@@ -1031,7 +1031,7 @@ OTHER DEALINGS IN THE SOFTWARE.
 Andrew Pikul <ajpikul@gmail.com>, Neyberson Atencio <neyberatencio@gmail.com>
 https://github.com/plotly/choreographer
 Devtools Protocol implementation for chrome.
-/home/runner/.pyenv/versions/3.13.13/lib/python3.13/site-packages/choreographer-1.2.1.dist-info/licenses/LICENSE.md
+/home/runner/.pyenv/versions/3.13.13/lib/python3.13/site-packages/choreographer-1.3.0.dist-info/licenses/LICENSE.md
 # MIT License
 
 Copyright (c) Plotly, Inc.
@@ -1059,12 +1059,12 @@ OTHER DEALINGS IN THE SOFTWARE.
 
 
 click
-8.3.2
+8.3.3
 BSD-3-Clause
 UNKNOWN
 https://github.com/pallets/click/
 Composable command line interface toolkit
-/home/runner/.pyenv/versions/3.13.13/lib/python3.13/site-packages/click-8.3.2.dist-info/licenses/LICENSE.txt
+/home/runner/.pyenv/versions/3.13.13/lib/python3.13/site-packages/click-8.3.3.dist-info/licenses/LICENSE.txt
 Copyright 2014 Pallets
 
 Redistribution and use in source and binary forms, with or without
@@ -1963,15 +1963,15 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
 idna
-3.11
+3.13
 BSD-3-Clause
 Kim Davies <kim+pypi@gumleaf.org>
 https://github.com/kjd/idna
 Internationalized Domain Names in Applications (IDNA)
-/home/runner/.pyenv/versions/3.13.13/lib/python3.13/site-packages/idna-3.11.dist-info/licenses/LICENSE.md
+/home/runner/.pyenv/versions/3.13.13/lib/python3.13/site-packages/idna-3.13.dist-info/licenses/LICENSE.md
 BSD 3-Clause License
 
-Copyright (c) 2013-2025, Kim Davies and contributors.
+Copyright (c) 2013-2026, Kim Davies and contributors.
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
@@ -2108,12 +2108,12 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 ipython
-9.12.0
+9.13.0
 BSD-3-Clause
 The IPython Development Team
 https://ipython.org
 IPython: Productive Interactive Computing
-/home/runner/.pyenv/versions/3.13.13/lib/python3.13/site-packages/ipython-9.12.0.dist-info/licenses/COPYING.rst
+/home/runner/.pyenv/versions/3.13.13/lib/python3.13/site-packages/ipython-9.13.0.dist-info/licenses/COPYING.rst
 =============================
  The IPython licensing terms
 =============================
@@ -2707,12 +2707,12 @@ THE SOFTWARE.
 
 
 jupyter-events
-0.12.0
+0.12.1
 BSD License
 Jupyter Development Team <jupyter@googlegroups.com>
 http://jupyter.org
 Jupyter Event System library
-/home/runner/.pyenv/versions/3.13.13/lib/python3.13/site-packages/jupyter_events-0.12.0.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.13/lib/python3.13/site-packages/jupyter_events-0.12.1.dist-info/licenses/LICENSE
 BSD 3-Clause License
 
 Copyright (c) 2022-, Jupyter Development Team
@@ -2942,12 +2942,12 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 jupyterlab
-4.5.6
+4.5.7
 BSD License
 Jupyter Development Team <jupyter@googlegroups.com>
 https://jupyter.org
 JupyterLab computational environment
-/home/runner/.pyenv/versions/3.13.13/lib/python3.13/site-packages/jupyterlab-4.5.6.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.13/lib/python3.13/site-packages/jupyterlab-4.5.7.dist-info/licenses/LICENSE
 Copyright (c) 2015-2025 Project Jupyter Contributors
 All rights reserved.
 
@@ -3629,12 +3629,12 @@ SOFTWARE.
 
 
 matplotlib
-3.10.8
+3.10.9
 Python Software Foundation License
 John D. Hunter, Michael Droettboom
 https://matplotlib.org
 Python plotting package
-/home/runner/.pyenv/versions/3.13.13/lib/python3.13/site-packages/matplotlib-3.10.8.dist-info/LICENSE
+/home/runner/.pyenv/versions/3.13.13/lib/python3.13/site-packages/matplotlib-3.10.9.dist-info/LICENSE
 License agreement for matplotlib versions 1.3.0 and later
 =========================================================
 
@@ -4572,12 +4572,12 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 narwhals
-2.19.0
+2.20.0
 MIT License
 Marco Gorelli <hello_narwhals@proton.me>
 https://github.com/narwhals-dev/narwhals
 Extremely lightweight compatibility layer between dataframe libraries
-/home/runner/.pyenv/versions/3.13.13/lib/python3.13/site-packages/narwhals-2.19.0.dist-info/licenses/LICENSE.md
+/home/runner/.pyenv/versions/3.13.13/lib/python3.13/site-packages/narwhals-2.20.0.dist-info/licenses/LICENSE.md
 MIT License
 
 Copyright (c) 2024 to present, Marco Gorelli
@@ -4801,12 +4801,12 @@ NetworkX is distributed with the 3-clause BSD license.
 
 
 notebook
-7.5.5
+7.5.6
 BSD License
 Jupyter Development Team <jupyter@googlegroups.com>
 https://github.com/jupyter/notebook
 Jupyter Notebook - A web-based notebook environment for interactive computing
-/home/runner/.pyenv/versions/3.13.13/lib/python3.13/site-packages/notebook-7.5.5.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.13/lib/python3.13/site-packages/notebook-7.5.6.dist-info/licenses/LICENSE
 BSD 3-Clause License
 
 - Copyright (c) 2001-2015, IPython Development Team
@@ -4879,12 +4879,12 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 numba
-0.65.0
+0.65.1
 BSD License
 UNKNOWN
 https://numba.pydata.org
 compiling Python code using LLVM
-/home/runner/.pyenv/versions/3.13.13/lib/python3.13/site-packages/numba-0.65.0.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.13/lib/python3.13/site-packages/numba-0.65.1.dist-info/licenses/LICENSE
 Copyright (c) 2012, Anaconda, Inc.
 All rights reserved.
 
@@ -6066,12 +6066,12 @@ limitations under the License.
 
 
 packaging
-26.0
+26.2
 Apache-2.0 OR BSD-2-Clause
 Donald Stufft <donald@stufft.io>
 https://github.com/pypa/packaging
 Core utilities for Python packages
-/home/runner/.pyenv/versions/3.13.13/lib/python3.13/site-packages/packaging-26.0.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.13/lib/python3.13/site-packages/packaging-26.2.dist-info/licenses/LICENSE
 This software is made available under the terms of *either* of the licenses
 found in LICENSE.APACHE or LICENSE.BSD. Contributions to this software is made
 under the terms of *both* these licenses.
@@ -9065,12 +9065,12 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 platformdirs
-4.9.4
+4.9.6
 MIT
 UNKNOWN
 https://github.com/tox-dev/platformdirs
 A small Python package for determining appropriate platform-specific dirs, e.g. a `user data dir`.
-/home/runner/.pyenv/versions/3.13.13/lib/python3.13/site-packages/platformdirs-4.9.4.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.13/lib/python3.13/site-packages/platformdirs-4.9.6.dist-info/licenses/LICENSE
 MIT License
 
 Copyright (c) 2010-202x The platformdirs developers
@@ -9095,12 +9095,12 @@ SOFTWARE.
 
 
 plotly
-6.6.0
-MIT License
+6.7.0
+MIT
 Chris P <chris@plot.ly>
 https://plotly.com/python/
 An open-source interactive data visualization library for Python
-/home/runner/.pyenv/versions/3.13.13/lib/python3.13/site-packages/plotly-6.6.0.dist-info/licenses/LICENSE.txt
+/home/runner/.pyenv/versions/3.13.13/lib/python3.13/site-packages/plotly-6.7.0.dist-info/licenses/LICENSE.txt
 MIT License
 
 Copyright (c) 2016-2024 Plotly Technologies Inc.
@@ -9185,12 +9185,12 @@ SOFTWARE.
 
 
 prometheus_client
-0.24.1
+0.25.0
 Apache-2.0 AND BSD-2-Clause
 The Prometheus Authors <prometheus-developers@googlegroups.com>
 https://github.com/prometheus/client_python
 Python client for the Prometheus monitoring system.
-/home/runner/.pyenv/versions/3.13.13/lib/python3.13/site-packages/prometheus_client-0.24.1.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.13/lib/python3.13/site-packages/prometheus_client-0.25.0.dist-info/licenses/LICENSE
                                  Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
@@ -9559,12 +9559,12 @@ SOFTWARE.
 
 
 pyarrow
-23.0.1
+24.0.0
 Apache-2.0
 UNKNOWN
 https://arrow.apache.org/
 Python library for Apache Arrow
-/home/runner/.pyenv/versions/3.13.13/lib/python3.13/site-packages/pyarrow-23.0.1.dist-info/licenses/LICENSE.txt
+/home/runner/.pyenv/versions/3.13.13/lib/python3.13/site-packages/pyarrow-24.0.0.dist-info/licenses/LICENSE.txt
 
                                  Apache License
                            Version 2.0, January 2004
@@ -11654,30 +11654,6 @@ SPDX-License-Identifier: Apache-2.0
 
 --------------------------------------------------------------------------------
 
-ci/conan/ is based on code from Conan Package and Dependency Manager.
-
-Copyright (c) 2019 Conan.io
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
---------------------------------------------------------------------------------
-
 3rdparty dependency UCX is redistributed as a dynamically linked shared
 library in certain binary distributions. UCX has the following license:
 
@@ -12815,12 +12791,12 @@ SOFTWARE.
 
 
 rich
-14.3.3
+15.0.0
 MIT License
 Will McGugan
 https://github.com/Textualize/rich
 Render rich text, tables, progress bars, syntax highlighting, markdown and more to the terminal
-/home/runner/.pyenv/versions/3.13.13/lib/python3.13/site-packages/rich-14.3.3.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.13/lib/python3.13/site-packages/rich-15.0.0.dist-info/licenses/LICENSE
 Copyright (c) 2020 Will McGugan
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -14070,12 +14046,12 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 simplejson
-3.20.2
-Academic Free License (AFL); MIT License
+4.1.1
+MIT OR AFL-2.1
 Bob Ippolito
 https://github.com/simplejson/simplejson
 Simple, fast, extensible JSON encoder/decoder for Python
-/home/runner/.pyenv/versions/3.13.13/lib/python3.13/site-packages/simplejson-3.20.2.dist-info/licenses/LICENSE.txt
+/home/runner/.pyenv/versions/3.13.13/lib/python3.13/site-packages/simplejson-4.1.1.dist-info/licenses/LICENSE.txt
 simplejson is dual-licensed software. It is available under the terms
 of the MIT license, or the Academic Free License version 2.1. The full
 text of each license agreement is included below. This code is also
@@ -14947,12 +14923,12 @@ PERFORMANCE OF THIS SOFTWARE.
 
 
 tzdata
-2026.1
+2026.2
 Apache-2.0
 Python Software Foundation
 https://github.com/python/tzdata
 Provider of IANA time zone data
-/home/runner/.pyenv/versions/3.13.13/lib/python3.13/site-packages/tzdata-2026.1.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.13.13/lib/python3.13/site-packages/tzdata-2026.2.dist-info/licenses/LICENSE
 Apache Software License 2.0
 
 Copyright (c) 2020, Paul Ganssle (Google)
@@ -14971,12 +14947,12 @@ limitations under the License.
 
 
 umap-learn
-0.5.11
+0.5.12
 BSD
 UNKNOWN
 http://github.com/lmcinnes/umap
 Uniform Manifold Approximation and Projection
-/home/runner/.pyenv/versions/3.13.13/lib/python3.13/site-packages/umap_learn-0.5.11.dist-info/licenses/LICENSE.txt
+/home/runner/.pyenv/versions/3.13.13/lib/python3.13/site-packages/umap_learn-0.5.12.dist-info/licenses/LICENSE.txt
 BSD 3-Clause License
 
 Copyright (c) 2017, Leland McInnes
