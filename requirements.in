@@ -7,7 +7,8 @@ ipyreact
 jupyter-core>=4.7.0
 matplotlib~=3.0, !=3.9.1
 notebook>6.0.0
-numpy
+numpy>=2.3; python_version >= '3.14' # Minimum version supporting 3.14
+numpy;      python_version < '3.14'
 pandas[parquet]~=2.0
 pmlb>=1.0
 scikit-learn

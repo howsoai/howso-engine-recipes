@@ -73,7 +73,7 @@ jobs:
         run: |
           echo "config-path=$(pwd)/config/latest-mt-traces-howso.yml" >> "$GITHUB_OUTPUT"
 
-  pytest-linux-3-10-st:
+  pytest-linux-3-11-st:
     if: inputs.build-type != 'PR'
     needs: ['metadata']
     uses: howsoai/.github/.github/workflows/pytest.yml@main
@@ -82,10 +82,10 @@ jobs:
       platform: 'ubuntu-latest'
       platform-pretty: 'Linux'
       amalgam-plat-arch: 'linux-amd64'
-      python-version: '3.10'
+      python-version: '3.11'
       config-fp: '~/work/howso-engine-recipes/howso-engine-recipes/config/latest-st-traces-howso.yml'
       config-pretty: 'ST'
-      workers: 'auto'
+      workers: 'off'  # Amalgam > 78.0 is not thread safe at all
       upstream-details: ${{ needs.metadata.outputs.upstream-details }}
       debug: ${{ inputs.debug-mode }}
 
@@ -104,7 +104,7 @@ jobs:
       upstream-details: ${{ needs.metadata.outputs.upstream-details }}
       debug: ${{ inputs.debug-mode }}
 
-  pytest-windows-3-11-mt:
+  pytest-windows-3-12-mt:
     if: inputs.build-type != 'PR'
     needs: ['metadata', 'get-config-path']
     uses: howsoai/.github/.github/workflows/pytest.yml@main
@@ -113,13 +113,13 @@ jobs:
       platform: 'windows-latest'
       platform-pretty: 'Windows'
       amalgam-plat-arch: 'windows-amd64'
-      python-version: '3.11'
+      python-version: '3.12'
       config-fp: ${{ needs.get-config-path.outputs.config-path }}
       config-pretty: 'MT'
       upstream-details: ${{ needs.metadata.outputs.upstream-details }}
       debug: ${{ inputs.debug-mode }}
 
-  pytest-macos-3-12-mt-arm64:
+  pytest-macos-3-14-mt-arm64:
     if: inputs.build-type != 'PR'
     needs: ['metadata']
     uses: howsoai/.github/.github/workflows/pytest.yml@main
@@ -128,7 +128,7 @@ jobs:
       platform: 'macos-latest-xlarge'
       platform-pretty: 'MacOS'
       amalgam-plat-arch: 'darwin-arm64'
-      python-version: '3.12'
+      python-version: '3.14'
       config-fp: '~/work/howso-engine-recipes/howso-engine-recipes/config/latest-mt-traces-howso.yml'
       config-pretty: 'MT'
       upstream-details: ${{ needs.metadata.outputs.upstream-details }}
@@ -137,10 +137,10 @@ jobs:
   release:
     needs:
       - metadata
-      - pytest-linux-3-10-st
+      - pytest-linux-3-11-st
       - pytest-linux-3-13-mt
-      - pytest-windows-3-11-mt
-      - pytest-macos-3-12-mt-arm64
+      - pytest-windows-3-12-mt
+      - pytest-macos-3-14-mt-arm64
     if: inputs.build-type == 'release'
     permissions:
       contents: write
