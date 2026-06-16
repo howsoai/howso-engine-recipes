@@ -83,9 +83,9 @@ For example, if you use `venv`:
     python3 -m venv env
     source env/bin/activate
 
-Or, if you use Anaconda, you might do (assuming Python 3.10):
+Or, if you use Anaconda, you might do (assuming Python 3.14):
 
-    conda create --name howso-recipes-engine python=3.10
+    conda create --name howso-recipes-engine python=3.14
     conda activate howso-recipes-engine
 
 
