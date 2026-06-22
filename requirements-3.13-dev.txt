@@ -4,9 +4,9 @@
 #
 #    pip-compile --allow-unsafe --cert=None --client-cert=None --index-url=None --no-emit-index-url --output-file=requirements-3.13-dev.txt --pip-args=None requirements-dev.in requirements.in
 #
-amalgam-lang==32.0.1
+amalgam-lang==33.0.0
     # via howso-engine
-anyio==4.13.0
+anyio==4.14.0
     # via
     #   httpx
     #   jupyter-server
@@ -36,7 +36,7 @@ beautifulsoup4==4.15.0
     # via nbconvert
 bleach[css]==6.4.0
     # via nbconvert
-certifi==2026.5.20
+certifi==2026.6.17
     # via
     #   howso-engine
     #   httpcore
@@ -82,7 +82,7 @@ geopandas==1.1.3
     # via -r requirements.in
 h11==0.16.0
     # via httpcore
-howso-engine==60.3.1
+howso-engine==61.0.0
     # via
     #   -r requirements.in
     #   howso-visuals
@@ -133,7 +133,7 @@ joblib==1.5.3
     #   pynndescent
     #   sacremoses
     #   scikit-learn
-json5==0.14.0
+json5==0.15.0
     # via jupyterlab-server
 jsonpointer==3.1.1
     # via jsonschema
@@ -144,6 +144,10 @@ jsonschema[format-nongpl]==4.26.0
     #   nbformat
 jsonschema-specifications==2025.9.1
     # via jsonschema
+jupyter-builder==1.0.2
+    # via
+    #   jupyterlab
+    #   notebook
 jupyter-client==8.9.1
     # via
     #   ipykernel
@@ -153,6 +157,7 @@ jupyter-core==5.9.1
     # via
     #   -r requirements.in
     #   ipykernel
+    #   jupyter-builder
     #   jupyter-client
     #   jupyter-server
     #   jupyterlab
@@ -163,7 +168,7 @@ jupyter-events==0.12.1
     # via jupyter-server
 jupyter-lsp==2.3.1
     # via jupyterlab
-jupyter-server==2.19.0
+jupyter-server==2.20.0
     # via
     #   jupyter-lsp
     #   jupyterlab
@@ -172,7 +177,7 @@ jupyter-server==2.19.0
     #   notebook-shim
 jupyter-server-terminals==0.5.4
     # via jupyter-server
-jupyterlab==4.5.8
+jupyterlab==4.6.0
     # via notebook
 jupyterlab-pygments==0.3.0
     # via nbconvert
@@ -212,7 +217,7 @@ matplotlib-inline==0.2.2
     #   ipython
 mdurl==0.1.2
     # via markdown-it-py
-mistune==3.2.1
+mistune==3.3.1
     # via nbconvert
 mmh3==5.2.1
     # via howso-engine
@@ -236,7 +241,7 @@ nest-asyncio2==1.7.2
     # via ipykernel
 networkx==3.6.1
     # via howso-visuals
-notebook==7.5.7
+notebook==7.6.0
     # via -r requirements.in
 notebook-shim==0.2.4
     # via
@@ -342,7 +347,7 @@ pyparsing==3.3.2
     # via matplotlib
 pyproj==3.7.2
     # via geopandas
-pytest==9.1.0
+pytest==9.1.1
     # via
     #   -r requirements-dev.in
     #   pytest-randomly
@@ -410,7 +415,7 @@ scikit-learn==1.9.0
     #   -r requirements.in
     #   pynndescent
     #   umap-learn
-scipy==1.17.1
+scipy==1.18.0
     # via
     #   howso-visuals
     #   pynndescent
@@ -453,7 +458,7 @@ tornado==6.5.7
     #   jupyterlab
     #   notebook
     #   terminado
-tqdm==4.68.2
+tqdm==4.68.3
     # via
     #   sacremoses
     #   umap-learn
@@ -462,6 +467,7 @@ traitlets==5.15.1
     #   ipykernel
     #   ipython
     #   ipywidgets
+    #   jupyter-builder
     #   jupyter-client
     #   jupyter-core
     #   jupyter-events
@@ -501,7 +507,3 @@ websocket-client==1.9.0
     # via jupyter-server
 widgetsnbextension==4.0.15
     # via ipywidgets
-
-# The following packages are considered to be unsafe in a requirements file:
-setuptools==82.0.1
-    # via jupyterlab
