@@ -53,7 +53,7 @@ def main():
 
         # Run analyzation on the trainee.
         print("Analyzing the trainee.")
-        t.analyze(context_features, action_features)
+        t.analyze()
 
         # React to the trainee with the context feature values.
         print("Reacting to 20% reserve test data.")
