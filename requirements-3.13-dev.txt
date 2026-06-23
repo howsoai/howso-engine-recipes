@@ -4,7 +4,7 @@
 #
 #    pip-compile --allow-unsafe --cert=None --client-cert=None --index-url=None --no-emit-index-url --output-file=requirements-3.13-dev.txt --pip-args=None requirements-dev.in requirements.in
 #
-amalgam-lang==33.0.0
+amalgam-lang==33.0.1
     # via howso-engine
 anyio==4.14.0
     # via
@@ -82,7 +82,7 @@ geopandas==1.1.3
     # via -r requirements.in
 h11==0.16.0
     # via httpcore
-howso-engine==61.0.0
+howso-engine==61.1.0
     # via
     #   -r requirements.in
     #   howso-visuals
@@ -217,7 +217,7 @@ matplotlib-inline==0.2.2
     #   ipython
 mdurl==0.1.2
     # via markdown-it-py
-mistune==3.3.1
+mistune==3.3.2
     # via nbconvert
 mmh3==5.2.1
     # via howso-engine

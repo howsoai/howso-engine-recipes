@@ -4986,12 +4986,12 @@ IN THE SOFTWARE.
 
 
 mistune
-3.3.1
+3.3.2
 BSD License
 Hsiaoming Yang <me@lepture.com>
 https://github.com/lepture/mistune
 A sane and fast Markdown parser with useful plugins and renderers
-/home/runner/.pyenv/versions/3.14.6/lib/python3.14/site-packages/mistune-3.3.1.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.14.6/lib/python3.14/site-packages/mistune-3.3.2.dist-info/licenses/LICENSE
 Copyright (c) 2014, Hsiaoming Yang
 
 All rights reserved.
