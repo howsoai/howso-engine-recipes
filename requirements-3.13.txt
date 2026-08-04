@@ -4,9 +4,9 @@
 #
 #    pip-compile --allow-unsafe --cert=None --client-cert=None --index-url=None --no-emit-index-url --output-file=requirements-3.13.txt --pip-args=None requirements.in
 #
-amalgam-lang==34.1.0
+amalgam-lang==34.2.1
     # via howso-engine
-anyio==4.14.1
+anyio==4.14.2
     # via
     #   httpx
     #   jupyter-server
@@ -18,7 +18,7 @@ argon2-cffi-bindings==25.1.0
     # via argon2-cffi
 arrow==1.4.0
     # via isoduration
-asttokens==3.0.1
+asttokens==3.0.2
     # via stack-data
 async-lru==2.3.0
     # via jupyterlab
@@ -34,7 +34,7 @@ beautifulsoup4==4.15.0
     # via nbconvert
 bleach[css]==6.4.0
     # via nbconvert
-certifi==2026.6.17
+certifi==2026.7.22
     # via
     #   howso-engine
     #   httpcore
@@ -42,9 +42,9 @@ certifi==2026.6.17
     #   pyogrio
     #   pyproj
     #   requests
-cffi==2.0.0
+cffi==2.1.1
     # via argon2-cffi-bindings
-charset-normalizer==3.4.7
+charset-normalizer==3.4.9
     # via requests
 choreographer==1.3.0
     # via kaleido
@@ -60,15 +60,13 @@ cycler==0.12.1
     # via matplotlib
 debugpy==1.8.21
     # via ipykernel
-decorator==5.3.1
-    # via ipython
 defusedxml==0.7.1
     # via nbconvert
 executing==2.2.1
     # via stack-data
-faker==40.28.1
+faker==40.36.0
     # via howso-engine
-fastjsonschema==2.21.2
+fastjsonschema==2.22.1
     # via nbformat
 fonttools==4.63.0
     # via matplotlib
@@ -78,7 +76,7 @@ geopandas==1.1.4
     # via -r requirements.in
 h11==0.16.0
     # via httpcore
-howso-engine==62.0.0
+howso-engine==62.5.2
     # via
     #   -r requirements.in
     #   howso-visuals
@@ -100,9 +98,9 @@ ipykernel==7.3.0
     # via
     #   -r requirements.in
     #   jupyterlab
-ipyreact==0.5.0
+ipyreact==0.6.1
     # via -r requirements.in
-ipython==9.15.0
+ipython==9.16.1
     # via
     #   ipykernel
     #   ipywidgets
@@ -138,7 +136,7 @@ jsonschema[format-nongpl]==4.26.0
     #   nbformat
 jsonschema-specifications==2025.9.1
     # via jsonschema
-jupyter-builder==1.0.2
+jupyter-builder==1.2.1
     # via
     #   jupyterlab
     #   notebook
@@ -171,7 +169,7 @@ jupyter-server==2.20.0
     #   notebook-shim
 jupyter-server-terminals==0.5.4
     # via jupyter-server
-jupyterlab==4.6.1
+jupyterlab==4.6.2
     # via notebook
 jupyterlab-pygments==0.3.0
     # via nbconvert
@@ -201,7 +199,7 @@ markupsafe==3.0.3
     # via
     #   jinja2
     #   nbconvert
-matplotlib==3.11.0
+matplotlib==3.11.1
     # via
     #   -r requirements.in
     #   seaborn
@@ -211,11 +209,11 @@ matplotlib-inline==0.2.2
     #   ipython
 mdurl==0.1.2
     # via markdown-it-py
-mistune==3.3.2
+mistune==3.3.4
     # via nbconvert
 mmh3==5.2.1
     # via howso-engine
-narwhals==2.23.0
+narwhals==2.24.0
     # via
     #   plotly
     #   scikit-learn
@@ -232,7 +230,7 @@ nest-asyncio2==1.7.2
     # via ipykernel
 networkx==3.6.1
     # via howso-visuals
-notebook==7.6.0
+notebook==7.6.1
     # via -r requirements.in
 notebook-shim==0.2.4
     # via
@@ -288,19 +286,19 @@ pexpect==4.9.0
     # via ipython
 pillow==12.3.0
     # via matplotlib
-platformdirs==4.10.0
+platformdirs==4.11.0
     # via
     #   choreographer
     #   jupyter-core
-plotly[kaleido]==6.8.0
+plotly[kaleido]==6.9.0
     # via
     #   -r requirements.in
     #   howso-visuals
 pmlb==1.0.1.post3
     # via -r requirements.in
-prometheus-client==0.25.0
+prometheus-client==0.26.0
     # via jupyter-server
-prompt-toolkit==3.0.52
+prompt-toolkit==3.0.53
     # via ipython
 psutil==7.2.2
     # via
@@ -315,7 +313,7 @@ ptyprocess==0.7.0
     #   terminado
 pure-eval==0.2.3
     # via stack-data
-pyarrow==24.0.0
+pyarrow==25.0.0
     # via pandas
 pycparser==3.0
     # via cffi
@@ -342,7 +340,7 @@ python-dateutil==2.9.0.post0
     #   pandas
 python-json-logger==4.1.0
     # via jupyter-events
-pytz==2026.2
+pytz==2026.3.post1
     # via pandas
 pyyaml==6.0.3
     # via
@@ -359,7 +357,7 @@ referencing==0.37.0
     #   jsonschema
     #   jsonschema-specifications
     #   jupyter-events
-regex==2026.6.28
+regex==2026.7.19
     # via sacremoses
 requests==2.34.2
     # via
@@ -409,7 +407,7 @@ six==1.17.0
     # via
     #   python-dateutil
     #   rfc3339-validator
-soupsieve==2.8.4
+soupsieve==2.9.1
     # via beautifulsoup4
 stack-data==0.6.3
     # via ipython
@@ -430,11 +428,11 @@ tornado==6.5.7
     #   jupyterlab
     #   notebook
     #   terminado
-tqdm==4.68.3
+tqdm==4.70.0
     # via
     #   sacremoses
     #   umap-learn
-traitlets==5.15.1
+traitlets==5.16.1
     # via
     #   ipykernel
     #   ipython
@@ -455,7 +453,7 @@ typing-extensions==4.16.0
     #   beautifulsoup4
     #   howso-engine
     #   jupyter-client
-tzdata==2026.2
+tzdata==2026.3
     # via
     #   arrow
     #   pandas
