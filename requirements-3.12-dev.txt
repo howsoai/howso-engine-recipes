@@ -4,7 +4,7 @@
 #
 #    pip-compile --allow-unsafe --cert=None --client-cert=None --index-url=None --no-emit-index-url --output-file=requirements-3.12-dev.txt --pip-args=None requirements-dev.in requirements.in
 #
-amalgam-lang==34.2.1
+amalgam-lang==34.2.6
     # via howso-engine
 anyio==4.14.2
     # via
@@ -80,11 +80,11 @@ geopandas==1.1.4
     # via -r requirements.in
 h11==0.16.0
     # via httpcore
-howso-engine==62.5.2
+howso-engine==64.0.2
     # via
     #   -r requirements.in
     #   howso-visuals
-howso-visuals==4.1.0
+howso-visuals==4.1.1
     # via -r requirements.in
 httpcore==1.0.9
     # via httpx
@@ -142,7 +142,7 @@ jsonschema[format-nongpl]==4.26.0
     #   nbformat
 jsonschema-specifications==2025.9.1
     # via jsonschema
-jupyter-builder==1.2.1
+jupyter-builder==1.2.2
     # via
     #   jupyterlab
     #   notebook
@@ -231,7 +231,7 @@ nbclient==0.11.0
     #   testbook
 nbconvert==7.17.1
     # via jupyter-server
-nbformat==5.10.4
+nbformat==5.11.0
     # via
     #   jupyter-server
     #   nbclient
@@ -268,7 +268,7 @@ numpy==2.4.6 ; python_version < "3.14"
     #   umap-learn
 orjson==3.11.9
     # via kaleido
-packaging==26.2
+packaging==26.3
     # via
     #   geopandas
     #   howso-engine
@@ -435,7 +435,7 @@ six==1.17.0
     # via
     #   python-dateutil
     #   rfc3339-validator
-soupsieve==2.9.1
+soupsieve==2.9.2
     # via beautifulsoup4
 stack-data==0.6.3
     # via ipython
@@ -449,7 +449,7 @@ threadpoolctl==3.6.0
     # via scikit-learn
 tinycss2==1.5.1
     # via bleach
-tornado==6.5.7
+tornado==6.5.8
     # via
     #   -r requirements.in
     #   ipykernel
