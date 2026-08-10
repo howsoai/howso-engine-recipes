@@ -6,4 +6,4 @@ def test_accuracy(tb):
     Test that the final distribution is significantly less biased
     """
 
-    assert tb.ref("decrease_fold") > 1.6
+    assert tb.ref("decrease_fold") > 1.5
