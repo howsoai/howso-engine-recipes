@@ -130,12 +130,12 @@ SOFTWARE.
 
 
 Pygments
-2.20.0
+2.21.0
 BSD-2-Clause
 Georg Brandl <georg@python.org>
 https://pygments.org
 Pygments is a syntax highlighting package written in Python.
-/home/runner/.pyenv/versions/3.14.7/lib/python3.14/site-packages/pygments-2.20.0.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.14.7/lib/python3.14/site-packages/pygments-2.21.0.dist-info/licenses/LICENSE
 Copyright (c) 2006-2022 by the respective authors (see AUTHORS file).
 All rights reserved.
 
@@ -972,12 +972,12 @@ documentation is licensed as follows:
 
 
 charset-normalizer
-3.4.9
+3.5.1
 MIT
 "Ahmed R. TAHRI" <tahri.ahmed@proton.me>
 https://github.com/jawah/charset_normalizer/blob/master/CHANGELOG.md
 The Real First Universal Charset Detector. Open, modern and actively maintained alternative to Chardet.
-/home/runner/.pyenv/versions/3.14.7/lib/python3.14/site-packages/charset_normalizer-3.4.9.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.14.7/lib/python3.14/site-packages/charset_normalizer-3.5.1.dist-info/licenses/LICENSE
 MIT License
 
 Copyright (c) 2025 TAHRI Ahmed R.
@@ -1328,12 +1328,12 @@ SOFTWARE.
 
 
 fastjsonschema
-2.22.1
+2.22.2
 BSD License
 Michal Horejsek
 https://github.com/horejsek/python-fastjsonschema
 Fastest Python implementation of JSON schema
-/home/runner/.pyenv/versions/3.14.7/lib/python3.14/site-packages/fastjsonschema-2.22.1.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.14.7/lib/python3.14/site-packages/fastjsonschema-2.22.2.dist-info/licenses/LICENSE
 Copyright (c) 2018, Michal Horejsek
 All rights reserved.
 
@@ -1927,12 +1927,12 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
 idna
-3.18
+3.19
 BSD-3-Clause
 Kim Davies <kim+pypi@gumleaf.org>
 https://github.com/kjd/idna
 Internationalized Domain Names in Applications (IDNA)
-/home/runner/.pyenv/versions/3.14.7/lib/python3.14/site-packages/idna-3.18.dist-info/licenses/LICENSE.md
+/home/runner/.pyenv/versions/3.14.7/lib/python3.14/site-packages/idna-3.19.dist-info/licenses/LICENSE.md
 BSD 3-Clause License
 
 Copyright (c) 2013-2026, Kim Davies and contributors.
@@ -2131,12 +2131,12 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 ipywidgets
-8.1.8
+8.1.9
 BSD License
 Jupyter Development Team
 http://jupyter.org
 Jupyter interactive widgets
-/home/runner/.pyenv/versions/3.14.7/lib/python3.14/site-packages/ipywidgets-8.1.8.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.14.7/lib/python3.14/site-packages/ipywidgets-8.1.9.dist-info/licenses/LICENSE
 Copyright (c) 2015 Project Jupyter Contributors
 All rights reserved.
 
@@ -2914,12 +2914,12 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 jupyterlab
-4.6.2
+4.6.3
 BSD License
 Jupyter Development Team <jupyter@googlegroups.com>
 https://jupyter.org
 JupyterLab computational environment
-/home/runner/.pyenv/versions/3.14.7/lib/python3.14/site-packages/jupyterlab-4.6.2.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.14.7/lib/python3.14/site-packages/jupyterlab-4.6.3.dist-info/licenses/LICENSE
 Copyright (c) 2015-2025 Project Jupyter Contributors
 All rights reserved.
 
@@ -3022,12 +3022,12 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 jupyterlab_widgets
-3.0.16
+3.0.17
 BSD License
 Jupyter Development Team <jupyter@googlegroups.com>
 https://github.com/jupyter-widgets/ipywidgets
 Jupyter interactive widgets for JupyterLab
-/home/runner/.pyenv/versions/3.14.7/lib/python3.14/site-packages/jupyterlab_widgets-3.0.16.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.14.7/lib/python3.14/site-packages/jupyterlab_widgets-3.0.17.dist-info/licenses/LICENSE
 Copyright (c) 2015 Project Jupyter Contributors
 All rights reserved.
 
@@ -3481,12 +3481,12 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
 llvmlite
-0.48.0
+0.49.0
 BSD-2-Clause AND Apache-2.0 WITH LLVM-exception
 UNKNOWN
 http://llvmlite.readthedocs.io
 lightweight wrapper around basic LLVM functionality
-/home/runner/.pyenv/versions/3.14.7/lib/python3.14/site-packages/llvmlite-0.48.0.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.14.7/lib/python3.14/site-packages/llvmlite-0.49.0.dist-info/licenses/LICENSE
 Copyright (c) 2014, Anaconda Inc.
 All rights reserved.
 
@@ -5111,12 +5111,12 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 nbformat
-5.11.0
+5.11.1
 BSD License
 Jupyter Development Team <jupyter@googlegroups.com>
 https://jupyter.org
 The Jupyter Notebook format
-/home/runner/.pyenv/versions/3.14.7/lib/python3.14/site-packages/nbformat-5.11.0.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.14.7/lib/python3.14/site-packages/nbformat-5.11.1.dist-info/licenses/LICENSE
 BSD 3-Clause License
 
 - Copyright (c) 2001-2015, IPython Development Team
@@ -5231,12 +5231,12 @@ NetworkX is distributed with the 3-clause BSD license.
 
 
 notebook
-7.6.1
+7.6.2
 BSD License
 Jupyter Development Team <jupyter@googlegroups.com>
 https://github.com/jupyter/notebook
 Jupyter Notebook - A web-based notebook environment for interactive computing
-/home/runner/.pyenv/versions/3.14.7/lib/python3.14/site-packages/notebook-7.6.1.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.14.7/lib/python3.14/site-packages/notebook-7.6.2.dist-info/licenses/LICENSE
 BSD 3-Clause License
 
 - Copyright (c) 2001-2015, IPython Development Team
@@ -5309,12 +5309,12 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 numba
-0.66.0
+0.67.0
 BSD License
 UNKNOWN
 https://numba.pydata.org
 compiling Python code using LLVM
-/home/runner/.pyenv/versions/3.14.7/lib/python3.14/site-packages/numba-0.66.0.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.14.7/lib/python3.14/site-packages/numba-0.67.0.dist-info/licenses/LICENSE
 Copyright (c) 2012, Anaconda, Inc.
 All rights reserved.
 
@@ -5342,12 +5342,12 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 orjson
-3.11.9
+3.12.0
 MPL-2.0 AND (Apache-2.0 OR MIT)
 UNKNOWN
 https://github.com/ijl/orjson
 Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy
-/home/runner/.pyenv/versions/3.14.7/lib/python3.14/site-packages/orjson-3.11.9.dist-info/licenses/LICENSE-APACHE
+/home/runner/.pyenv/versions/3.14.7/lib/python3.14/site-packages/orjson-3.12.0.dist-info/licenses/LICENSE-APACHE
                               Apache License
                         Version 2.0, January 2004
                      http://www.apache.org/licenses/
@@ -8602,12 +8602,12 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 platformdirs
-4.11.0
+4.11.3
 MIT
 UNKNOWN
 https://github.com/tox-dev/platformdirs
 A small Python package for determining appropriate platform-specific dirs, e.g. a `user data dir`.
-/home/runner/.pyenv/versions/3.14.7/lib/python3.14/site-packages/platformdirs-4.11.0.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.14.7/lib/python3.14/site-packages/platformdirs-4.11.3.dist-info/licenses/LICENSE
 MIT License
 
 Copyright (c) 2010-202x The platformdirs developers
@@ -9066,12 +9066,12 @@ SOFTWARE.
 
 
 pyarrow
-25.0.0
+25.0.1
 Apache-2.0
 UNKNOWN
 https://arrow.apache.org/
 Python library for Apache Arrow
-/home/runner/.pyenv/versions/3.14.7/lib/python3.14/site-packages/pyarrow-25.0.0.dist-info/licenses/LICENSE.txt
+/home/runner/.pyenv/versions/3.14.7/lib/python3.14/site-packages/pyarrow-25.0.1.dist-info/licenses/LICENSE.txt
 
                                  Apache License
                            Version 2.0, January 2004
@@ -11631,12 +11631,12 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 The above BSD License Applies to all code, even that also covered by Apache 2.0.
 
 python-json-logger
-4.1.0
+4.2.0
 BSD-2-Clause
 Zakaria Zajac <zak@madzak.com>, Nicholas Hairs <info+python-json-logger@nicholashairs.com>
 https://nhairs.github.io/python-json-logger
 JSON Log Formatter for the Python Logging Package
-/home/runner/.pyenv/versions/3.14.7/lib/python3.14/site-packages/python_json_logger-4.1.0.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.14.7/lib/python3.14/site-packages/python_json_logger-4.2.0.dist-info/licenses/LICENSE
 Copyright (c) 2011, Zakaria Zajac and the python-json-logger Contributors
 All rights reserved.
 
@@ -12293,12 +12293,12 @@ THE SOFTWARE.
 
 
 sacremoses
-0.1.1
+0.2.0
 MIT License
 UNKNOWN
 https://github.com/hplt-project/sacremoses
 SacreMoses
-/home/runner/.pyenv/versions/3.14.7/lib/python3.14/site-packages/sacremoses-0.1.1.dist-info/LICENSE
+/home/runner/.pyenv/versions/3.14.7/lib/python3.14/site-packages/sacremoses-0.2.0.dist-info/licenses/LICENSE
 MIT License
 
 Copyright (c) 2020 alvations
@@ -14532,13 +14532,42 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 webencodings
-0.5.1
+0.6.1
 BSD License
-Geoffrey Sneddon
-https://github.com/SimonSapin/python-webencodings
+Simon Sapin <simon.sapin@exyr.org>
+https://github.com/CourtBouillon/webencodings
 Character encoding aliases for legacy web content
-UNKNOWN
-UNKNOWN
+/home/runner/.pyenv/versions/3.14.7/lib/python3.14/site-packages/webencodings-0.6.1.dist-info/licenses/LICENSE
+BSD 3-Clause License
+
+Copyright (c) 2012, Simon Sapin
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this
+   list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice,
+   this list of conditions and the following disclaimer in the documentation
+   and/or other materials provided with the distribution.
+
+3. Neither the name of the copyright holder nor the names of its
+   contributors may be used to endorse or promote products derived from
+   this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
 
 websocket-client
 1.9.0
@@ -14753,12 +14782,12 @@ WebSocket client for Python with low level API options
 
 
 widgetsnbextension
-4.0.15
+4.0.16
 BSD License
 Jupyter Development Team
 http://jupyter.org
 Jupyter interactive widgets for Jupyter Notebook
-/home/runner/.pyenv/versions/3.14.7/lib/python3.14/site-packages/widgetsnbextension-4.0.15.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.14.7/lib/python3.14/site-packages/widgetsnbextension-4.0.16.dist-info/licenses/LICENSE
 Copyright (c) 2015 Project Jupyter Contributors
 All rights reserved.
 
