@@ -4,7 +4,7 @@
 #
 #    pip-compile --allow-unsafe --cert=None --client-cert=None --index-url=None --no-emit-index-url --output-file=requirements-3.12.txt --pip-args=None requirements.in
 #
-amalgam-lang==34.2.6
+amalgam-lang==34.3.1
     # via howso-engine
 anyio==4.14.2
     # via
@@ -14,7 +14,7 @@ anywidget==0.11.0
     # via ipyreact
 argon2-cffi==25.1.0
     # via jupyter-server
-argon2-cffi-bindings==25.1.0
+argon2-cffi-bindings==26.1.0
     # via argon2-cffi
 arrow==1.4.0
     # via isoduration
@@ -64,7 +64,7 @@ defusedxml==0.7.1
     # via nbconvert
 executing==2.2.1
     # via stack-data
-faker==40.36.0
+faker==40.37.0
     # via howso-engine
 fastjsonschema==2.22.2
     # via nbformat
@@ -76,11 +76,11 @@ geopandas==1.1.4
     # via -r requirements.in
 h11==0.16.0
     # via httpcore
-howso-engine==64.0.4
+howso-engine==65.0.6
     # via
     #   -r requirements.in
     #   howso-visuals
-howso-visuals==4.1.1
+howso-visuals==4.1.2
     # via -r requirements.in
 httpcore==1.0.9
     # via httpx
@@ -215,7 +215,7 @@ mistune==3.3.4
     # via nbconvert
 mmh3==5.2.1
     # via howso-engine
-narwhals==2.24.0
+narwhals==2.25.0
     # via
     #   plotly
     #   scikit-learn
@@ -349,7 +349,7 @@ pyyaml==6.0.3
     #   howso-engine
     #   jupyter-events
     #   pmlb
-pyzmq==27.1.0
+pyzmq==27.2.0
     # via
     #   ipykernel
     #   jupyter-client
@@ -389,7 +389,7 @@ scikit-learn==1.9.0
     #   -r requirements.in
     #   pynndescent
     #   umap-learn
-scipy==1.18.0
+scipy==1.18.1
     # via
     #   howso-visuals
     #   pynndescent

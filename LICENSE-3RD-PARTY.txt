@@ -1,10 +1,10 @@
 Faker
-40.36.0
+40.37.0
 MIT License
 joke2k
 https://github.com/joke2k/faker
 Faker is a Python package that generates fake data for you.
-/home/runner/.pyenv/versions/3.14.7/lib/python3.14/site-packages/faker-40.36.0.dist-info/licenses/LICENSE.txt
+/home/runner/.pyenv/versions/3.14.7/lib/python3.14/site-packages/faker-40.37.0.dist-info/licenses/LICENSE.txt
 Copyright (c) 2012 Daniele Faraglia
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -272,15 +272,15 @@ SOFTWARE.
 
 
 argon2-cffi-bindings
-25.1.0
+26.1.0
 MIT
 Hynek Schlawack <hs@ox.cx>
 https://github.com/hynek/argon2-cffi-bindings/blob/main/CHANGELOG.md
 Low-level CFFI bindings for Argon2
-/home/runner/.pyenv/versions/3.14.7/lib/python3.14/site-packages/argon2_cffi_bindings-25.1.0.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.14.7/lib/python3.14/site-packages/argon2_cffi_bindings-26.1.0.dist-info/licenses/LICENSE
 The MIT License (MIT)
 
-Copyright (c) 2021 Hynek Schlawack
+Copyright (c) 2021 Hynek Schlawack and the argon2-cffi-bindings contributors
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -5002,12 +5002,12 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 narwhals
-2.24.0
+2.25.0
 MIT
 Marco Gorelli
 https://github.com/narwhals-dev/narwhals
 Extremely lightweight compatibility layer between dataframe libraries
-/home/runner/.pyenv/versions/3.14.7/lib/python3.14/site-packages/narwhals-2.24.0.dist-info/licenses/LICENSE.md
+/home/runner/.pyenv/versions/3.14.7/lib/python3.14/site-packages/narwhals-2.25.0.dist-info/licenses/LICENSE.md
 MIT License
 
 Copyright (c) 2024 to present, Marco Gorelli
@@ -11677,12 +11677,12 @@ DEALINGS IN THE SOFTWARE.
 
 
 pyzmq
-27.1.0
-BSD License
+27.2.0
+BSD-3-Clause
 Brian E. Granger, Min Ragan-Kelley
 https://pyzmq.readthedocs.org
 Python bindings for 0MQ
-/home/runner/.pyenv/versions/3.14.7/lib/python3.14/site-packages/pyzmq-27.1.0.dist-info/licenses/LICENSE.md
+/home/runner/.pyenv/versions/3.14.7/lib/python3.14/site-packages/pyzmq-27.2.0.dist-info/licenses/LICENSE.md
 BSD 3-Clause License
 
 Copyright (c) 2009-2012, Brian Granger, Min Ragan-Kelley
@@ -12444,12 +12444,12 @@ requirements of the license of GCC.
 
 
 scipy
-1.18.0
+1.18.1
 BSD License
 UNKNOWN
 https://scipy.org/
 Fundamental algorithms for scientific computing in Python
-/home/runner/.pyenv/versions/3.14.7/lib/python3.14/site-packages/scipy-1.18.0.dist-info/LICENSE.txt
+/home/runner/.pyenv/versions/3.14.7/lib/python3.14/site-packages/scipy-1.18.1.dist-info/LICENSE.txt
 Copyright (c) 2001-2002 Enthought, Inc. 2003, SciPy Developers.
 All rights reserved.
 
