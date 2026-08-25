@@ -8565,12 +8565,12 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 pip-tools
-7.5.0
+7.4.1
 BSD License
 Vincent Driessen <me@nvie.com>
 https://github.com/jazzband/pip-tools/
 pip-tools keeps your pinned dependencies fresh.
-/home/runner/.pyenv/versions/3.14.7/lib/python3.14/site-packages/pip_tools-7.5.0.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.14.7/lib/python3.14/site-packages/pip_tools-7.4.1.dist-info/LICENSE
 BSD 3-Clause License
 
 Copyright (c). All rights reserved.
@@ -8602,12 +8602,12 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 platformdirs
-4.11.3
+4.11.4
 MIT
 UNKNOWN
 https://github.com/tox-dev/platformdirs
 A small Python package for determining appropriate platform-specific dirs, e.g. a `user data dir`.
-/home/runner/.pyenv/versions/3.14.7/lib/python3.14/site-packages/platformdirs-4.11.3.dist-info/licenses/LICENSE
+/home/runner/.pyenv/versions/3.14.7/lib/python3.14/site-packages/platformdirs-4.11.4.dist-info/licenses/LICENSE
 MIT License
 
 Copyright (c) 2010-202x The platformdirs developers
