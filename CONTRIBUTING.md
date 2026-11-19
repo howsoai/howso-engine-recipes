@@ -12,3 +12,4 @@ All recipes should be visually inspected, but there are a couple of specific thi
 - In `model_monitoring.ipynb` ensure that there is a clear distinction between the data pre-and post the start of the
   kiwi data.
 - In `auditing_and_editing.ipynb` ensure that the prediction after the edit results in the correct predicted value.
+- Always consider a message informing the user of a newer version of howso-engine as a blocker.
