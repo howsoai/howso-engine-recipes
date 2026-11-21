@@ -101,12 +101,12 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 PyYAML
-6.0.3
+6.0.4
 MIT License
 Kirill Simonov
 https://pyyaml.org/
 YAML parser and emitter for Python
-/home/runner/work/_temp/licenses/lib/python3.12/site-packages/pyyaml-6.0.3.dist-info/licenses/LICENSE
+/home/runner/work/_temp/licenses/lib/python3.12/site-packages/pyyaml-6.0.4.dist-info/licenses/LICENSE
 Copyright (c) 2017-2021 Ingy döt Net
 Copyright (c) 2006-2016 Kirill Simonov
 
@@ -882,12 +882,12 @@ limitations under the License.
 
 
 certifi
-2026.10.23
+2026.11.20
 Mozilla Public License 2.0 (MPL 2.0)
 Kenneth Reitz
 https://github.com/certifi/python-certifi
 Python package for providing Mozilla's CA Bundle.
-/home/runner/work/_temp/licenses/lib/python3.12/site-packages/certifi-2026.10.23.dist-info/licenses/LICENSE
+/home/runner/work/_temp/licenses/lib/python3.12/site-packages/certifi-2026.11.20.dist-info/licenses/LICENSE
 This package contains a modified version of ca-bundle.crt:
 
 ca-bundle.crt -- Bundle of CA Root Certificates
