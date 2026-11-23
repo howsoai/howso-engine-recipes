@@ -1,4 +1,4 @@
-tb_filename = "model_monitoring.ipynb"
+tb_filename = "drift_monitoring.ipynb"
 
 
 def test_drift_monitoring(tb):
