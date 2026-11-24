@@ -268,7 +268,7 @@ numpy==2.5.5 ; python_version >= "3.14"
     #   seaborn
     #   shapely
     #   umap-learn
-packaging==26.3
+packaging==26.4
     # via
     #   geopandas
     #   howso-engine
@@ -384,7 +384,7 @@ referencing==0.37.0
     #   jsonschema
     #   jsonschema-specifications
     #   jupyter-events
-regex==2026.11.19
+regex==2026.11.23
     # via sacremoses
 requests==2.34.2
     # via

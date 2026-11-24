@@ -6252,12 +6252,12 @@ Public License instead of this License.  But first, please read
 
 
 packaging
-26.3
+26.4
 Apache-2.0 OR BSD-2-Clause
 Donald Stufft <donald@stufft.io>
 https://github.com/pypa/packaging
 Core utilities for Python packages
-/home/runner/work/_temp/licenses/lib/python3.12/site-packages/packaging-26.3.dist-info/licenses/LICENSE
+/home/runner/work/_temp/licenses/lib/python3.12/site-packages/packaging-26.4.dist-info/licenses/LICENSE
 This software is made available under the terms of *either* of the licenses
 found in LICENSE.APACHE or LICENSE.BSD. Contributions to this software is made
 under the terms of *both* these licenses.
@@ -12335,12 +12335,12 @@ THE SOFTWARE.
 
 
 regex
-2026.11.19
+2026.11.23
 Apache-2.0 AND CNRI-Python
 Matthew Barnett <regex@mrabarnett.plus.com>
 https://github.com/mrabarnett/mrab-regex
 Alternative regular expression module, to replace re.
-/home/runner/work/_temp/licenses/lib/python3.12/site-packages/regex-2026.11.19.dist-info/licenses/LICENSE.txt
+/home/runner/work/_temp/licenses/lib/python3.12/site-packages/regex-2026.11.23.dist-info/licenses/LICENSE.txt
 This work was derived from the 're' module of CPython 2.6 and CPython 3.1,
 copyright (c) 1998-2001 by Secret Labs AB and licensed under CNRI's Python 1.6
 license.
